@@ -3,6 +3,7 @@ mapreduce-agr1997 created by GitHub Classroom
 
 ## First Deliverable Instructions:
 This project is part of a group submission. Grader may refer to any of Dylan Finkbeiner, Kathyrn Ricci or my code.
+Our development git repo: https://github.com/dylanfinkbeiner/532-mapreduce
 
 To run project:
 -Ensure machine can run ant commands to build the jar file:
