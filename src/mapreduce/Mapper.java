@@ -7,10 +7,19 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.lang.reflect.InvocationTargetException;
+import java.net.Socket;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 
-//Does this NEED to be abstract? Why/why not
+/*
+ * Users define their map functions by creating a class which extends this 
+ * abstract Mapper class and implements the abstract function "map". The rest
+ * of the code in this class facilitates the work of a mapper worker.
+ */
 public abstract class Mapper {
+	private static final int PORT = 9002;
 	private int numWorkers;
 	private BufferedWriter[] writers;
 	private Path[] intermediateFilePaths;
@@ -19,8 +28,14 @@ public abstract class Mapper {
 	private Path intermediateDir;
 	private int workerNumber;
 	
-	public abstract void map(MapInput input);
+	public abstract void map(MapInput input); // Implemented by the user
 	
+	/*
+	 * This function carries out the work of a single mapper worker, which
+	 * involves finding the appropriate byte ranges of the input file to 
+	 * read and creating a corresponding MapInput object, and finally invoking
+	 * the user-defined "map" function.
+	 */
 	public void execute() throws IOException {
 		// TODO What could go wrong with casting inputSize from long down to int here?
 		int inputSize = Math.toIntExact(this.inputSize);
@@ -89,7 +104,7 @@ public abstract class Mapper {
 		this.setIntermediateFilePaths();
 		this.setWriters();
 		
-		// Pass reader to map()
+		// Pass reader to user-defined map
 		this.map(mapInput);
 		
 		// Close writer and reader streams
@@ -97,6 +112,11 @@ public abstract class Mapper {
 		reader.close();
 	}
 	
+	/*
+	 * Emit hashes the incoming key to determine which reducer worker it will
+	 * be processed by, and then writes the (kev,value) pair to the corresponding 
+	 * buffer for that reducer worker.
+	 */
 	public void emit(String key, String value) throws IOException {
 		//System.out.printf("Mapper emitting key: %s, value %s", key, value);
 		
@@ -141,8 +161,12 @@ public abstract class Mapper {
 		}
 	}
 	
-	private Path[] getIntermediateFilePaths() {
-		return this.intermediateFilePaths;
+	private String[] getIntermediateFilePaths() {
+		String[] paths = new String[this.numWorkers];
+		for(int i=0; i<this.numWorkers; i++) {
+			paths[i] = this.intermediateFilePaths[i].toString();
+		}
+		return paths;
 	}
 	
 	private void setWriters() {
@@ -167,6 +191,79 @@ public abstract class Mapper {
 				e.printStackTrace();
 			}
 		}
+	}
+	
+	public static void main(String[] args) throws IOException {
+		String udfMapperClassName = args[0];
+		int numWorkers = Integer.parseInt(args[1]);
+		int workerNum = Integer.parseInt(args[2]);
+		long inputSize = Long.parseLong(args[3]);
+		Path intermediateDirName = Paths.get(args[4]);
+		Path inputFilePath = Paths.get(args[5]);
+		
+		Socket clientSocket = new Socket("localhost", PORT);
+		
+		BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+		PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
+//		out.printf("%d\n", workerNum); // Send worker number
+		
+		Thread pinger = new Thread(new ServerConnection(clientSocket));
+		pinger.start();
+		
+		Mapper m = null;
+		try {
+			Class udfMapperClass = Class.forName(udfMapperClassName);
+			try {
+				m = (Mapper) udfMapperClass.getConstructor().newInstance();
+				
+				m.setN(numWorkers); // Give mapper the # of workers
+				m.setWorkerNumber(workerNum); // Give mapper its worker number
+				m.setInputSize(inputSize); // Give mapper the file size
+				m.setIntermediate(intermediateDirName);
+				m.setInputFilePath(inputFilePath);
+				
+			} catch (InstantiationException | IllegalAccessException | IllegalArgumentException
+					| InvocationTargetException | NoSuchMethodException | SecurityException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		} catch (ClassNotFoundException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		try {
+			m.execute();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		String[] paths = m.getIntermediateFilePaths();
+		
+		// Stop pinging
+		pinger.interrupt();
+		try {
+			pinger.join();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		String fp = "Filepaths\n" + String.join("\t", paths);
+		out.println(fp);
+		
+		// Wait to hear "received"
+		while(true) {
+			String line = in.readLine();
+			
+			if(line != null && line.contains("received")) {
+				System.err.printf("Received msg from server\n");
+				break;
+			}
+		}
+		
+		//out.close();
+		clientSocket.close();
 	}
 	
 }

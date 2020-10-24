@@ -3,23 +3,27 @@ package mapreduce;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.file.Files;
 import java.nio.file.LinkOption;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Arrays;
 
-// Specification that includes info about file locations, # of map/reduce tasks, names of UDFs
+/*
+ * A class for reading in configuration files for map reduce jobs
+ * and storing the configuration details in an object which gets passed
+ * to be used by MapReduce. Info includes the path to the input file,
+ * the number N of workers, and the directory where the outputs will be
+ * placed.
+ */
 public class MapReduceSpecification {
 	private int n;
 	private Path input;
 	private Path output;
 	private String name;
-	
+
 	public MapReduceSpecification(String config_file, String job_name) throws IOException {		
 		FileInputStream fileStream = new FileInputStream(config_file);
 		InputStreamReader inputReader = new InputStreamReader(fileStream);

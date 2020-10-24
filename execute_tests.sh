@@ -1,11 +1,16 @@
 #!/bin/bash
 
 rm -r target/
-rm -r word-count-app/
+rm -r word-count-output/
+rm mapper_log.txt
+rm reducer_log.txt
 
 # Compile the Word Count test application with our library using Ant.
 ant -buildfile build.xml
-ant build-jar
+#ant build-mapper-jar
+ant build-wc-jar
+
+#cp -r test/ target/classes/
 
 # Execute the resulting jar.
 java -jar ./test/wordcountapp.jar

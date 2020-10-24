@@ -3,6 +3,12 @@ package mapreduce;
 import java.io.BufferedReader;
 import java.io.IOException;
 
+/*
+ * A class which wraps around a BufferedReader so that the user-defined
+ * function can treat the resulting object like a standard file reader
+ * and yet the mapper worker knows where to start and stop reading the file,
+ * based on the work inside Mapper.java's execute() function.
+ */
 public class MapInput {
 	private BufferedReader reader;
 	private int numCharsToRead;
