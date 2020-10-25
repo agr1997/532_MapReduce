@@ -1,3 +1,11 @@
+Worker: 0	Start: 0	End: 41205	Window Width: 41206
+Worker: 0	Start: 0	End: 41212	numCharsToRead: 41206
+Worker: 1	Start: 41205	End: 82411	Window Width: 41207
+Worker: 1	Start: 41374	End: 82956	numCharsToRead: 41207
+Worker: 2	Start: 82411	End: 123617	Window Width: 41207
+Worker: 2	Start: 82957	End: 123658	numCharsToRead: 41207
+Worker: 3	Start: 123617	End: 164822	Window Width: 41206
+Worker: 3	Start: 123659	End: 164822	numCharsToRead: 41206
 Received msg from server
 Received msg from server
 Received msg from server

@@ -45,6 +45,7 @@ public abstract class Mapper {
 		int start = this.workerNumber * inputSize / this.numWorkers;
 		int end = Math.min((this.workerNumber + 1) * inputSize / this.numWorkers, inputSize-1);
 		int windowWidth = end-start+1;
+		System.err.printf("Worker: %d\tStart: %d\tEnd: %d\tWindow Width: %d\n", this.workerNumber, start, end, windowWidth);
 		// Note: in the case that n=1, then end= 1 * inputSize / 1 = inputSize
 		// So in total should read from byte 0=start up to and including byte (inputSize-1)=end
 		// and a given worker will reader from as early as the (start+1)-th byte up to and including the end-th
@@ -78,6 +79,8 @@ public abstract class Mapper {
 						+ "without seeing a newline while adjusting 'start'.\n", this.workerNumber);
 				e.printStackTrace();
 			}
+		} else {
+			reader.skip(end);
 		}
 		
 		// Adjust end
@@ -98,6 +101,7 @@ public abstract class Mapper {
 		
 		reader.reset(); // Should take us back to the updated starting point for this chunk
 		int numCharsToRead = end-start+1;
+		System.err.printf("Worker: %d\tStart: %d\tEnd: %d\tnumCharsToRead: %d\n", this.workerNumber, start, end, numCharsToRead);
 		MapInput mapInput = new MapInput(reader, numCharsToRead);
 		
 		// Set up writers
