@@ -30,7 +30,7 @@ public class MapReduce {
 	private MapReduceSpecification spec;
 	private ServerSocket masterSocket;
 	private static final int PORT = 9002;
-	private static final int masterSocketTimeout = 500; // In milliseconds
+	private static final int masterSocketTimeout = 800; // In milliseconds
 
 	/**
 	 * Constructor.

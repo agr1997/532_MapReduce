@@ -1,5 +1,5 @@
 Reducer:1
-PID=287328
+PID=288517
 Waiting for filepaths.
 
 Received filepaths.
