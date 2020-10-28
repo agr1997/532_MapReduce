@@ -21,7 +21,9 @@ Same as before. Run bash script:
   >./execute_tests.sh
   
 ## FINAL SUBMISSION
-  
+
+*Refer to Dylan Finkbeiner's repo for group submission.*
+
 [This is the one official submission that will be shared by 
 Dylan Finkbeiner, Kathryn Ricci, and Arvind Govindaraja.]
 
