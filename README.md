@@ -24,9 +24,6 @@ Same as before. Run bash script:
 
 *Refer to Dylan Finkbeiner's repo for group submission.*
 
-[This is the one official submission that will be shared by 
-Dylan Finkbeiner, Kathryn Ricci, and Arvind Govindaraja.]
-
 NOTE: Our design document can be found in the "docs" folder.
 
 ### INTRODUCTION
