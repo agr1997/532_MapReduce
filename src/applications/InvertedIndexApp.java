@@ -5,49 +5,34 @@ import java.nio.file.*;
 import java.util.*;
 import mapreduce.*;
 
-/*
- * Given text annotated with line numbers, return an index
- * mapping each word to the lines it appears in.
+/**
+ * An application which takes in a text file annotated with line numbers
+ * and outputs an index mapping each word to the list of lines 
+ * in which it appears.
  */
 public class InvertedIndexApp {
 	public static class InvertedIndexMapper extends Mapper {
 
 		// User-defined mapper for the InvertedIndex function
 		@Override
-		public void map(MapInput input) {
+		public void map(MapInput input) throws IOException {
 
 			String line = null;
-			try {
-				line = input.readLine();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-			while(line != null) {
+			line = input.readLine();
+			while (line != null) {
 				// Skip over white space to next word
 				String[] words = line.trim().split(" ");
 
-				// Convert to list of Strings
-				ArrayList<String> wordsList = (ArrayList<String>)Arrays.asList(words);
-
 				// The first token is the line number
-				String lineNum = wordsList.remove(0);
+				String lineNum = words[0];
 
 				// The remaining tokens are the words on that line
-				for(String word : wordsList) {
-					try {
-						emit(word, lineNum);
-					} catch (IOException e) {
-						e.printStackTrace();
-					}
+				for (int i = 1; i < words.length; i++) {
+					emit(words[i], lineNum);
 				}
 
 				// Read next line
-				try {
-					line = input.readLine();
-				} catch (IOException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
+				line = input.readLine();
 			}
 		}
 	}
@@ -56,75 +41,47 @@ public class InvertedIndexApp {
 
 		// UDF reducer
 		@Override
-		public void reduce(ReduceInput input) {
-			String line = null;
-			try {
-				line = input.readLine();
-			} catch (IOException e) {
-				e.printStackTrace();
+		public void reduce(ReduceInput input) throws IOException {
+
+			ArrayList<Integer> values = new ArrayList<Integer>();
+
+			while (!input.done()) {
+				String value = input.value();
+				values.add(Integer.valueOf(value));
+				input.nextValue();
 			}
-
-			while(line != null) {
-				// Skip over white space to next word
-				line = line.trim();
-
-				// Extract key and value-list from line
-				String[] keyValList = line.substring(1,line.length()-1).split("%&%");
-				String key = keyValList[0];
-				String[] valListString = keyValList[1].split(" ");
-
-				// Convert String array to int array
-				int[] valListInt = new int[valListString.length];
-				for (int i=0; i < valListString.length; i++) {
-					valListInt[i] = Integer.valueOf(valListString[i]);
-				}
-				// Sort the int array
-				Arrays.sort(valListInt);
-
-				// Convert value-list to String in desired print format
-				String sortedValString = "[";
-				for ( int val : valListInt) {
-					sortedValString += String.valueOf(val) + ", ";
-				}
-				int stringLength = sortedValString.length();
-				sortedValString = sortedValString.substring(0, stringLength - 2) + "]";
-
-				// Emit
-				try {
-					emit(key, sortedValString);
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
-
-				// Read next line
-				try {
-					line = input.readLine();
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
+			int[] valuesArray = new int[values.size()];
+			for (int i = 0; i < values.size(); i++) {
+				valuesArray[i] = values.get(i);
 			}
+			Arrays.sort(valuesArray);
+
+			// Format into one string
+			String sortedValString = "[";
+			for (int val : valuesArray) {
+				sortedValString += String.valueOf(val) + ", ";
+			}
+			int stringLength = sortedValString.length();
+			sortedValString = sortedValString.substring(0, stringLength - 2) + "]";
+
+			emit(sortedValString);
 
 		}
 	}
 
-
 	public static void main(String[] args) throws IOException {
-		// Need to get absolute path to pass to MapReduceSpecification, but will be different for each system we run on
-		String config_path = "./config/invertedindex_cfg.txt";
-		//String absolute_cfg = new File(config_path).getCanonicalPath();
-
-		Path realPath = Paths.get(config_path).toRealPath(LinkOption.NOFOLLOW_LINKS);
-		String absolute_path = realPath.toString();
-
+		if (args.length == 0) {
+			System.out.println("Write the name of a config file on the command line.");
+		}
+		String cfgRelPath = "./config/" + args[0];
+		String cfgAbsPath = Paths.get(cfgRelPath).toRealPath(LinkOption.NOFOLLOW_LINKS).toString();
 
 		// Load specification from config file
-		MapReduceSpecification spec = new MapReduceSpecification(absolute_path, "Inverted Index");
-//		System.out.printf("Spec has: N=%d ; input=%s ; output=%s ; name=%s \n",
-//				spec.getN(), spec.getInput(), spec.getOutput(), spec.getName());
+		MapReduceSpecification spec = new MapReduceSpecification(cfgAbsPath, "Inverted Index");
 
 		MapReduce mr = new MapReduce(spec, InvertedIndexMapper.class, InvertedIndexReducer.class);
 
-		int result = mr.execute();
+		mr.execute(args);
 	}
 
 }

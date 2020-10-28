@@ -1,0 +1,7 @@
+Mapper:1
+PID=288013
+Mapper: 1 	 Start: 96604 	 End: 193207
+Worker: 1	Start: 96604	End: 193207	Window Width: 96604
+About to skip, end is:[96604] start is: [193207]: i1 is [552].Sta Worker: 1	i1: 552
+Worker: 1	Start: 97157	End: 193207	numCharsToRead: 96051
+3062 

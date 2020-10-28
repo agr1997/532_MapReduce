@@ -1,0 +1,3 @@
+N : 7
+input : resources/hamlet.txt
+output : ./out

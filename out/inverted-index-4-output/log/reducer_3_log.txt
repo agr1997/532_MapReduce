@@ -1,0 +1,7 @@
+Reducer:3
+PID=287909
+Waiting for filepaths.
+
+Received filepaths.
+
+Starting pinger.

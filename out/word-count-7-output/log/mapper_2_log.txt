@@ -1,0 +1,7 @@
+Mapper:2
+PID=287144
+Mapper: 2 	 Start: 47092 	 End: 70638
+Worker: 2	Start: 47092	End: 70638	Window Width: 23547
+About to skip, end is:[47092] start is: [70638]: i1 is [44].Sta Worker: 2	i1: 44
+End Worker: 2	i1: 37
+Worker: 2	Start: 47137	End: 70675	numCharsToRead: 23539

@@ -1,0 +1,6 @@
+Mapper:6
+PID=287283
+Mapper: 6 	 Start: 141276 	 End: 164822
+Worker: 6	Start: 141276	End: 164822	Window Width: 23547
+About to skip, end is:[141276] start is: [164822]: i1 is [35].Sta Worker: 6	i1: 35
+Worker: 6	Start: 141312	End: 164822	numCharsToRead: 23511

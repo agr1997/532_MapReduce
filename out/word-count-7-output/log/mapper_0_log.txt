@@ -1,0 +1,6 @@
+Mapper:0
+PID=287105
+Mapper: 0 	 Start: 0 	 End: 23546
+Worker: 0	Start: 0	End: 23546	Window Width: 23547
+End Worker: 0	i1: 13
+Worker: 0	Start: 0	End: 23559	numCharsToRead: 23560

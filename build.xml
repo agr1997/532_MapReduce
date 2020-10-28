@@ -18,6 +18,7 @@
 	</path>
 	<target name="init">
 		<mkdir dir="target/classes" />
+		<mkdir dir="out" />
 		<copy includeemptydirs="false" todir="target/classes">
 			<fileset dir="src">
 				<exclude name="**/*.launch" />
@@ -27,6 +28,7 @@
 	</target>
 	<target name="clean">
 		<delete dir="target/classes" />
+		<delete dir="out" />
 	</target>
 	<target depends="clean" name="cleanall" />
 	<target depends="build-subprojects,build-project" name="build" />
@@ -52,12 +54,20 @@
 			</manifest>
 		</jar>
 	</target>
-  <target name="build-mapper-jar">
-  	<jar destfile="test/mapper.jar" basedir="target/classes" excludes="**/Test.class">
-    <!--<zipfileset includes="**/*.class" src="test/externalsortinginjava-0.6.0.jar" /> -->
-  		<manifest>
-  			<attribute name="Main-Class" value="mapreduce.Mapper" />
-  		</manifest>
-  	</jar>
-  </target>
+	<target name="build-index-jar">
+		<jar destfile="test/indexapp.jar" basedir="target/classes" excludes="**/Test.class">
+			<zipfileset includes="**/*.class" src="test/externalsortinginjava-0.6.0.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="applications.InvertedIndexApp" />
+			</manifest>
+		</jar>
+	</target>
+	<target name="build-grep-jar">
+		<jar destfile="test/grepapp.jar" basedir="target/classes" excludes="**/Test.class">
+			<zipfileset includes="**/*.class" src="test/externalsortinginjava-0.6.0.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="applications.GrepApp" />
+			</manifest>
+		</jar>
+	</target>
 </project>

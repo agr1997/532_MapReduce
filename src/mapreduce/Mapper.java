@@ -8,18 +8,21 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.lang.management.ManagementFactory;
+import java.lang.management.RuntimeMXBean;
 import java.lang.reflect.InvocationTargetException;
 import java.net.Socket;
+import java.net.SocketException;
+import java.net.SocketTimeoutException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-/*
- * Users define their map functions by creating a class which extends this 
- * abstract Mapper class and implements the abstract function "map". The rest
- * of the code in this class facilitates the work of a mapper worker.
+/**
+ * Users define their map functions by creating a class which extends this
+ * abstract Mapper class and implements the abstract function "map". The rest of
+ * the code in this class facilitates the work of a mapper worker.
  */
 public abstract class Mapper {
-	private static final int PORT = 9002;
 	private int numWorkers;
 	private BufferedWriter[] writers;
 	private Path[] intermediateFilePaths;
@@ -27,247 +30,314 @@ public abstract class Mapper {
 	private Path inputFilePath;
 	private Path intermediateDir;
 	private int workerNumber;
-	
-	public abstract void map(MapInput input); // Implemented by the user
-	
-	/*
-	 * This function carries out the work of a single mapper worker, which
-	 * involves finding the appropriate byte ranges of the input file to 
-	 * read and creating a corresponding MapInput object, and finally invoking
-	 * the user-defined "map" function.
+	private static final int workerSocketTimeout = 500; // In milliseconds
+	private static final int PORT = 9002;
+
+	public abstract void map(MapInput input) throws IOException; // Implemented by the user
+
+	/**
+	 * Carries out the work of a single mapper worker, which involves finding
+	 * appropriate byte ranges of the input file to read and creating a
+	 * corresponding MapInput object, and finally invoking the user-defined "map"
+	 * function.
 	 */
 	public void execute() throws IOException {
-		// TODO What could go wrong with casting inputSize from long down to int here?
 		int inputSize = Math.toIntExact(this.inputSize);
-		
-		// Suggested byte offsets
-		// TODO Do we need a ceiling operation on inputSize / this.numWorkers here?
+
+		// Coarse byte offsets based solely on worker number
 		int start = this.workerNumber * inputSize / this.numWorkers;
-		int end = Math.min((this.workerNumber + 1) * inputSize / this.numWorkers, inputSize-1);
-		int windowWidth = end-start+1;
-		System.err.printf("Worker: %d\tStart: %d\tEnd: %d\tWindow Width: %d\n", this.workerNumber, start, end, windowWidth);
+		int end = Math.min((this.workerNumber + 1) * inputSize / this.numWorkers, inputSize - 1);
+		if (this.workerNumber == this.numWorkers - 1) {
+			end = inputSize - 1;
+		}
+		System.err.printf(String.format("Mapper: %d \t Start: %d \t End: %d\n", this.workerNumber, start, end));
+		int windowWidth = end - start + 1;
+		System.err.printf("Worker: %d\tStart: %d\tEnd: %d\tWindow Width: %d\n", this.workerNumber, start, end,
+				windowWidth);
 		// Note: in the case that n=1, then end= 1 * inputSize / 1 = inputSize
-		// So in total should read from byte 0=start up to and including byte (inputSize-1)=end
-		// and a given worker will reader from as early as the (start+1)-th byte up to and including the end-th
-		
+		// So in total should read from byte 0=start up to and including byte
+		// (inputSize-1)=end
+		// and a given worker will reader from as early as the (start+1)-th byte up to
+		// and including the end-th
+
 		FileInputStream fileStream = null;
 		try {
 			fileStream = new FileInputStream(this.inputFilePath.toString());
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
+			System.exit(1);
 		}
 		InputStreamReader inputReader = new InputStreamReader(fileStream);
 		BufferedReader reader = new BufferedReader(inputReader);
-		
-		// Adjust start
+
+		// Adjust start byte
 		reader.skip(start); // The first byte we read will be the (start)-th, counting up from zero
-		reader.mark(inputSize); // TODO probably a smarter readAheadLimit to choose here
-		if(start != 0) {
-			// Find the next newline starting from start
+		reader.mark(inputSize);
+		if (start != 0) {
+			// Find the next newline starting from 'start'
 			try {
 				String line = reader.readLine();
-				if(line == null || (line.length() >= windowWidth)) {
+				if (line == null || (line.length() >= windowWidth)) {
 					throw new IOException();
 				}
-				int i = line.length(); // skip(start+i) would make the next char read in '\n'
+				int i1 = line.length(); // Length of readLine - (eol/cr/nl) from start
+				System.err.printf("About to skip, end is:[%d] start is: [%d]: i1 is [%d].", start, end, i1);
 				reader.mark(inputSize);
-				reader.skip(end - (start + i + 1)); // Now skip to the coarse byte boundary for 'end'
-				start = start + i + 1;
+				reader.skip(end - (start + i1 + 1)); // Now skip to the coarse byte boundary for 'end'
+				start = start + i1 + 1;
+				System.err.printf("Sta Worker: %d\ti1: %d\n", this.workerNumber, i1);
 			} catch (IOException e) { // TODO IOException is not really the most precise exception to use here
-				System.out.printf("Worker %d reached 'end' "
-						+ "without seeing a newline while adjusting 'start'.\n", this.workerNumber);
+				System.out.printf("Worker %d reached 'end' " + "without seeing a newline while adjusting 'start'.\n",
+						this.workerNumber);
 				e.printStackTrace();
 			}
 		} else {
 			reader.skip(end);
 		}
-		
-		// Adjust end
-		if(end != inputSize-1) {
+
+		// Adjust end byte
+		if (end != inputSize - 1) {
 			try {
 				String line = reader.readLine();
-				if(line == null || (line.length() >= windowWidth)) {
+				if (line == null || (line.length() >= windowWidth)) {
 					throw new IOException();
 				}
-				int i = line.length();
-				end = end + i;
+				int i1 = line.length();
+				end = end + i1;
+				System.err.printf("End Worker: %d\ti1: %d\n", this.workerNumber, i1);
 			} catch (IOException e) {
-				System.out.printf("Worker %d passed worker %d's 'end' without seeing a newline "
-						+ "while adjusting its own 'end'.\n", this.workerNumber, this.workerNumber+1);
+				System.out.printf("Worker %d pasqsed worker %d's 'end' without seeing a newline "
+						+ "while adjusting its own 'end'.\n", this.workerNumber, this.workerNumber + 1);
 				e.printStackTrace();
 			}
 		}
-		
+
 		reader.reset(); // Should take us back to the updated starting point for this chunk
-		int numCharsToRead = end-start+1;
-		System.err.printf("Worker: %d\tStart: %d\tEnd: %d\tnumCharsToRead: %d\n", this.workerNumber, start, end, numCharsToRead);
+		int numCharsToRead = end - start + 1;
+		System.err.printf("Worker: %d\tStart: %d\tEnd: %d\tnumCharsToRead: %d\n", this.workerNumber, start, end,
+				numCharsToRead);
 		MapInput mapInput = new MapInput(reader, numCharsToRead);
-		
-		// Set up writers
-		this.setIntermediateFilePaths();
-		this.setWriters();
-		
-		// Pass reader to user-defined map
+
+		// Set up file paths, writers, and call the user-defined map function.
+		this.setupIntermediateFilePaths();
+		this.setupWriters();
 		this.map(mapInput);
-		
-		// Close writer and reader streams
-		this.closeAll();
+		this.closeAllWriters();
 		reader.close();
 	}
-	
-	/*
-	 * Emit hashes the incoming key to determine which reducer worker it will
-	 * be processed by, and then writes the (kev,value) pair to the corresponding 
-	 * buffer for that reducer worker.
+
+	/**
+	 * Called from user's implementation of the map method to write out a given key,
+	 * value pair. Hashing used to determine appropriate buffer for the intermediate
+	 * file for the reducer which will be handling that key.
+	 * 
+	 * @param key
+	 * @param value
+	 * @throws IOException
 	 */
 	public void emit(String key, String value) throws IOException {
-		//System.out.printf("Mapper emitting key: %s, value %s", key, value);
-		
-		// Compute h = hash(key) % this.numWorkers
+		// Delete any instances of our special separator
+		key = key.replaceAll("%&%", "");
+		value = value.replaceAll("%&%", "");
+
 		int h = Math.abs(key.hashCode()) % this.numWorkers;
-		
 		String output = "(" + key + "%&%" + value + ")" + "\n";
-		
-		// Write "(key, value)" to the h-th BufferedReader for this mapper
 		BufferedWriter writer = this.writers[h];
 		writer.write(output);
 	}
 	
-	public void setN(int n) {
+	// Setter for numWorker
+	public void setNumWorkers(int n) {
 		this.numWorkers = n;
 	}
 	
-	
+	// Setter for inputSize
 	public void setInputSize(long size) {
 		this.inputSize = size;
 	}
-	
-	
+
+	// Setter for inputFilePath
 	public void setInputFilePath(Path inputFilePath) {
 		this.inputFilePath = inputFilePath;
 	}
-	
+
+	// Setter for k
 	public void setWorkerNumber(int k) {
 		this.workerNumber = k;
 	}
-	
-	public void setIntermediate(Path intermediateDir) {
+
+	// Setter for intermediateDir
+	public void setIntermediateDir(Path intermediateDir) {
 		this.intermediateDir = intermediateDir;
 	}
-	
-	private void setIntermediateFilePaths() {
+
+	/**
+	 * Sets a private instance variable which is a Path array of paths to the
+	 * intermediate files, using the worker number and N to determine the
+	 * appropriate names for the files for this mapper worker.
+	 */
+	private void setupIntermediateFilePaths() {
 		Path dir = intermediateDir;
 		this.intermediateFilePaths = new Path[this.numWorkers];
-		for(int i=0; i < this.numWorkers; i++) {
+		for (int i = 0; i < this.numWorkers; i++) {
 			String workerExtension = "mapper" + "-" + this.workerNumber + "-" + i;
 			this.intermediateFilePaths[i] = dir.resolve(workerExtension);
 		}
 	}
-	
+
+	/**
+	 * Returns a string array of paths to the intermediate files, not the Path
+	 * objects themselves, for the purpose of sending to the master process after
+	 * completion of mapping work.
+	 * 
+	 * @return the desired array of file paths
+	 */
 	private String[] getIntermediateFilePaths() {
 		String[] paths = new String[this.numWorkers];
-		for(int i=0; i<this.numWorkers; i++) {
+		for (int i = 0; i < this.numWorkers; i++) {
 			paths[i] = this.intermediateFilePaths[i].toString();
 		}
 		return paths;
 	}
-	
-	private void setWriters() {
+
+	/**
+	 * Sets up an array of BufferedWriters, one for each of the N reducers which we
+	 * are producing an intermediate file for. Must be called after
+	 * setupIntermediateFilePaths().
+	 */
+	private void setupWriters() {
 		this.writers = new BufferedWriter[this.numWorkers];
-		for(int i=0; i < this.numWorkers; i++) {
+		for (int i = 0; i < this.numWorkers; i++) {
 			String currFile = this.intermediateFilePaths[i].toString();
 			try {
 				this.writers[i] = new BufferedWriter(new FileWriter(currFile));
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
 	}
 	
-	public void closeAll() {
-		for(int i=0; i < this.numWorkers; i++) {
+	// Flushes and closes the N BufferedWrites after ensuring they are flushed.
+	public void closeAllWriters() {
+		for (int i = 0; i < this.numWorkers; i++) {
 			try {
+				this.writers[i].flush();
 				this.writers[i].close();
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
 	}
-	
+
+	/**
+	 * Invoked to spawn a new mapper worker process and facilitate its work.
+	 * 
+	 * @param args - arguments specifying the mapper's work
+	 * @exception IOException Upon error involving the socket.
+	 */
 	public static void main(String[] args) throws IOException {
+		Socket clientSocket = new Socket("localhost", PORT);
+		clientSocket.setSoTimeout(workerSocketTimeout);
+
+		// Parse args received, which specify this mapper's work
 		String udfMapperClassName = args[0];
 		int numWorkers = Integer.parseInt(args[1]);
 		int workerNum = Integer.parseInt(args[2]);
 		long inputSize = Long.parseLong(args[3]);
 		Path intermediateDirName = Paths.get(args[4]);
 		Path inputFilePath = Paths.get(args[5]);
-		
-		Socket clientSocket = new Socket("localhost", PORT);
-		
+		int sleepLength = Integer.parseInt(args[6]);
+
+		// Log the PID of the process associated with this worker's JVM
+		RuntimeMXBean bean = ManagementFactory.getRuntimeMXBean();
+		long pid = Long.valueOf(bean.getName().split("@")[0]);
+		System.out.printf("Mapper:%d\nPID=%d\n", workerNum, pid);
+
 		BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 		PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-//		out.printf("%d\n", workerNum); // Send worker number
-		
-		Thread pinger = new Thread(new ServerConnection(clientSocket));
+
+		// In a separate thread, reply to heartbeats from the master
+		Thread pinger = new Thread(new ServerConnection(clientSocket, in, out));
 		pinger.start();
-		
+
+		// Use the reflection library to instantiate the user-defined mapper
 		Mapper m = null;
 		try {
 			Class udfMapperClass = Class.forName(udfMapperClassName);
 			try {
 				m = (Mapper) udfMapperClass.getConstructor().newInstance();
-				
-				m.setN(numWorkers); // Give mapper the # of workers
+
+				m.setNumWorkers(numWorkers); // Give mapper the # of workers
 				m.setWorkerNumber(workerNum); // Give mapper its worker number
 				m.setInputSize(inputSize); // Give mapper the file size
-				m.setIntermediate(intermediateDirName);
+				m.setIntermediateDir(intermediateDirName);
 				m.setInputFilePath(inputFilePath);
-				
+
 			} catch (InstantiationException | IllegalAccessException | IllegalArgumentException
 					| InvocationTargetException | NoSuchMethodException | SecurityException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
+				System.exit(1);
 			}
 		} catch (ClassNotFoundException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
+			System.exit(1);
 		}
+
+		// Execute this mapper worker's work
+		m.execute();
 		
-		try {
-			m.execute();
-		} catch (IOException e) {
-			e.printStackTrace();
+		/* Used in case of testing fault tolerance, to ensure this process
+		 * gets killed before successful completion of its work.
+		 */
+		if (sleepLength > 0) {
+			try {
+				// Wait for a kill command
+				Thread.sleep(sleepLength);
+			} catch (InterruptedException e2) {
+				// Do nothing, not concerned with interruption here
+			}
+			finally {
+				// If no kill command received, kill self
+				System.exit(1);
+			}
 		}
-		
-		String[] paths = m.getIntermediateFilePaths();
-		
-		// Stop pinging
+
+		// Shut down pinger in preparation for final write to 'out'
 		pinger.interrupt();
 		try {
 			pinger.join();
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			// The current thread was interrupted while waiting for join
+			Thread.currentThread().interrupt();
+			throw new RuntimeException(e);
 		}
 
+		// Convey intermediate file paths to master and then wait for response
+		String[] paths = m.getIntermediateFilePaths();
 		String fp = "Filepaths\n" + String.join("\t", paths);
 		out.println(fp);
-		
-		// Wait to hear "received"
-		while(true) {
-			String line = in.readLine();
-			
-			if(line != null && line.contains("received")) {
-				System.err.printf("Received msg from server\n");
-				break;
+		try {
+			while (true) {
+				String line = in.readLine();
+
+				if(line == null) {
+					System.err.println("Socket closed server-side.");
+					throw new IOException();
+				}
+				else if(line.contains("received")){
+					break;
+				}
 			}
+		} catch (SocketException | SocketTimeoutException e) {
+			System.err.printf("Mapper timed out waiting to hear that master" + "had received filepaths.\n");
+			System.exit(1);
 		}
-		
-		//out.close();
+		catch (IOException e) {
+			System.exit(1);
+		}
+		// With knowledge of receipt, now safe to close the socket
+		out.close();
 		clientSocket.close();
 	}
-	
+
 }

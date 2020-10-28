@@ -1,0 +1,3 @@
+N : 2
+input : resources/hamlet_line_num.txt
+output : ./out

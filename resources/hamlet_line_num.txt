@@ -1,0 +1,5899 @@
+0 HAMLET,
+1 PRINCE OF DENMARK.
+2 ACT I.
+3 Scene I.—ELSINORE. A Platform before the Castle. Night.
+4 Francisco on his post. Enter to him Bernardo, L.H.
+5 
+6 Ber. Who's there?
+7 
+8 Fran. (R.) Nay, answer me:1 stand, and unfold2 yourself.
+9 
+10 Ber. Long live the king!3
+11 
+12 Fran.
+13 Bernardo?
+14 
+15 Ber.
+16 He.
+17 
+18 Fran. You come most carefully upon your hour.
+19 
+20 Ber. 'Tis now struck twelve; get thee to bed, Francisco.
+21 
+22 Fran. For this relief much thanks: [Crosses to L.] 'tis bitter cold,
+23 
+24 And I am sick at heart.
+25 
+26 Ber. Have you had quiet guard?
+27 
+28 Fran.
+29 Not a mouse stirring.
+30 
+31 Ber. Well, good night.
+32 
+33 If you do meet Horatio and Marcellus,
+34 
+35 The rivals of my watch,4 bid them make haste.
+36 
+37 Fran. I think I hear them.—Stand, ho! Who's there?
+38 
+39 8
+40 Hor. Friends to this ground.
+41 
+42 Mar.
+43 And liegemen to the Dane.5
+44 
+45 Enter Horatio and Marcellus L.H.
+46 
+47 Fran. Give you good night.
+48 
+49 Mar.
+50 O, farewell, honest soldier:
+51 
+52 Who hath reliev'd you?
+53 
+54 Fran. Bernardo hath my place.
+55 
+56 Give you good night.
+57 
+58 [Exit Francisco, L.H.]
+59 
+60 Mar.
+61 Holloa! Bernardo!
+62 
+63 Ber.
+64 Say,
+65 
+66 What, is Horatio there?
+67 
+68 Hor. (Crosses to C.) A piece of him.6
+69 
+70 Ber. (R.) Welcome, Horatio: welcome, good Marcellus.
+71 
+72 Hor. What, has this thing appear'd again to-night?
+73 
+74 Ber. I have seen nothing.
+75 
+76 Mar. (L.) Horatio says, 'tis but our fantasy,
+77 
+78 And will not let belief take hold of him,
+79 
+80 Touching this dreaded sight, twice seen of us:
+81 
+82 Therefore I have entreated him, along
+83 
+84 With us, to watch the minutes of this night;7
+85 
+86 That, if again this apparition come,
+87 
+88 He may approve our eyes,8 and speak to it.
+89 
+90 Hor. Tush! tush! 'twill not appear.
+91 
+92 Ber. Come, let us once again assail your ears,
+93 
+94 That are so fortified against our story,
+95 
+96 What we two nights have seen.9
+97 
+98 Hor. Well, let us hear Bernardo speak of this.
+99 
+100 Ber. Last night of all,
+101 
+102 When yon same star that's westward from the pole
+103 
+104 Had made his course to illume that part of heaven
+105 
+106 Where now it burns, Marcellus, and myself,
+107 
+108 The bell then beating one—
+109 
+110 9Mar. Peace, break thee off; look, where it comes again!
+111 
+112 Enter Ghost L.H.
+113 
+114 Ber. In the same figure, like the king that's dead.
+115 
+116 Hor. Most like:—it harrows me with fear and wonder.10
+117 
+118 Ber. It would be spoke to.
+119 
+120 Mar. Speak to it, Horatio.
+121 
+122 Hor. What art thou, that usurp'st this time of night,11
+123 
+124 Together with that fair and warlike form
+125 
+126 In which the majesty of buried Denmark
+127 
+128 Did sometimes march? By heaven I charge thee, speak!
+129 
+130 Mar. It is offended.
+131 
+132 [Ghost crosses to R.]
+133 
+134 Ber.
+135 See! it stalks away!
+136 
+137 Hor. Stay!—speak!—speak, I charge thee, speak!
+138 
+139 [Exit Ghost, R.H.]
+140 
+141 Mar. 'Tis gone, and will not answer.
+142 
+143 Ber. How now, Horatio! You tremble, and look pale:
+144 
+145 Is not this something more than fantasy?
+146 
+147 What think you of it?
+148 
+149 Hor. Before heaven, I might not this believe,
+150 
+151 Without the sensible and true avouch12
+152 
+153 Of mine own eyes.
+154 
+155 Mar.
+156 Is it not like the king?
+157 
+158 Hor. As thou art to thyself:
+159 
+160 Such was the very armour he had on,
+161 
+162 When he the ambitious Norway combated.
+163 
+164 Mar. Thus, twice before, and jump at this dead hour,13
+165 
+166 With martial stalk hath he gone by our watch.
+167 
+168 Hor. In what particular thought to work,14 I know not;
+169 
+170 10
+171 But in the gross and scope15 of mine opinion,
+172 
+173 This bodes some strange eruption to our state.16
+174 
+175 In the most high and palmy17 state of Rome,
+176 
+177 A little ere the mightiest Julius fell,
+178 
+179 The graves stood tenantless, and the sheeted dead
+180 
+181 Did squeak and gibber in the Roman streets.
+182 
+183 Re-enter Ghost R.H.
+184 
+185 But, (L.C.) soft, behold! lo, where it comes again!
+186 
+187 I'll cross it, though it blast me.
+188 
+189 [Horatio crosses in front of the Ghost to R. Ghost crosses to L.]
+190 
+191 Stay, illusion!
+192 
+193 If thou hast any sound, or use of voice,18
+194 
+195 Speak to me:
+196 
+197 If there be any good thing to be done,
+198 
+199 That may to thee do ease, and grace to me,
+200 
+201 Speak to me:
+202 
+203 If thou art privy to thy country's fate,
+204 
+205 Which, happily, foreknowing may avoid,
+206 
+207 O, speak!
+208 
+209 O, if thou hast uphoarded in thy life
+210 
+211 Extorted treasure in the womb of earth,19
+212 
+213 For which, they say, you spirits oft walk in death,
+214 
+215 Speak of it:—stay, and speak!
+216 
+217 [Exit Ghost, L.H.]
+218 
+219 Mar. 'Tis gone!
+220 
+221 We do it wrong, being so majestical,
+222 
+223 To offer it the show of violence.
+224 
+225 Ber. It was about to speak, when the cock crew.
+226 
+227 Hor. And then it started like a guilty thing
+228 
+229 11
+230 Upon a fearful summons.20 I have heard,
+231 
+232 The cock, that is the trumpet of the morn,
+233 
+234 Doth with his lofty21 and shrill-sounding throat
+235 
+236 Awake the god of day; and, at his warning,
+237 
+238 Whether in sea or fire, in earth or air,
+239 
+240 The extravagant and erring spirit22 hies
+241 
+242 To his confine.
+243 
+244 But, look, the morn, in russet mantle clad,
+245 
+246 Walks o'er the dew of yon high eastern hill:
+247 
+248 Break we our watch up; and, by my advice,
+249 
+250 Let us impart what we have seen to-night
+251 
+252 Unto young Hamlet; for, upon my life,
+253 
+254 This spirit, dumb to us, will speak to him.
+255 
+256 [Exeunt, L.H.]
+257 
+258 Scene II.—A ROOM OF STATE IN THE PALACE.
+259 Trumpet March.
+260 
+261 Enter the King and Queen, preceded by Polonius, Hamlet, Laertes23, Lords, Ladies, and Attendants.
+262 
+263 King. R.C. Though yet of Hamlet our dear brother's death
+264 
+265 The memory be green;24 and that it us befitted
+266 
+267 To bear our hearts in grief, and our whole kingdom
+268 
+269 To be contracted in one brow of woe;
+270 
+271 Yet so far hath discretion fought with nature,
+272 
+273 That we with wisest sorrow25 think on him,
+274 
+275 Together with remembrance of ourselves.
+276 
+277 Therefore our sometime sister, now our queen,
+278 
+279 The imperial jointress of this warlike state,
+280 
+281 12
+282 Have we, as 'twere with a defeated joy,26
+283 
+284 Taken to wife: nor have we herein barr'd27
+285 
+286 Your better wisdoms, which have freely gone
+287 
+288 With this affair along:—For all, our thanks.
+289 
+290 And now, Laertes, what's the news with you?
+291 
+292 You told us of some suit; What is't, Laertes?
+293 
+294 Laer. (R.)
+295 My dread lord,
+296 
+297 Your leave and favour28 to return to France;
+298 
+299 From whence though willingly I came to Denmark,
+300 
+301 To show my duty in your coronation,
+302 
+303 Yet now, I must confess, that duty done,
+304 
+305 My thoughts and wishes bend again toward France,
+306 
+307 And bow them to your gracious leave and pardon.
+308 
+309 King. Have you your father's leave? What says Polonious?
+310 
+311 Pol. (R.) He hath, my lord, (wrung from me my slow leave
+312 
+313 By laboursome petition; and, at last,
+314 
+315 Upon his will I sealed my hard consent):29
+316 
+317 I do beseech you, give him leave to go.
+318 
+319 King. Take thy fair hour, Laertes; time be thine,
+320 
+321 And thy best graces spend it at thy will!30
+322 
+323 But now, my cousin Hamlet, and my son,——
+324 
+325 Ham. (L.) A little more than kin, and less than kind.31
+326 
+327 [Aside.]
+328 
+329 13King. How is it that the clouds still hang on you?
+330 
+331 Ham. Not so, my lord; I am too much i'the sun.32
+332 
+333 Queen. (L.C.) Good Hamlet, cast thy nighted colour33 off,
+334 
+335 And let thine eye look like a friend on Denmark.
+336 
+337 Do not for ever with thy vailed lids34
+338 
+339 Seek for thy noble father in the dust:
+340 
+341 Thou know'st 'tis common, all that live must die,
+342 
+343 Passing through nature to eternity.
+344 
+345 Ham. Ay, madam, it is common.
+346 
+347 Queen.
+348 If it be,
+349 
+350 Why seems it so particular with thee?
+351 
+352 Ham. Seems, madam! nay, it is; I know not seems.
+353 
+354 'Tis not alone my inky cloak, good mother,
+355 
+356 Nor the dejected haviour of the visage,
+357 
+358 No, nor the fruitful river in the eye,
+359 
+360 Together with all forms, modes, shows of grief,
+361 
+362 That can denote me truly: These, indeed, seem,
+363 
+364 For they are actions that a man might play.
+365 
+366 But I have that within which passeth show;35
+367 
+368 These but the trappings36 and the suits of woe.
+369 
+370 King. 'Tis sweet and commendable in your nature, Hamlet,
+371 
+372 To give these mourning duties to your father:
+373 
+374 But, you must know, your father lost a father;
+375 
+376 That father lost, lost his;37 and the survivor bound,
+377 
+378 In filial obligation, for some term
+379 
+380 14
+381 To do obsequious sorrow:38 But to perséver39
+382 
+383 In obstinate condolement,40 is a course
+384 
+385 Of impious stubbornness; 'tis unmanly grief:
+386 
+387 It shows a will most incorrect to Heaven.41
+388 
+389 We pray you, throw to earth
+390 
+391 This unprevailing42 woe; and think of us
+392 
+393 As of a father: for let the world take note,
+394 
+395 You are the most immediate to our throne;
+396 
+397 Our chiefest courtier, cousin, and our son.
+398 
+399 Queen. Let not thy mother lose her prayers, Hamlet:
+400 
+401 I pray thee, stay with us; go not to Wittenberg.
+402 
+403 Ham. I shall in all my best obey you, madam.
+404 
+405 King. Why, 'tis a loving and a fair reply;
+406 
+407 Be as ourself in Denmark.—Madam, come;
+408 
+409 This gentle and unforc'd accord of Hamlet
+410 
+411 Sits smiling to my heart:43 in grace whereof,44
+412 
+413 No jocund health that Denmark drinks to-day,45
+414 
+415 But the great cannon to the clouds shall tell;
+416 
+417 Re-speaking earthly thunder.
+418 
+419 [Trumpet March repeated. Exeunt King and Queen, preceded by Polonius, Lords, Ladies, Laertes, and Attendants, R.H.]
+420 
+421 Ham. O, that this too, too solid flesh would melt,
+422 
+423 Thaw, and resolve itself46 into a dew!
+424 
+425 Or that the Everlasting had not fix'd
+426 
+427 His canon47 'gainst self-slaughter! O God! O God!
+428 
+429 How weary, stale, flat, and unprofitable
+430 
+431 15
+432 Seem to me all the uses of this world!48
+433 
+434 Fye on't! O fye! 'tis an unweeded garden,
+435 
+436 That grows to seed; things rank and gross in nature
+437 
+438 Possess it merely.49 That it should come to this!
+439 
+440 But two months dead!—nay, not so much, not two:
+441 
+442 So excellent a king; that was, to this,
+443 
+444 Hyperion to a satyr:50 so loving to my mother,
+445 
+446 That he might not beteem51 the winds of heaven
+447 
+448 Visit her face too roughly. Heaven and earth!
+449 
+450 Must I remember? why, she would hang on him,
+451 
+452 As if increase of appetite had grown
+453 
+454 By what it fed on: And yet, within a month,—
+455 
+456 Let me not think on't,—Frailty, thy name is Woman!—
+457 
+458 A little month; or ere those shoes were old
+459 
+460 With which she follow'd my poor father's body,
+461 
+462 Like Niobe, all tears;—she married with my uncle,
+463 
+464 My father's brother; but no more like my father
+465 
+466 Than I to Hercules.
+467 
+468 It is not, nor it cannot come to, good:
+469 
+470 But break, my heart, for I must hold my tongue!
+471 
+472 Enter Horatio, Bernardo, and Marcellus R.H.
+473 
+474 Hor. Hail to your lordship!
+475 
+476 Ham.
+477 I am glad to see you well:
+478 
+479 Horatio,—or I do forget myself.
+480 
+481 Hor. The same, my lord, and your poor servant ever.
+482 
+483 Ham. Sir, my good friend; I'll change that name with you:52
+484 
+485 And what make you from Wittenberg, Horatio?—
+486 
+487 Marcellus?
+488 
+489 [Crosses to C.]
+490 
+491 Mar. (R.) My good lord,—
+492 
+493 16Ham. (C.) I am very glad to see you; good even, sir.
+494 
+495 [To Bernardo, R.]
+496 
+497 But what, in faith,53 make you54 from Wittenberg?55
+498 
+499 Hor. (L.) A truant disposition, good my lord.
+500 
+501 Ham. I would not hear your enemy say so;
+502 
+503 Nor shall you do mine ear that violence,
+504 
+505 To make it truster of your own report
+506 
+507 Against yourself: I know you are no truant.
+508 
+509 But what is your affair in Elsinore?
+510 
+511 We'll teach you to drink deep, ere you depart.
+512 
+513 Hor. My lord, I came to see your father's funeral.
+514 
+515 Ham. I pray thee, do not mock me, fellow-student;
+516 
+517 I think it was to see my mother's wedding.
+518 
+519 Hor. Indeed, my lord, it followed hard upon.
+520 
+521 Ham. Thrift, thrift, Horatio! the funeral bak'd meats
+522 
+523 Did coldly furnish forth the marriage tables.
+524 
+525 Would I had met my dearest foe56 in Heaven
+526 
+527 Ere ever I had seen that day, Horatio!
+528 
+529 My father,—Methinks, I see my father.
+530 
+531 Hor.
+532 Where,
+533 
+534 My lord?
+535 
+536 Ham. In my mind's eye, Horatio.
+537 
+538 Hor. I saw him once; he was a goodly king.57
+539 
+540 Ham. He was a man, take him for all in all,
+541 
+542 I shall not look upon his like again.
+543 
+544 [Crosses to L.]
+545 
+546 Hor. (C.) My lord, I think I saw him yesternight.
+547 
+548 Ham. Saw who?
+549 
+550 Hor. My lord, the king your father.
+551 
+552 Ham.
+553 The king my father!
+554 
+555 Hor. Season your admiration for a while58
+556 
+557 17
+558 With an attent ear; till I may deliver,
+559 
+560 Upon the witness of these gentlemen,
+561 
+562 This marvel to you.
+563 
+564 Ham.
+565 For Heaven's love, let me hear.
+566 
+567 Hor. Two nights together had these gentlemen,
+568 
+569 Marcellus and Bernardo, on their watch,
+570 
+571 In the dead waste and middle of the night,59
+572 
+573 Been thus encounter'd. A figure like your father,
+574 
+575 Arm'd at all points exactly, cap-à-pé,
+576 
+577 Appears before them, and, with solemn march
+578 
+579 Goes slow and stately by them: thrice he walk'd
+580 
+581 By their oppress'd and fear-surprisèd eyes,
+582 
+583 Within his truncheon's length; whilst they, distill'd
+584 
+585 Almost to jelly with the act of fear,60
+586 
+587 Stand dumb, and speak not to him. This to me
+588 
+589 In dreadful secrecy impart they did;
+590 
+591 And I with them the third night kept the watch:
+592 
+593 Where, as they had deliver'd, both in time,
+594 
+595 Form of the thing, each word made true and good,
+596 
+597 The apparition comes.
+598 
+599 Ham. But where was this?
+600 
+601 [Crosses to Marcellus.]
+602 
+603 Mar. (R.) My lord, upon the platform where we watch'd.
+604 
+605 Ham. (C.) Did you not speak to it?
+606 
+607 Hor. (L.)
+608 My lord, I did;
+609 
+610 But answer made it none: yet once methought
+611 
+612 It lifted up its head, and did address61
+613 
+614 Itself to motion, like as it would speak:
+615 
+616 But, even then, the morning cock crew loud,
+617 
+618 And at the sound it shrunk in haste away;
+619 
+620 And vanish'd from our sight.
+621 
+622 Ham.
+623 'Tis very strange.
+624 
+625 Hor. As I do live, my honour'd lord, 'tis true;
+626 
+627 And we did think it writ down62 in our duty
+628 
+629 To let you know of it.
+630 
+631 18Ham. Indeed, indeed, sirs, but this troubles me.
+632 
+633 Hold you the watch to-night?
+634 
+635 Mar.
+636 We do, my lord.
+637 
+638 Ham. Arm'd, say you?
+639 
+640 Mar.
+641 Arm'd, my lord.
+642 
+643 Ham.
+644 From top to toe?
+645 
+646 Mar. My lord, from head to foot.
+647 
+648 Ham.
+649 Then saw you not
+650 
+651 His face?
+652 
+653 Hor.
+654 O, yes, my lord; he wore his beaver up.63
+655 
+656 Ham. What, looked he frowningly?
+657 
+658 Hor.
+659 A countenance more
+660 
+661 In sorrow than in anger.
+662 
+663 Ham.
+664 Pale or red?
+665 
+666 Hor. Nay, very pale.
+667 
+668 Ham.
+669 And fix'd his eyes upon you?
+670 
+671 Hor. Most constantly.
+672 
+673 Ham.
+674 I would I had been there.
+675 
+676 Hor. It would have much amaz'd you.
+677 
+678 Ham.
+679 Very like,
+680 
+681 Very like. Stay'd it long?
+682 
+683 Hor. While one with moderate haste might tell a hundred.
+684 
+685 Mar.
+686 
+687 Ber.
+688 
+689 Longer, Longer.
+690 
+691 Hor. Not when I saw it.
+692 
+693 Ham.
+694 His beard was grizzl'd, No?
+695 
+696 Hor. It was, as I have seen it in his life,
+697 
+698 A sable silver'd.
+699 
+700 Ham.
+701 I will watch to-night;
+702 
+703 Perchance, 'twill walk again.
+704 
+705 Hor. (C.)
+706 I warrant it will.
+707 
+708 Ham. If it assume my noble father's person,
+709 
+710 I'll speak to it, though hell itself should gape,
+711 
+712 And bid me hold my peace. [Crosses to L.] I pray you all,
+713 
+714 If you have hitherto conceal'd this sight,
+715 
+716 Let it be tenable64 in your silence still;
+717 
+718 And whatsoever else shall hap to-night,
+719 
+720 19
+721 Give it an understanding, but no tongue;
+722 
+723 I will requite your loves. So, fare you well:
+724 
+725 Upon the platform, 'twixt eleven and twelve,
+726 
+727 I'll visit you.
+728 
+729 Hor. (R.)
+730 Our duty to your honour.
+731 
+732 Ham. Your loves, as mine to you: Farewell.
+733 
+734 [Exeunt Horatio, Marcellus, and Bernardo, R.H.]
+735 
+736 My father's spirit in arms! all is not well;
+737 
+738 I doubt some foul play: 'would the night were come;
+739 
+740 Till then sit still, my soul: Foul deeds will rise,
+741 
+742 Though all the earth o'erwhelm them, to men's eyes.
+743 
+744 [Exit, L.H.]
+745 
+746 Scene III.—A ROOM IN POLONIUS'S HOUSE.
+747 Enter Laertes and Ophelia (R.H.)
+748 
+749 Laer. (L.C.) My necessaries are embarked: farewell:
+750 
+751 And, sister, as the winds give benefit,65
+752 
+753 Let me hear from you.
+754 
+755 Oph. (R.C.)
+756 Do you doubt that?
+757 
+758 Laer. For Hamlet, and the trifling of his favour,66
+759 
+760 Hold it a fashion, and a toy in blood;
+761 
+762 A violet in the youth of primy nature,
+763 
+764 Forward, not permanent, sweet, not lasting,
+765 
+766 The pérfume and suppliance of a minute.67
+767 
+768 Oph. No more but so?
+769 
+770 Laer. He may not, as unvalued persons do,
+771 
+772 Carve for himself; for on his choice depends
+773 
+774 The safety and the health of the whole state.
+775 
+776 Then weigh what loss your honour may sustain,
+777 
+778 If with too credent ear you list his songs.
+779 
+780 Fear it, Ophelia, fear it, my dear sister;
+781 
+782 20
+783 And keep within the rear of your affection,68
+784 
+785 Out of the shot and danger of desire.
+786 
+787 The chariest maid69 is prodigal enough,
+788 
+789 If she unmask her beauty to the moon:
+790 
+791 Virtue itself scapes not calumnious strokes:
+792 
+793 Be wary, then; best safety lies in fear:
+794 
+795 Youth to itself rebels, though none else near.
+796 
+797 Oph. I shall the effect of this good lesson keep,
+798 
+799 As watchman to my heart. But, good my brother,
+800 
+801 Do not, as some ungracious pastors do,
+802 
+803 Show me the steep and thorny way to heaven
+804 
+805 Whilst, like a puff'd and reckless libertine,70
+806 
+807 Himself the primrose path of dalliance treads,
+808 
+809 And recks not his own read.71
+810 
+811 Laer.
+812 O, fear me not.
+813 
+814 I stay too long;—but here my father comes.
+815 
+816 Enter Polonius (L.H.)
+817 
+818 Pol. Yet here, Laertes! aboard, aboard, for shame!
+819 
+820 The wind sits in the shoulder of your sail,72
+821 
+822 And you are staid for. There,—my blessing with you!
+823 
+824 [Laying his hand on Laertes' head.]
+825 
+826 And these few precepts in thy memory—
+827 
+828 Look thou charácter.73 Give thy thoughts no tongue, any unproportion'd thought74 his act.
+829 
+830 Be thou familiar, but by no means vulgar.
+831 
+832 The friends thou hast, and their adoption tried,
+833 
+834 Grapple them to thy soul with hooks of steel;
+835 
+836 But do not dull thy palm with entertainment
+837 
+838 Of each new-hatch'd, unfledg'd comrade. Beware
+839 
+840 Of entrance to a quarrel; but being in,
+841 
+842 21
+843 Bear it, that the opposer may beware of thee.
+844 
+845 Give every man thine ear, but few thy voice:
+846 
+847 Take each man's censure,75 but reserve thy judgment.
+848 
+849 Costly thy habit as thy purse can buy,
+850 
+851 But not express'd in fancy; rich, not gaudy:
+852 
+853 For the apparel oft proclaims the man;
+854 
+855 And they in France of the best rank and station
+856 
+857 Are most select and generous, chief in that.76
+858 
+859 Neither a borrower nor a lender be:
+860 
+861 For loan oft loses both itself and friend;
+862 
+863 And borrowing dulls the edge of husbandry.77
+864 
+865 This above all,—To thine ownself be true;
+866 
+867 And it must follow, as the night the day,
+868 
+869 Thou canst not then be false to any man.
+870 
+871 Farewell; my blessing season this in thee!78
+872 
+873 Laer. Most humbly do I take my leave, my lord.
+874 
+875 [Crosses to L.]
+876 
+877 Farewell, Ophelia; and remember well
+878 
+879 What I have said to you.
+880 
+881 Oph. (Crosses to Laertes.) 'Tis in my memory lock'd,
+882 
+883 And you yourself shall keep the key of it.79
+884 
+885 Laer. Farewell.
+886 
+887 [Exit Laertes, L.H.]
+888 
+889 Pol. What is it, Ophelia, he hath said to you?
+890 
+891 Oph. So please you, something touching the lord Hamlet.
+892 
+893 Pol. Marry, well bethought:
+894 
+895 'Tis told me, he hath very oft of late
+896 
+897 Given private time to you;80 and you yourself
+898 
+899 Have of your audience been most free and bounteous:
+900 
+901 If it be so (as so 'tis put on me,81
+902 
+903 And that in way of caution), I must tell you,
+904 
+905 You do not understand yourself so clearly
+906 
+907 As it behoves my daughter, and your honour.
+908 
+909 22
+910 What is between82 you? give me up the truth.
+911 
+912 Oph. He hath, my lord, of late, made many tenders
+913 
+914 Of his affection to me.
+915 
+916 Pol. Affection! pooh! you speak like a green girl,
+917 
+918 Unsifted83 in such perilous circumstance.
+919 
+920 Do you believe his tenders, as you call them?
+921 
+922 Oph. I do not know, my lord, what I should think.
+923 
+924 Pol. Marry, I'll teach you: think yourself a baby;
+925 
+926 That you have ta'en these tenders for true pay,
+927 
+928 Which are not sterling. Tender yourself more dearly;
+929 
+930 Or, you'll tender me a fool.
+931 
+932 Oph. My lord, he hath impórtun'd me with love
+933 
+934 In honourable fashion.
+935 
+936 Pol. Ay, fashion you may call it; go to, go to.
+937 
+938 Oph. And hath given countenance to his speech, my lord,
+939 
+940 With almost all the holy vows of heaven.
+941 
+942 Pol. Ay, springes to catch woodcocks.84 I do know,
+943 
+944 When the blood burns, how prodigal the soul
+945 
+946 Lends the tongue vows: This is for all,—
+947 
+948 I would not, in plain terms, from this time forth,
+949 
+950 Have you so slander any leisure moment,85
+951 
+952 As to give words or talk with the lord Hamlet.
+953 
+954 Look to't, I charge you: come your ways.
+955 
+956 Oph. I shall obey, my lord.
+957 
+958 [Exeunt, R.H.]
+959 
+960 Scene IV.—THE PLATFORM. Night.
+961 Enter Hamlet, Horatio, and Marcellus (L.H.U.E.)
+962 
+963 Ham. The air bites shrewdly; it is very cold.
+964 
+965 Hor. It is a nipping and an eager air.86
+966 
+967 23Ham. What hour now?
+968 
+969 Hor.
+970 I think it lacks of twelve.
+971 
+972 Mar. No, it is struck.
+973 
+974 Hor. (R.C.) Indeed? I heard it not: then it draws near the season,
+975 
+976 Wherein the spirit held his wont to walk.
+977 
+978 [A Flourish of Trumpets, and Ordnance shot off without.]
+979 
+980 What does this mean, my lord?
+981 
+982 Ham. (L.C.) The king doth wake to-night,87 and takes his rouse,88
+983 
+984 And, as he drains his draughts of Rhenish down,
+985 
+986 The kettle-drum and trumpet thus bray out
+987 
+988 The triumph of his pledge.
+989 
+990 Hor.
+991 Is it a custom?
+992 
+993 Ham. Ay, marry, is't: [Crosses to Horatio.]
+994 
+995 But to my mind,—though I am native here,
+996 
+997 And to the manner born,—it is a custom
+998 
+999 More honour'd in the breach than the observance.
+1000 
+1001 Enter Ghost (L.H.)
+1002 
+1003 Hor. (R.H.) Look, my lord, it comes!
+1004 
+1005 Ham. (C.) Angels and ministers of grace defend us!—
+1006 
+1007 Be thou a spirit of health or goblin damn'd,
+1008 
+1009 Bring with thee airs from heaven or blasts from hell,
+1010 
+1011 Be thy intents wicked or charitable,
+1012 
+1013 Thou com'st in such a questionable shape,89
+1014 
+1015 That I will speak to thee: I'll call thee—Hamlet,
+1016 
+1017 King, father: Royal Dane: O, answer me!
+1018 
+1019 Let me not burst in ignorance; but tell
+1020 
+1021 Why thy canoniz'd bones, hearsed in death,90
+1022 
+1023 Have burst their cerements;91 why the sepulchre,
+1024 
+1025 Wherein we saw thee quietly in-urn'd,
+1026 
+1027 Hath op'd his ponderous and marble jaws,
+1028 
+1029 24
+1030 To cast thee up again! What may this mean,
+1031 
+1032 That thou, dead corse, again, in cómplete steel,
+1033 
+1034 Revisits thus the glimpses of the moon,
+1035 
+1036 Making night hideous; and we fools of nature92
+1037 
+1038 So horridly to shake our disposition93
+1039 
+1040 With thoughts beyond the reaches of our souls?
+1041 
+1042 Say, why is this? wherefore? what should we do?
+1043 
+1044 [Ghost beckons.]
+1045 
+1046 Hor. It beckons you to go away with it,
+1047 
+1048 As if it some impartment did desire
+1049 
+1050 To you alone.
+1051 
+1052 [Ghost beckons again.]
+1053 
+1054 Mar. Look, with what courteous action
+1055 
+1056 It waves you to a more removèd ground:94
+1057 
+1058 But do not go with it.
+1059 
+1060 Hor.
+1061 No, by no means.
+1062 
+1063 Ham. It will not speak; then I will follow it.
+1064 
+1065 Hor. Do not, my lord.
+1066 
+1067 Ham.
+1068 Why, what should be the fear?
+1069 
+1070 I do not set my life at a pin's fee;95
+1071 
+1072 And for my soul, what can it do to that,
+1073 
+1074 Being a thing immortal as itself?
+1075 
+1076 [Ghost beckons.]
+1077 
+1078 It waves me forth again;—I'll follow it.
+1079 
+1080 Hor. What if it tempt you toward the flood, my lord,96
+1081 
+1082 Or to the dreadful summit of the cliff
+1083 
+1084 That beetles o'er his base into the sea,97
+1085 
+1086 And there assume some other horrible form,
+1087 
+1088 And draw you into madness?
+1089 
+1090 [Ghost beckons.]
+1091 
+1092 Ham.
+1093 It waves me still.—
+1094 
+1095 Go on; I'll follow thee.
+1096 
+1097 Mar. You shall not go, my lord.
+1098 Ham.
+1099 Hold off your hands.
+1100 
+1101 Hor. Be rul'd; you shall not go.
+1102 
+1103 Ham.
+1104 My fate cries out,
+1105 
+1106 25
+1107 And makes each petty artery in this body
+1108 
+1109 As hardy as the Némean lion's nerve.98
+1110 
+1111 [Ghost beckons]
+1112 
+1113 Still am I call'd:—unhand me, gentlemen;
+1114 
+1115 [Breaking from them.]
+1116 
+1117 By heaven, I'll make a ghost of him that lets me:—99
+1118 
+1119 I say, away!—Go on; I'll follow thee.
+1120 
+1121 [Exeunt Ghost and Hamlet, L.H., followed at a distance by Horatio and Marcellus.]
+1122 
+1123 Scene V.—A MORE REMOTE PART OF THE PLATFORM. Night.
+1124 Re-enter Ghost and Hamlet (L.H.U.E.)
+1125 
+1126 Ham. (R.) Whither wilt thou lead me? Speak; I'll go no further.
+1127 
+1128 Ghost. (L.) Mark me.
+1129 
+1130 Ham.
+1131 I will.
+1132 
+1133 Ghost.
+1134 My hour is almost come,
+1135 
+1136 When I to sulphurous and tormenting flames
+1137 
+1138 Must render up myself.
+1139 
+1140 Ham.
+1141 Alas, poor ghost!
+1142 
+1143 Ghost. Pity me not, but lend thy serious hearing
+1144 
+1145 To what I shall unfold.
+1146 
+1147 Ham.
+1148 Speak; I am bound to hear.
+1149 
+1150 Ghost. So art thou to revenge, when thou shalt hear.
+1151 
+1152 Ham. What?
+1153 
+1154 Ghost. I am thy father's spirit;
+1155 
+1156 Doom'd for a certain term to walk the night,
+1157 
+1158 And for the day confin'd to fast in fires,100
+1159 
+1160 Till the foul crimes done in my days of nature
+1161 
+1162 26
+1163 Are burnt and purg'd away. But that I am forbid
+1164 
+1165 To tell the secrets of my prison-house,
+1166 
+1167 I could a tale unfold, whose lightest word
+1168 
+1169 Would harrow up thy soul;101 freeze thy young blood;
+1170 
+1171 Make thy two eyes, like stars, start from their spheres;
+1172 
+1173 Thy knotted and combinèd locks to part,
+1174 
+1175 And each particular hair to stand on end,102
+1176 
+1177 Like quills upon the fretful porcupine:103
+1178 
+1179 But this eternal blazon104 must not be
+1180 
+1181 To ears of flesh and blood.—List, list, O, list!—
+1182 
+1183 If thou didst ever thy dear father love,——
+1184 
+1185 Ham. O Heaven!
+1186 
+1187 Ghost. Revenge his foul and most unnatural murder.
+1188 
+1189 Ham. Murder!
+1190 
+1191 Ghost. Murder most foul, as in the best it is;
+1192 
+1193 But this most foul, strange, and unnatural.
+1194 
+1195 Ham. Haste me to know it, that I, with wings as swift
+1196 
+1197 As meditation or the thoughts of love,
+1198 
+1199 May sweep to my revenge.
+1200 
+1201 Ghost.
+1202 I find thee apt;
+1203 
+1204 And duller shouldst thou be than the fat weed
+1205 
+1206 That rots itself in ease on Lethe wharf,105
+1207 
+1208 Wouldst thou not stir in this. Now, Hamlet, hear:
+1209 
+1210 'Tis given out that, sleeping in mine orchard,106
+1211 
+1212 A serpent stung me; so the whole ear of Denmark
+1213 
+1214 Is by a forged process107 of my death
+1215 
+1216 Rankly abus'd: but know, thou noble youth,
+1217 
+1218 The serpent that did sting thy father's life
+1219 
+1220 Now wears his crown.
+1221 
+1222 Ham. O, my prophetic soul! my uncle!
+1223 
+1224 Ghost. Ay, that incestuous, that adulterate beast,
+1225 
+1226 27
+1227 With witchcraft of his wit, with traitorous gifts,
+1228 
+1229 Won to his shameful lust
+1230 
+1231 The will of my most seeming virtuous queen:
+1232 
+1233 O, Hamlet, what a falling-off was there!
+1234 
+1235 From me, whose love was of that dignity,
+1236 
+1237 That it went hand in hand even with the vow
+1238 
+1239 I made to her in marriage; and to decline
+1240 
+1241 Upon a wretch,108 whose natural gifts were poor
+1242 
+1243 To those of mine!
+1244 
+1245 But, soft! methinks I scent the morning air;
+1246 
+1247 Brief let me be.—Sleeping within mine orchard,
+1248 
+1249 My custom always in the afternoon,
+1250 
+1251 Upon my secure109 hour thy uncle stole,
+1252 
+1253 With juice of cursed hebenon110 in a vial,
+1254 
+1255 And in the porches of mine ears did pour
+1256 
+1257 The leperous distilment; whose effect
+1258 
+1259 Holds such an enmity with blood of man,
+1260 
+1261 That, swift as quicksilver, it courses through
+1262 
+1263 The natural gates and alleys of the body;
+1264 
+1265 So did it mine;
+1266 
+1267 Thus was I, sleeping, by a brother's hand
+1268 
+1269 Of life, of crown, of queen, at once despatch'd:111
+1270 
+1271 Cut off even in the blossoms of my sin,
+1272 
+1273 Unhousel'd, disappointed, unanel'd;112
+1274 
+1275 No reckoning made, but sent to my account
+1276 
+1277 With all my imperfections on my head.
+1278 
+1279 Ham. O, horrible! O, horrible! most horrible!
+1280 
+1281 Ghost. If thou hast nature in thee, bear it not;
+1282 
+1283 Let not the royal bed of Denmark be
+1284 
+1285 A couch for luxury113 and damnèd incest.
+1286 
+1287 But, howsoever thou pursu'st this act,
+1288 
+1289 Taint not thy mind, nor let thy soul contrive
+1290 
+1291 28
+1292 Against thy mother aught: leave her to Heaven,
+1293 
+1294 And to those thorns that in her bosom lodge,
+1295 
+1296 To prick and sting her. Fare thee well at once!
+1297 
+1298 The glow-worm shows the matin to be near,
+1299 
+1300 And 'gins to pale his ineffectual fire:114
+1301 
+1302 Adieu, adieu, adieu! remember me.
+1303 
+1304 [Exit, L.H.]
+1305 
+1306 Ham. Hold, hold, my heart;
+1307 
+1308 And you, my sinews, grow not instant old,
+1309 
+1310 But bear me stiffly up.—Remember thee!
+1311 
+1312 Ay, thou poor ghost, while memory holds a seat
+1313 
+1314 In this distracted globe.115 Remember thee!
+1315 
+1316 Yea, from the table of my memory
+1317 
+1318 I'll wipe away all forms, all pressures past,116
+1319 
+1320 And thy commandment all alone shall live
+1321 
+1322 Within the book and volume of my brain,
+1323 
+1324 Unmix'd with baser matter: yes, by heaven,
+1325 
+1326 I have sworn't.
+1327 
+1328 Hor. (Without.) My lord, my lord,——
+1329 
+1330 Mar. (Without.) Lord Hamlet,——
+1331 
+1332 Hor. (Without.) Heaven secure him!
+1333 
+1334 Ham.
+1335 So be it!
+1336 
+1337 Mar. (Without.) Illo, ho, ho, my lord!
+1338 
+1339 Ham. Hillo, ho, ho, boy! come, bird, come.117
+1340 
+1341 Enter Horatio and Marcellus (L.H.U.E.)
+1342 
+1343 Mar. (R.) How is't, my noble lord?
+1344 
+1345 Hor. (L.)
+1346 What news, my lord?
+1347 
+1348 Ham. (C.) O, wonderful!
+1349 
+1350 Hor.
+1351 Good my lord, tell it.
+1352 
+1353 Ham.
+1354 No;
+1355 
+1356 You will reveal it.
+1357 
+1358 Hor. Not I, my lord, by heaven.
+1359 
+1360 Mar.
+1361 Nor I, my lord.
+1362 
+1363 Ham. How say you, then; would heart of man once think it?
+1364 
+1365 But you'll be secret?—
+1366 
+1367 29
+1368 Hor.
+1369 
+1370 Mar.
+1371 
+1372 Ay, by heaven, my lord.
+1373 
+1374 Ham. There's ne'er a villain, dwelling in all Denmark—
+1375 
+1376 But he's an arrant knave.118
+1377 
+1378 Hor. There needs no ghost, my lord, come from the grave
+1379 
+1380 To tell us this.
+1381 
+1382 Ham. Why, right; you are in the right;
+1383 
+1384 And so, without more circumstance at all,
+1385 
+1386 I hold it fit that we shake hands, and part:
+1387 
+1388 You as your business and desire shall point you,
+1389 
+1390 For every man hath business and desire,
+1391 
+1392 Such as it is;—and, for my own poor part,
+1393 
+1394 Look you, I will go pray.
+1395 
+1396 Hor. These are but wild and whirling words,119 my lord.
+1397 
+1398 Ham. I am sorry they offend you, heartily.
+1399 
+1400 Hor. There's no offence, my lord.
+1401 
+1402 Ham. Yes, by Saint Patrick,120 but there is, Horatio,
+1403 
+1404 And much offence, too. Touching this vision here,
+1405 
+1406 It is an honest ghost, that let me tell you:
+1407 
+1408 For your desire to know what is between us,
+1409 
+1410 O'er-master it121 as you may. And now, good friends,
+1411 
+1412 As you are friends, scholars, and soldiers,
+1413 
+1414 Give me one poor request.
+1415 
+1416 Hor.
+1417 What is't, my lord?
+1418 
+1419 We will.
+1420 
+1421 Ham. Never make known what you have seen to-night.
+1422 
+1423 30
+1424 Hor.
+1425 
+1426 Mar.
+1427 
+1428 My lord, we will not.
+1429 
+1430 Ham.
+1431 Nay, but swear't.
+1432 
+1433 Hor.
+1434 Propose the oath, my lord.
+1435 
+1436 Ham. Never to speak of this that you have seen.
+1437 
+1438 Swear by my sword.
+1439 
+1440 [Horatio and Marcellus place each their right hand on Hamlet's sword.]
+1441 
+1442 Ghost. (Beneath.) Swear.
+1443 
+1444 Hor. O day and night, but this is wondrous strange!
+1445 
+1446 Ham. And therefore as a stranger give it welcome.122
+1447 
+1448 There are more things in heaven and earth, Horatio,
+1449 
+1450 Than are dreamt of in your philosophy.
+1451 
+1452 But come;—
+1453 
+1454 Here, as before, never, so help you mercy,
+1455 
+1456 How strange or odd soe'er I bear myself,
+1457 
+1458 As I, perchance, hereafter shall think meet
+1459 
+1460 To put an antick disposition123 on,—
+1461 
+1462 That you, at such times seeing me, never shall,
+1463 
+1464 With arms encumber'd thus,124 or this head-shake,
+1465 
+1466 Or by pronouncing of some doubtful phrase,
+1467 
+1468 As, Well, we know; or, We could, an if we would; or, If
+1469 
+1470 we list to speak;—or, There be, an if they might;—
+1471 
+1472 Or such ambiguous giving out, to note
+1473 
+1474 That you know aught of me:—This do you swear,
+1475 
+1476 So grace and mercy at your most need help you!
+1477 
+1478 [Horatio and Marcellus again place their hands on Hamlet's sword.]
+1479 
+1480 Ghost. (Beneath.) Swear.
+1481 
+1482 Ham. Rest, rest, perturbed spirit! So gentlemen,
+1483 
+1484 With all my love I do commend me to you:
+1485 
+1486 And what so poor a man as Hamlet is
+1487 
+1488 May do, to express his love and friending to you,
+1489 
+1490 31
+1491 Heaven willing, shall not lack.125 Let us go in together;
+1492 
+1493 [Crosses to L.]
+1494 
+1495 And still your fingers on your lips, I pray.
+1496 
+1497 The time is out of joint;—O cursèd spite,
+1498 
+1499 That ever I was born to set it right!
+1500 
+1501 Nay, come, let's go together.
+1502 
+1503 [Exeunt L.H.]
+1504 
+1505 END OF ACT FIRST.
+1506 Notes
+1507 Act I
+1508 
+1509 I.1 me:] i.e., me who am already on the watch, and have a right to demand the watch-word.
+1510 
+1511 I.2 unfold] Announce, make known.
+1512 
+1513 I.3 Long live the King.] The watch-word.
+1514 
+1515 I.4 The rivals of my watch,] Rivals, for partners or associates.
+1516 
+1517 I.5 And liegemen to the Dane.] i.e., owing allegiance to Denmark.
+1518 
+1519 I.6 A piece of him.] Probably a cant expression.
+1520 
+1521 I.7 To watch the minutes of this night;] This seems to have been an expression common in Shakespeare's time.
+1522 
+1523 I.8 Approve our eyes,] To approve, in Shakespeare's age, signified to make good or establish.
+1524 
+1525 I.9 What we have seen.] We must here supply "with," or "by relating" before "what we have seen."
+1526 
+1527 I.10 It harrows me with fear and wonder.] i.e., it confounds and overwhelms me.
+1528 
+1529 I.11 Usurp'st this time of night,] i.e., abuses, uses against right, and the order of things.
+1530 
+1531 I.12 I might not this believe, &c.] I could not: it had not been permitted me, &c., without the full and perfect evidence, &c.
+1532 
+1533 I.13 Jump at this dead hour,] Jump and just were synonymous in Shakespeare's time.
+1534 
+1535 I.14 In what particular thought to work,] In what particular course to set my thoughts at work: in what particular train to direct the mind and exercise it in conjecture.
+1536 
+1537 I.15 Gross and scope] Upon the whole, and in a general view.
+1538 
+1539 I.16 Bodes some strange eruption to our state,] i.e., some political distemper, which will break out in dangerous consequences.
+1540 
+1541 I.17 Palmy state] Outspread, flourishing. Palm branches were the emblem of victory.
+1542 
+1543 I.18 Sound, or use of voice,] Articulation.
+1544 
+1545 I.19
+1546 
+1547 Uphoarded in thy life
+1548 
+1549 Extorted treasure in the womb of earth,]
+1550 
+1551 So in Decker's Knight's Conjuring, &c. "If any of them had bound the spirit of gold by any charmes in cares, or in iron fetters, under the ground, they should, for their own soule's quiet (which, questionless, else would whine up and down,) not for the good of their children, release it."
+1552 
+1553 I.20
+1554 
+1555 And then it started like a guilty thing
+1556 
+1557 Upon a fearful summons.]
+1558 
+1559 Apparitions were supposed to fly from the crowing of the cock, because it indicated the approach of day.
+1560 
+1561 I.21 Lofty] High and loud.
+1562 
+1563 I.22 The extravagant and erring spirit] Extravagant is, got out of his bounds. Erring is here used in the sense of wandering.
+1564 
+1565 I.23 Laertes is unknown in the original story, being an introduction of Shakespeare's.
+1566 
+1567 I.24 Green;] Fresh.
+1568 
+1569 I.25 Wisest sorrow] Sober grief, passion discreetly reined.
+1570 
+1571 I.26 With a defeated joy,] i.e., with joy baffled; with joy interrupted by grief.
+1572 
+1573 I.27 Barr'd] Excluded—acted without the concurrence of.
+1574 
+1575 I.28 Your leave and favour] The favour of your leave granted, the kind permission. Two substantives with a copulative being here, as is the frequent practice of our author, used for an adjective and substantive: an adjective sense is given to a substantive.
+1576 
+1577 I.29 Upon his will I sealed my hard consent:] At or upon his earnest and importunate suit, I gave my full and final, though hardly obtained and reluctant, consent.
+1578 
+1579 I.30
+1580 
+1581 Take thy fair hour! time be thine;
+1582 
+1583 And thy best graces spend it at thy will!]
+1584 
+1585 Catch the auspicious moment! be time thine own! and may the exercise of thy fairest virtue fill up those hours, that are wholly at your command!
+1586 
+1587 I.31 A little more than kin, and less than kind.] Dr. Johnson says that kind is the Teutonic word for child. Hamlet, therefore, answers to the titles of cousin and son, which the king had given him, that he was somewhat more than cousin, and less than son. Steevens remarks, that it seems to have been another proverbial phrase: "The nearer we are in blood, the further we must be from love; the greater the kindred is, the less the kindness must be." Kin is still used in the Midland Counties for cousin, and kind signifies nature. Hamlet may, therefore, mean that the relationship between them had become unnatural.
+1588 
+1589 I.32 I am too much i'the sun.] Meaning, probably, his being sent for from his studies to be exposed at his uncle's marriage as his chiefest courtier, and being thereby placed too much in the radiance of the king's presence; or, perhaps, an allusion to the proverb, "Out of Heaven's blessing, into the warm sun:" but it is not unlikely that a quibble is meant between son and sun.
+1590 
+1591 I.33 Nighted colour] Black—night-like.
+1592 
+1593 I.34 Vailed lids] Cast down.
+1594 
+1595 I.35 Which passeth show;] i.e., "external manners of lament."
+1596 
+1597 I.36 Trappings] Trappings are "furnishings."
+1598 
+1599 I.37 That father lost, lost his;] "That lost father (of your father, i.e., your grandfather), or father so lost, lost his."
+1600 
+1601 I.38 Do obsequious sorrow:] Follow with becoming and ceremonious observance the memory of the deceased.
+1602 
+1603 I.39 But to perséver] This word was anciently accented on the second syllable.
+1604 
+1605 I.40 Obstinate condolement,] Ceaseless and unremitted expression of grief.
+1606 
+1607 I.41 Incorrect to Heaven.] Contumacious towards Heaven.
+1608 
+1609 I.42 Unprevailing] Fruitless, unprofitable.
+1610 
+1611 I.43 Sits smiling to my heart:] To is at: gladdens my heart.
+1612 
+1613 I.44 In grace whereof,] i.e., respectful regard or honour of which.
+1614 
+1615 I.45 No jocund health, that Denmark drinks to-day,] Dr. Johnson remarks, that the king's intemperance is very strongly impressed; everything that happens to him gives him occasion to drink. The Danes were supposed to be hard drinkers.
+1616 
+1617 I.46 Resolve itself] To resolve is an old word signifying to dissolve.
+1618 
+1619 I.47 His canon] i.e., his rule or law.
+1620 
+1621 I.48 The uses of this world!] i.e., the habitudes and usages of life.
+1622 
+1623 I.49 Merely.] Wholly—entirely.
+1624 
+1625 I.50 Hyperion to a satyr:] An allusion to the exquisite beauty of Apollo, compared with the deformity of a satyr; that satyr, perhaps, being Pan, the brother of Apollo. Our great poet is here guilty of a false quantity, by calling Hypĕrīon, Hypērĭon, a mistake not unusual among our English poets.
+1626 
+1627 I.51 Might not beteem] i.e., might not allow, permit.
+1628 
+1629 I.52 I'll change that name with you.] i.e., do not call yourself my servant, you are my friend; so I shall call you, and so I would have you call me.
+1630 
+1631 I.53 In faith.] Faithfully, in pure and simple verity.
+1632 
+1633 I.54 But what make you] What is your object? What are you doing?
+1634 
+1635 I.55 What, in faith, make you from Wittenberg?] In Shakespeare's time there was a university at Wittenberg; but as it was not founded till 1502, it consequently did not exist in the time to which this play refers.
+1636 
+1637 I.56 My dearest foe] i.e., my direst or most important foe. This epithet was commonly used to denote the strongest and liveliest interest in any thing or person, for or against.
+1638 
+1639 I.57 Goodly king.] i.e., a good king.
+1640 
+1641 I.58
+1642 
+1643 Season your admiration for a while
+1644 
+1645 with an attent ear;]
+1646 
+1647 i.e., suppress your astonishment for a short time, that you may be the better able to give your attention to what we will relate.
+1648 
+1649 I.59 In the dead waste and middle of the night,] i.e., in the dark and desolate vast, or vacant space and middle of the night. It was supposed that spirits had permission to range the earth by night alone.
+1650 
+1651 I.60 With the act of fear,] i.e., by the influence or power of fear.
+1652 
+1653 I.61 Address] i.e., make ready.
+1654 
+1655 I.62 Writ down] Prescribed by our own duty.
+1656 
+1657 I.63 He wore his beaver up.] That part of the helmet which may be lifted up, to take breath the more freely.
+1658 
+1659 I.64 Tenable] i.e., strictly maintained.
+1660 
+1661 I.65 Benefit,] Favourable means.
+1662 
+1663 I.66 Trifling of his favour,] Gay and thoughtless intimation.
+1664 
+1665 I.67 Pérfume and suppliance of a minute.] i.e., an amusement to fill up a vacant moment, and render it agreeable.
+1666 
+1667 I.68 Keep within the rear of your affection,] Front not the peril; withdraw or check every warm emotion: advance not so far as your affection would lead you.]
+1668 
+1669 I.69 The chariest maid] Chary is cautious.
+1670 
+1671 I.70 Puff'd and reckless libertine.] Bloated and swollen, the effect of excess; and heedless and indifferent to consequences.
+1672 
+1673 I.71 Recks not his own read.] i.e., heeds not his own lessons or counsel.
+1674 
+1675 I.72 Shoulder of your sail,] A common sea phrase.
+1676 
+1677 I.73 Look thou charácter.] i.e., a word often used by Shakespeare to signify to write, strongly infix; the accent is on the second syllable.
+1678 
+1679 I.74 Unproportion'd thought] Irregular, disorderly thought.
+1680 
+1681 I.75 Each man's censure,] Sentiment, opinion.
+1682 
+1683 I.76 i.e., chiefly in that.
+1684 
+1685 I.77 Husbandry] i.e., thrift, economical prudence.
+1686 
+1687 I.78 Season this in thee!] i.e., infix it in such a manner as that it may never wear out.
+1688 
+1689 I.79 Yourself shall keep the key of it.] Thence it shall not be dismissed, till you think it needless to retain it.
+1690 
+1691 I.80 Given private time to you;] Spent his time in private visits to you.
+1692 
+1693 I.81 As so 'tis put on me,] Suggested to, impressed on me.
+1694 
+1695 I.82 Is between] i.e., what has passed—what intercourse had.
+1696 
+1697 I.83
+1698 
+1699 Green girl,
+1700 
+1701 Unsifted]
+1702 
+1703 i.e., inexperienced girl. Unsifted means one who has not nicely canvassed and examined the peril of her situation.
+1704 
+1705 I.84 Woodcocks.] Witless things.
+1706 
+1707 I.85 Slander any leisure moment,] i.e., I would not have you so disgrace your most idle moments, as not to find better employment for them than lord Hamlet's conversation.
+1708 
+1709 I.86 An eager air.] Eager here means sharp, from aigre, French.
+1710 
+1711 I.87 Doth wake to-night,] i.e., holds a late revel.
+1712 
+1713 I.88 Takes his rouse,] Rouse means drinking bout, carousal.
+1714 
+1715 I.89 Questionable shape,] To question, in our author's time, signified to converse. Questionable, therefore, means capable of being conversed with.
+1716 
+1717 I.90 Hearsed in death,] Deposited with the accustomed funeral rites.
+1718 
+1719 I.91 Cerements;] Those precautions usually adopted in preparing dead bodies for sepulture.
+1720 
+1721 I.92 Fools of nature] i.e., making sport for nature.
+1722 
+1723 I.93 Disposition] Frame of mind and body.
+1724 
+1725 I.94 Removèd ground:] Removed for remote.
+1726 
+1727 I.95 At a pin's fee;] i.e., the value of a pin.
+1728 
+1729 I.96 What if it tempt you toward the flood, &c.] Malignant spirits were supposed to entice their victims into places of gloom and peril, and exciting in them the deepest terror.
+1730 
+1731 I.97 Beetles o'er his base into the sea,] i.e., projects darkly over the sea.
+1732 
+1733 I.98 Némean lion's nerve.] Shakespeare, and nearly all the poets of his time, disregarded the quantity of Latin names. The poet has here placed the accent on the first syllable, instead of the second.
+1734 
+1735 I.99 That lets me:] To let, in the sense in which it is here used, means to hinder—to obstruct—to oppose. The word is derived from the Saxon.
+1736 
+1737 I.100 To fast in fires,] Chaucer has a similar passage with regard to eternal punishment—"And moreover the misery of Hell shall be in default of meat and drink."
+1738 
+1739 I.101 Harrow up thy soul;] Agitate and convulse.
+1740 
+1741 I.102 Hair to stand on end,] A common image of that day. "Standing as frighted with erected haire."
+1742 
+1743 I.103 The fretful porcupine:] This animal being considered irascible and timid.
+1744 
+1745 I.104 Eternal blazon] i.e., publication or divulgation of things eternal.
+1746 
+1747 I.105 Rots itself in ease on Lethe wharf,] i.e., in indolence and sluggishness, by its torpid habits contributes to that morbid state of its juices which may figuratively be denominated rottenness.
+1748 
+1749 I.106 Orchard,] Garden.
+1750 
+1751 I.107 Forged process] i.e., false report of proceedings.
+1752 
+1753 I.108 Decline upon a wretch.] Stoop with degradation to.
+1754 
+1755 I.109 Secure] Unguarded.
+1756 
+1757 I.110 Hebenon] Hebenon is described by Nares in his Glossary, as the juice of ebony, supposed to be a deadly poison.
+1758 
+1759 I.111 Despatch'd:] Despoiled—bereft.
+1760 
+1761 I.112 Unhousel'd, disappointed, unanel'd;] To housel is to minister the sacrament to one lying on his death bed. Disappointed is the same as unappointed, which here means unprepared. Unanel'd is without extreme unction.
+1762 
+1763 I.113 Luxury] Lasciviousness.
+1764 
+1765 I.114 Pale his uneffectual fire:] i.e., not seen by the light of day; or it may mean, shining without heat.
+1766 
+1767 I.115 In this distracted globe.] i.e., his head distracted with thought.
+1768 
+1769 I.116 Pressures past,] Impressions heretofore made.
+1770 
+1771 I.117 Come, bird, come.] This is the call which falconers used to their hawk in the air when they would have him come down to them.
+1772 
+1773 I.118 There's ne'er a villain dwelling in all Denmark— But he's an arrant knave.] Hamlet probably begins these words in the ardour of confidence and sincerity; but suddenly alarmed at the magnitude of the disclosure he was going to make, and considering that, not his friend Horatio only, but another person was present, he breaks off suddenly:—"There's ne'er a villain in all Denmark that can match (perhaps he would have said) my uncle in villainy; but recollecting the danger of such a declaration, he pauses for a moment, and then abruptly concludes:—"but he's an arrant knave."
+1774 
+1775 I.119 Whirling words,] Random words thrown out with no specific aim.
+1776 
+1777 I.120 By Saint Patrick,] At this time all the whole northern world had their learning from Ireland; to which place it had retired, and there flourished under the auspices of this Saint.
+1778 
+1779 I.121 O'er-master it] Get the better of it.
+1780 
+1781 I.122 Give it welcome.] Receive it courteously, as you would a stranger when introduced.
+1782 
+1783 I.123 Antick disposition] i.e., strange, foreign to my nature, a disposition which Hamlet assumes as a protection against the danger which he apprehends from his uncle, and as a cloak for the concealment of his own meditated designs.
+1784 
+1785 I.124 Arms encumber'd thus,] i.e., folded.
+1786 
+1787 I.125 Friending to you—shall not lack] Disposition to serve you shall not be wanting.
+1788 
+1789 32
+1790 
+1791 ACT II.
+1792 Scene I.—A ROOM IN POLONIUS'S HOUSE.
+1793 Enter Polonius1 (L.H.), meeting Ophelia. (R.H.)
+1794 
+1795 Pol. How now, Ophelia! What's the matter?
+1796 
+1797 Oph. O, my lord, my lord, I have been so affrighted!
+1798 
+1799 Pol. With what, in the name of Heaven?
+1800 
+1801 Oph. My lord, as I was sewing in my closet,
+1802 
+1803 Lord Hamlet, with his doublet all unbrac'd;
+1804 
+1805 Pale as his shirt; his knees knocking each other,
+1806 
+1807 And with a look so piteous in purport,
+1808 
+1809 He comes before me.
+1810 
+1811 Pol. Mad for thy love?
+1812 
+1813 Oph.
+1814 My lord, I do not know;
+1815 
+1816 But, truly, I do fear it.
+1817 
+1818 Pol.
+1819 What said he?
+1820 
+1821 Oph. He took me by the wrist, and held me hard;
+1822 
+1823 Then goes he to the length of all his arm;
+1824 
+1825 And, with his other hand thus o'er his brow,
+1826 
+1827 He falls to such perusal of my face
+1828 
+1829 As he would draw it. Long staid he so;
+1830 
+1831 At last,—a little shaking of mine arm,
+1832 
+1833 And thrice his head thus waving up and down,
+1834 
+1835 He rais'd a sigh so piteous and profound,
+1836 
+1837 As it did seem to shatter all his bulk,2
+1838 
+1839 And end his being: That done, he lets me go:
+1840 
+1841 And, with his head over his shoulder turn'd,
+1842 
+1843 33
+1844 He seem'd to find his way without his eyes;
+1845 
+1846 For out o'doors he went without their helps,
+1847 
+1848 And, to the last, bended their light on me.
+1849 
+1850 Pol. Come, go with me; I will go seek the king.
+1851 
+1852 This is the very ecstacy of love;3
+1853 
+1854 What, have you given him any hard words of late?
+1855 
+1856 Oph. No, my good lord; but, as you did command,
+1857 
+1858 I did repel his letters, and denied
+1859 
+1860 His access to me.
+1861 
+1862 Pol.
+1863 That hath made him mad.
+1864 
+1865 Come, go we to the king:
+1866 
+1867 This must be known; which, being kept close, might move
+1868 
+1869 More grief to hide than hate to utter love.4
+1870 
+1871 Come.
+1872 
+1873 [Exeunt L.H.]
+1874 
+1875 Scene II.—A ROOM IN THE CASTLE.
+1876 Enter King, Queen, Rosencrantz, Guildenstern, and Attendants (R.H.)
+1877 
+1878 King. (C.) Welcome, dear Rosencrantz and Guildenstern!
+1879 
+1880 Moreover that we much did long to see you,
+1881 
+1882 The need we have to use you did provoke
+1883 
+1884 Our hasty sending. Something have you heard
+1885 
+1886 Of Hamlet's transformation. What it should be,
+1887 
+1888 More than his father's death, that thus hath put him
+1889 
+1890 So much from the understanding of himself,5
+1891 
+1892 34I cannot dream of: I entreat you both,
+1893 
+1894 That you vouchsafe your rest6 here in our court
+1895 
+1896 Some little time: so by your companies
+1897 
+1898 To draw him on to pleasures, and to gather,
+1899 
+1900 Whether aught, to us unknown, afflicts him thus,
+1901 
+1902 That, open'd, lies within our remedy.
+1903 
+1904 Queen. (R.C.) Good gentlemen, he hath much talk'd of you;
+1905 
+1906 And sure I am two men there are not living
+1907 
+1908 To whom he more adheres. If it will please you
+1909 
+1910 So to expend your time with us a while,
+1911 
+1912 Your visitation shall receive such thanks
+1913 
+1914 As fits a king's remembrance.
+1915 
+1916 Ros. (R.)
+1917 Both your majesties
+1918 
+1919 Might, by the sovereign power you have of us,7
+1920 
+1921 Put your dread pleasures more into command
+1922 
+1923 Than to entreaty.
+1924 
+1925 Guil. (R.)
+1926 But we both obey,
+1927 
+1928 And here give up ourselves, in the full bent,8
+1929 
+1930 To lay our service freely at your feet.
+1931 
+1932 King. Thanks, Rosencrantz and gentle Guildenstern.
+1933 
+1934 Queen. I do beseech you instantly to visit
+1935 
+1936 My too much changèd son. Go, some of you,
+1937 
+1938 And bring these gentlemen where Hamlet is.
+1939 
+1940 [Exeunt Rosencrantz, Guildenstern, and Attendants, R.H.]
+1941 
+1942 Enter Polonius (L.H.)
+1943 
+1944 Pol. Now do I think (or else this brain of mine
+1945 
+1946 Hunts not the trail of policy9 so sure
+1947 
+1948 As it hath us'd to do), that I have found
+1949 
+1950 The very cause of Hamlet's lunacy.
+1951 
+1952 King. (C.) O, speak of that; that do I long to hear.
+1953 
+1954 Pol. (L.C.) My liege, and madam, to expostulate10
+1955 
+1956 35
+1957 What majesty should be, what duty is,
+1958 
+1959 Why day is day, night night, and time is time,
+1960 
+1961 Were nothing but to waste night, day, and time;
+1962 
+1963 Therefore, since brevity is the soul of wit,
+1964 
+1965 And tediousness the limbs and outward flourishes,—
+1966 
+1967 I will be brief:—Your noble son is mad:
+1968 
+1969 Mad call I it; for, to define true madness,
+1970 
+1971 What is't, but to be nothing else but mad?
+1972 
+1973 But let that go.
+1974 
+1975 Queen. (R.C.) More matter, with less art.
+1976 
+1977 Pol. Madam, I swear I use no art at all.
+1978 
+1979 That he is mad, 'tis true: 'tis true 'tis pity;
+1980 
+1981 And pity 'tis, 'tis true: a foolish figure;
+1982 
+1983 But farewell it, for I will use no art.
+1984 
+1985 Mad let us grant him, then: and now remains
+1986 
+1987 That we find out the cause of this effect,
+1988 
+1989 Or, rather say, the cause of this defect,
+1990 
+1991 For this effect defective comes by cause:
+1992 
+1993 Thus it remains, and the remainder thus,
+1994 
+1995 Perpend.11
+1996 
+1997 I have a daughter, have, while she is mine,
+1998 
+1999 Who, in her duty and obedience, mark,
+2000 
+2001 Hath given me this: Now gather, and surmise.
+2002 
+2003 [Reads] To the celestial, and my soul's idol, the most beautified Ophelia,—12
+2004 
+2005 That's an ill phrase, a vile phrase, beautified is a vile phrase: but you shall hear. Thus:
+2006 
+2007 In her excellent white bosom,13 these, &c.14
+2008 
+2009 Queen. Came this from Hamlet to her?
+2010 
+2011 Pol. Good madam, stay awhile; I will be faithful.—
+2012 
+2013 [Reads.]
+2014 Doubt thou the stars are fire;
+2015 
+2016 Doubt thou the sun doth move;
+2017 
+2018 36
+2019 Doubt truth to be a liar;
+2020 
+2021 But never doubt, I love.
+2022 
+2023 O dear Ophelia, I am ill at these numbers;15 I have not art to reckon my groans: but that I love thee best, O most best,16 believe it. Adieu.
+2024 
+2025 Thine evermore, most dear lady, whilst this machine is to him,17 Hamlet.
+2026 
+2027 This, in obedience, hath my daughter shown me:
+2028 
+2029 And more above,18 hath his solicitings,19
+2030 
+2031 As they fell out by time, by means, and place,
+2032 
+2033 All given to my ear.
+2034 
+2035 King.
+2036 But how hath she
+2037 
+2038 Receiv'd his love?
+2039 
+2040 Pol. What do you think of me?
+2041 
+2042 King. As of a man faithful and honourable.
+2043 
+2044 Pol. I would fain prove so. But what might you think,
+2045 
+2046 When I had seen this hot love on the wing
+2047 
+2048 (As I perceived it, I must tell you that,
+2049 
+2050 Before my daughter told me), what might you,
+2051 
+2052 Or my dear majesty your queen here, think,
+2053 
+2054 If I had play'd the desk or table book;20
+2055 
+2056 Or given my heart a winking, mute and dumb;21
+2057 
+2058 Or look'd upon this love with idle sight;22
+2059 
+2060 What might you think? No, I went round to work,23
+2061 
+2062 And my young mistress thus did I bespeak:
+2063 
+2064 Lord Hamlet is a prince, out of thy sphere;
+2065 
+2066 This must not be: and then I precepts gave her,
+2067 
+2068 37
+2069 That she should lock herself from his resort,
+2070 
+2071 Admit no messengers, receive no tokens.
+2072 
+2073 Which done, she took the fruits of my advice;24
+2074 
+2075 And he, repuls'd (a short tale to make),
+2076 
+2077 Fell into sadness; thence into a weakness;
+2078 
+2079 Thence to a lightness; and, by this declension,
+2080 
+2081 Into the madness wherein now he raves,
+2082 
+2083 And all we mourn for.
+2084 
+2085 King.
+2086 Do you think 'tis this?
+2087 
+2088 Queen. It may be, very likely.
+2089 
+2090 Pol. Hath there been such a time (I'd fain know that,)
+2091 
+2092 That I have positively said, 'tis so,
+2093 
+2094 When it proved otherwise?
+2095 
+2096 King.
+2097 Not that I know.
+2098 
+2099 Pol. Take this from this, if it be otherwise:
+2100 
+2101 [Pointing to his head and shoulder.]
+2102 
+2103 If circumstances lead me, I will find
+2104 
+2105 Where truth is hid, though it were hid indeed
+2106 
+2107 Within the centre.
+2108 
+2109 King.
+2110 How may we try it further?
+2111 
+2112 Pol. You know, sometimes he walks for hours together
+2113 
+2114 Here in the lobby.
+2115 
+2116 Queen.
+2117 So he does, indeed.
+2118 
+2119 Pol. At such a time I'll loose my daughter to him:
+2120 
+2121 Mark the encounter: if he love her not,
+2122 
+2123 And be not from his reason fallen thereon,
+2124 
+2125 Let me be no assistant for a state,
+2126 
+2127 But keep a farm, and carters.
+2128 
+2129 King.
+2130 We will try it.
+2131 
+2132 Queen. But, look, where sadly the poor wretch comes reading.
+2133 
+2134 Pol. Away, I do beseech you both, away:
+2135 
+2136 I'll board him presently.25
+2137 
+2138 [Exeunt King and Queen, R.H.]
+2139 
+2140 Enter Hamlet, reading (L.C.)
+2141 
+2142 Pol. How does my good lord Hamlet?
+2143 
+2144 38Ham. (C.) Excellent well.
+2145 
+2146 Pol. (R.) Do you know me, my lord?
+2147 
+2148 Ham. Excellent well; you are a fishmonger.26
+2149 
+2150 Pol. Not I, my lord.
+2151 
+2152 Ham. Then I would you were so honest a man.
+2153 
+2154 Pol. Honest, my lord!
+2155 
+2156 Ham. Ay, sir; to be honest, as this world goes, is to be one man picked out of ten thousand.
+2157 
+2158 Pol. That's very true, my lord.
+2159 
+2160 Ham. For if the sun breed maggots in a dead dog, being a god, kissing carrion,——Have you a daughter?27
+2161 
+2162 Pol. I have, my lord.
+2163 
+2164 Ham. Let her not walk i'the sun: conception is a blessing; but as your daughter may conceive,—friend, look to't, look to't, look to't.
+2165 
+2166 [Goes up stage.]
+2167 
+2168 Pol. (Aside.) Still harping on my daughter:—yet he knew me not at first; he said I was a fishmonger. [Crosses to L.] I'll speak to him again.—What do you read, my lord?
+2169 
+2170 Ham. (C.) Words, words, words.
+2171 
+2172 Pol. (L.) What is the matter, my lord?
+2173 
+2174 Ham. Between who?
+2175 
+2176 Pol. I mean, the matter that you read, my lord.
+2177 
+2178 Ham. Slanders, sir: for the satirical rogue28 says here that old men have grey beards; that their faces are 39wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams: All of which, sir, though I most powerfully and potently believe, yet I hold it not honesty to have it thus set down; for yourself, sir, shall be as old as I am, if, like a crab, you could go backward.
+2179 
+2180 [Crosses, L.]
+2181 
+2182 Pol. (Aside.) Though this be madness, yet there's method in it. Will you walk out of the air, my lord?
+2183 
+2184 Ham. Into my grave?
+2185 [Crosses R.]
+2186 
+2187 Pol. (L.) Indeed, that is out o' the air.—How pregnant sometimes his replies29 are! a happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of. I will leave him, and suddenly contrive the means of meeting between him and my daughter.—My honourable lord, I will most humbly take my leave of you.
+2188 
+2189 Ham. (C.) You cannot, sir, take from me any thing that I will more willingly part withall, except my life, except my life, except my life.
+2190 
+2191 Pol. Fare you well, my lord.
+2192 [Exit Polonius, L.H.]
+2193 
+2194 Ham. These tedious old fools!
+2195 
+2196 Pol. (Without.) You go to seek the lord Hamlet; there he is.
+2197 
+2198 Ros. Heaven save you, sir!
+2199 
+2200 Enter Rosencrantz and Guildenstern (L.H.)
+2201 
+2202 Guil. My honor'd lord!—
+2203 
+2204 Ros. My most dear lord!—
+2205 
+2206 Ham. My excellent good friends! How dost thou, Guildenstern? [Crosses to Rosencrantz.] Ah, Rosencrantz! Good lads, how do ye both? What news?
+2207 
+2208 Ros. (L.) None, my lord, but that the world's grown honest.
+2209 
+2210 Ham. (C.) Then is dooms-day near: but your news is not true. In the beaten way of friendship,30 what make you at Elsinore?
+2211 
+2212 40Ros. To visit you, my lord; no other occasion.
+2213 
+2214 Ham. Beggar that I am, I am even poor in thanks; but I thank you. Were you not sent for? Is it your own inclining? Is it a free visitation? Come, come, deal justly with me: come, come; nay, speak.
+2215 
+2216 Guil. (R.) What should we say, my lord?
+2217 
+2218 Ham. Any thing—but to the purpose. You were sent for; and there is a kind of confession in your looks, which your modesties have not craft enough to colour: I know the good king and queen have sent for you.
+2219 
+2220 Ros. To what end, my lord?
+2221 
+2222 Ham. That you must teach me. But let me conjure you, by the rights of our fellowship, [taking their hands,] by the consonancy of our youth,31 by the obligation of our ever-preserved love, and by what more dear a better proposer32 could charge you withal, be even33 and direct with me, whether you were sent for, or no?
+2223 
+2224 Ros. What say you?
+2225 [To Guildenstern.]
+2226 
+2227 Ham. Nay, then, I have an eye of you.34
+2228 
+2229 [Crosses R.]
+2230 
+2231 [Aside.]
+2232 
+2233 —if you love me, hold not off.
+2234 
+2235 Guil. My lord, we were sent for.
+2236 
+2237 Ham. (Returning C.) I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the king and queen moult no feather.35 I have of late (but wherefore I know not) lost all my mirth, forgone all custom of exercises; and, indeed, it goes so heavily with my disposition, that this goodly frame, the earth, seems to me a steril promontory; this most excellent canopy, the air, look you, this brave o'erhanging firmament, this 41majestical roof fretted with golden fire, why, it appears no other thing to me than a foul and pestilent congregation of vapours. What a piece of work is man! How noble in reason! how infinite in faculties! in form and moving how express36 and admirable! in action how like an angel! in apprehension how like a god! the beauty of the world! the paragon37 of animals! And yet, to me, what is this quintessence of dust? man delights not me,—nor woman neither, though by your smiling you seem to say so.
+2238 
+2239 Ros. My lord, there was no such stuff in my thoughts.
+2240 
+2241 Ham. Why did you laugh, then, when I said, Man delights not me?
+2242 
+2243 Ros. To think, my lord, if you delight not in man, what lenten entertainment38 the players shall receive from you: we coted them on the way;39 and hither are they coming, to offer you service.
+2244 
+2245 Ham. He that plays the king shall be welcome, his majesty shall have tribute of me; the adventurous knight shall use his foil and target; the lover shall not sigh gratis; the humorous man shall end his part in peace;40 and the lady shall say her mind freely, or the blank verse shall halt for't.41—What players are they?
+2246 
+2247 Ros. Even those you were wont to take such delight in, the tragedians of the city.
+2248 
+2249 Ham. How chances it, they travel?42 their residence, both in reputation and profit, was better both ways. Do they hold the same estimation they did when I was in the city? Are they so followed?
+2250 
+2251 Ros. No, indeed, they are not.
+2252 
+2253 42Ham. It is not very strange; for my uncle is king of Denmark,43 and those that would make mouths at him44 while my father lived, give twenty, forty, fifty, an hundred ducats a-piece for his picture in little.45 There is something in this more than natural, if philosophy could find it out.
+2254 
+2255 [Flourish of trumpets without.]
+2256 
+2257 Guil. There are the players.
+2258 
+2259 Ham. Gentlemen, you are welcome to Elsinore. Your hands. You are welcome: but my uncle-father and aunt-mother are deceived.
+2260 
+2261 Guil. In what, my dear lord?
+2262 
+2263 Ham. I am but mad north-north west: when the wind is southerly I know a hawk from a hern-shaw.46
+2264 
+2265 [Crosses R.]
+2266 
+2267 Pol. (Without, L.H.) Well be with you, gentlemen!
+2268 
+2269 Ham. (Crosses C.) Hark you, Guildenstern;—and Rosencrantz: that great baby you see there is not yet out of his swaddling-clouts.
+2270 
+2271 Ros. (R.) Haply he's the second time come to them; for they say an old man is twice a child.
+2272 
+2273 Ham. I will prophesy he comes to tell me of the players; mark it.—You say right, sir: o'Monday morning; 'twas then, indeed.
+2274 
+2275 Enter Polonius L.H.
+2276 
+2277 Pol. My lord, I have news to tell you.
+2278 
+2279 Ham. My lord, I have news to tell you. When Roscius was an actor in Rome,——
+2280 
+2281 Pol. The actors are come hither, my lord.
+2282 
+2283 Ham. Buz, buz!47
+2284 
+2285 Pol. Upon my honour,——
+2286 
+2287 43Ham. Then came each actor on his ass.48
+2288 
+2289 Pol. The best actors in the world, either for tragedy, comedy, history, pastoral, pastorical-comical, historical-pastoral, scene indivisible, or poem unlimited: Seneca cannot be too heavy, nor Plautus too light.49 For the law of writ and the liberty, these are the only men.50
+2290 
+2291 Ham. O, Jephthah, judge of Israel,—what a treasure hadst thou!
+2292 
+2293 Pol. What a treasure had he, my lord?
+2294 
+2295 Ham. Why,—
+2296 
+2297 One fair daughter, and no more,
+2298 
+2299 The which he loved passing well.
+2300 
+2301 Pol. Still harping on my daughter.
+2302 
+2303 [Aside.]
+2304 
+2305 Ham. Am I not i'the right, old Jephthah?
+2306 
+2307 Pol. If you call me Jephthah, my lord, I have a daughter that I love passing well.
+2308 
+2309 Ham. Nay, that follows not.
+2310 
+2311 Pol. What follows, then, my lord?
+2312 
+2313 Ham. Why, As by lot, God wot,51 and then, you know, It came to pass, As most like it was,—The first row of the pious Chanson52 will show you more; for look, my abridgment comes.53
+2314 
+2315 Enter Four or Five Players (L.H.)—Polonius crosses behind Hamlet to R.H.
+2316 
+2317 You are welcome, masters; welcome, all: O, old friend! 44Why, thy face is valanced54 since I saw thee last; Com'st thou to beard me55 in Denmark?—What, my young lady and mistress. By-'r-lady, your ladyship is nearer to heaven than when I saw you last, by the altitude of a chopine.56 You are welcome. We'll e'en to't like French falconers,57 fly at anything we see: We'll have a speech straight: Come, give us a taste of your quality;58 come, a passionate speech.
+2318 
+2319 1st Play. (L.H.) What speech, my lord?
+2320 
+2321 Ham. I heard thee speak me a speech once,—but it was never acted; or, if it was, not above once; for the play, I remember, pleased not the million; 'twas caviare to the general:59 but it was an excellent play, well digested in the scenes, set down with as much modesty as cunning.60 One speech in it I chiefly loved; 'twas Æneas' tale to Dido; and thereabout of it especially, where he speaks of Priam's slaughter: If it live in your memory, begin at this line; let me see, let me see;—
+2322 
+2323 The rugged Pyrrhus, like the Hyrcanian beast,—'tis not so: it begins with Pyrrhus:
+2324 
+2325 The rugged Pyrrhus,—he, whose sable arms,
+2326 
+2327 45
+2328 Black as his purpose, did the night resemble,
+2329 
+2330 Old grandsire Priam seeks.
+2331 
+2332 Pol. (R.) 'Fore Heaven, my lord, well spoken, with good accent and good discretion.
+2333 
+2334 Ham. (C.) So proceed you.
+2335 
+2336 1st Play. (L.) Anon he finds him
+2337 
+2338 Striking too short at Greeks; his antique sword,
+2339 
+2340 Rebellious to his arm, lies where it falls,
+2341 
+2342 Repugnant to command: Unequal match'd,
+2343 
+2344 Pyrrhus at Priam drives; in rage strikes wide;
+2345 
+2346 But with the whiff and wind of his fell sword61
+2347 
+2348 The unnerved father falls.
+2349 
+2350 But, as we often see, against some storm,
+2351 
+2352 A silence in the heavens, the rack62 stand still,
+2353 
+2354 The bold wind speechless, and the orb below
+2355 
+2356 As hush as death; anon the dreadful thunder
+2357 
+2358 Doth rend the region; So, after Pyrrhus' pause,
+2359 
+2360 A roused vengeance sets him new a work;
+2361 
+2362 And never did the Cyclops' hammers fall
+2363 
+2364 On Mars's armour, forg'd for proof eterne,
+2365 
+2366 With less remorse than Pyrrhus' bleeding sword
+2367 
+2368 Now falls on Priam.—
+2369 
+2370 Out, out, thou fickle Fortune!
+2371 
+2372 Pol. (R.) This is too long.
+2373 
+2374 Ham. It shall to the barber's, with your beard.— Say on;—come to Hecuba.
+2375 
+2376 1st Play. But who, ah woe, had seen the mobled queen—
+2377 
+2378 Ham. The mobled queen?63
+2379 
+2380 Pol. That's good; mobled queen is good.
+2381 
+2382 1st Play. Run barefoot up and down, threatening the flames;
+2383 
+2384 A clout upon that head
+2385 
+2386 Where late the diadem stood; and, for a robe,
+2387 
+2388 A blanket, in the alarm of fear caught up;
+2389 
+2390 46
+2391 Who this had seen, with tongue in venom steep'd,
+2392 
+2393 'Gainst fortune's state would treason have pronounced.
+2394 
+2395 Pol. Look, whether he has not turned his colour, and has tears in's eyes.—Prithee, no more.
+2396 
+2397 Ham. (C.) 'Tis well; I'll have thee speak out the rest of this soon.—Good, my lord, will you see the players well bestowed? Do you hear, let them be well used; for they are the abstract and brief chronicles of the time: After your death you were better have a bad epitaph than their ill report while you live.
+2398 
+2399 Pol. (R.) My lord, I will use them according to their desert.
+2400 
+2401 Ham. Much better: Use every man after his desert, and who shall 'scape whipping? Use them after your own honour and dignity: The less they deserve, the more merit is in your bounty. Take them in.
+2402 
+2403 [Crosses to R.H.]
+2404 
+2405 Pol. Come, sirs.
+2406 
+2407 Ham. Follow him, friends: we'll hear a play to-morrow.
+2408 
+2409 [Exit Polonius with some of the Players, L.H.]
+2410 
+2411 Old friend [Crosses to C.] —My good friends [To Rosencrantz and Guildenstern.] I'll leave you till night: you are welcome to Elsinore—can you play the murder of Gonzago?
+2412 
+2413 [Exeunt Rosencrantz and Guildenstern, R.H.]
+2414 
+2415 1st Play. Ay, my lord.
+2416 
+2417 Ham. We'll have it to-morrow night. You could, for a need, study a speech of some dozen or sixteen lines, which I would insert in't—could you not?
+2418 
+2419 1st Play. Ay, my lord.
+2420 
+2421 Ham. Very well.—Follow that lord; and look you mock him not.
+2422 
+2423 [Exit Player, L.H.]
+2424 
+2425 Now I am alone.
+2426 
+2427 O, what a rogue and peasant slave am I!
+2428 
+2429 Is it not monstrous, that this player here,
+2430 
+2431 But in a fiction, in a dream of passion,
+2432 
+2433 Could force his soul so to his own conceit,
+2434 
+2435 That, from her working, all his visage wann'd;64
+2436 
+2437 Tears in his eyes, distraction in's aspect,
+2438 
+2439 A broken voice, and his whole function suiting
+2440 
+2441 47
+2442 With forms to his conceit?65 And all for nothing!
+2443 
+2444 For Hecuba?
+2445 
+2446 What's Hecuba to him, or he to Hecuba,
+2447 
+2448 That he should weep for her? What would he do,
+2449 
+2450 Had he the motive and the cue66 for passion
+2451 
+2452 That I have? He would drown the stage with tears,
+2453 
+2454 And cleave the general ear with horrid speech;
+2455 
+2456 Make mad the guilty, and appal the free;
+2457 
+2458 Confound the ignorant, and amaze, indeed,
+2459 
+2460 The very faculties of eyes and ears.
+2461 
+2462 Yet I,
+2463 
+2464 A dull and muddy-mettled rascal, peak,
+2465 
+2466 Like John a-dreams,67 unpregnant of my cause,68
+2467 
+2468 And can say nothing; no, not for a king,
+2469 
+2470 Upon whose property and most dear life
+2471 
+2472 A damn'd defeat was made.69 Am I a coward?
+2473 
+2474 Who calls me villain? breaks my pate across?
+2475 
+2476 Plucks off my beard, and blows it in my face?
+2477 
+2478 Tweaks me by the nose? gives me the lie i'the throat,
+2479 
+2480 As deep as to the lungs? Who does me this,
+2481 
+2482 Ha?
+2483 
+2484 Why, I should take it: for it cannot be
+2485 
+2486 But I am pigeon-liver'd, and lack gall
+2487 
+2488 To make oppression bitter;70 or, ere this,
+2489 
+2490 I should have fatted all the region kites
+2491 
+2492 With this slave's offal: Bloody, bawdy villain!
+2493 
+2494 Remorseless, treacherous, lecherous, kindless71 villain!
+2495 
+2496 O, vengeance!
+2497 
+2498 48
+2499 Why, what an ass am I! This is most brave,
+2500 
+2501 That I, the son of a dear father murder'd,
+2502 
+2503 Prompted to my revenge by heaven and hell,
+2504 
+2505 Must, like a scold, unpack my heart with words,
+2506 
+2507 And fall a cursing, like a very drab,
+2508 
+2509 A scullion!
+2510 
+2511 Fye upon't! fye! About, my brains!72 I have heard
+2512 
+2513 That guilty creatures, sitting at a play,
+2514 
+2515 Have by the very cunning of the scene
+2516 
+2517 Been struck so to the soul, that presently
+2518 
+2519 They have proclaim'd their malefactions;
+2520 
+2521 For murder, though it have no tongue, will speak
+2522 
+2523 With most miraculous organ. I'll have these players
+2524 
+2525 Play something like the murder of my father
+2526 
+2527 Before mine uncle: I'll observe his looks;
+2528 
+2529 I'll tent him to the quick:73 if he do blench,74
+2530 
+2531 I know my course. The spirit that I have seen
+2532 
+2533 May be the devil: and the devil hath power
+2534 
+2535 To assume a pleasing shape; yea, and, perhaps
+2536 
+2537 Out of my weakness and my melancholy
+2538 
+2539 (As he is very potent with such spirits),
+2540 
+2541 Abuses me to damn me: I'll have good grounds
+2542 
+2543 More relative than this:75 The play's the thing
+2544 
+2545 Wherein I'll catch the conscience of the king.
+2546 
+2547 [Exit, R.H.]
+2548 
+2549 END OF ACT SECOND.
+2550 Notes
+2551 Act II
+2552 
+2553 II.1 Polonius,] Doctor Johnson describes Polonius as "a man bred in courts, exercised in business, stored with observation, confident in his knowledge, proud of his eloquence, and declining into dotage. A man positive and confident, because he knows his mind was once strong, and knows not that it is become weak." The idea of dotage encroaching upon wisdom will solve all the phenomena of the character of Polonius.
+2554 
+2555 II.2 His bulk,] Frame.
+2556 
+2557 II.3 Ecstacy of love;] i.e., madness of love. In this sense the word is now obsolete.
+2558 
+2559 II.4
+2560 
+2561 This must be known; which being kept close, might move
+2562 
+2563 More grief to hide than hate to utter love.]
+2564 
+2565 i.e., this must be made known to the king, for (being kept secret) the hiding Hamlet's love might occasion more mischief to us from him and the queen, than the uttering or revealing of it will occasion hate and resentment from Hamlet.
+2566 
+2567 It was the custom of Shakespeare's age, to conclude acts and scenes with a couplet, a custom which was continued for nearly a century afterwards.
+2568 
+2569 II.5 The understanding of himself,] i.e., the just estimate of himself.
+2570 
+2571 II.6 Vouchsafe your rest] Please to reside.
+2572 
+2573 II.7 Of us,] i.e., over us.
+2574 
+2575 II.8 In the full bent,] To the full stretch and range—a term derived from archery.
+2576 
+2577 II.9 The trail of policy] The trail is the course of an animal pursued by the scent.
+2578 
+2579 II.10 Expostulate] To expostulate is to discuss, to put the pros and cons, to answer demands upon the question. Expose is an old term of similar import.
+2580 
+2581 II.11 Perpend.] i.e., reflect, consider attentively.
+2582 
+2583 II.12 Most beautified Ophelia,] Heywood, in his History of Edward VI., says "Katharine Parre, Queen Dowager to King Henry VIII., was a woman beautified with many excellent virtues." The same expression is frequently used by other old authors.
+2584 
+2585 II.13 In her excellent white bosom,] The ladies, in Shakespeare's time, wore pockets in the front of their stays.
+2586 
+2587 II.14 These, &c.] In our poet's time, the word these was usually added at the end of the superscription of letters.
+2588 
+2589 II.15 I am ill at these numbers;] No talent for these rhymes.
+2590 
+2591 II.16 O most best,] An ancient mode of expression.
+2592 
+2593 II.17 Whilst this machine is to him,] Belongs to, obey his impulse; so long as he is "a sensible warm motion," the similar expression to "While my wits are my own."
+2594 
+2595 II.18 And more above,] i.e., moreover, besides.
+2596 
+2597 II.19 His solicitings,] i.e., his love-making, his tender expressions.
+2598 
+2599 II.20 If I had played the desk, or table book;] This line may either mean if I had conveyed intelligence between them, or, known of their love, if I had locked up his secret in my own breast, as closely as it were confined in a desk or table book.
+2600 
+2601 II.21 Or given my heart a winking, mute and dumb;] i.e., connived at it.
+2602 
+2603 II.22 With idle sight;] i.e., with indifference.
+2604 
+2605 II.23 Round to work,] i.e., roundly, without reserve.
+2606 
+2607 II.24 Which done, she took the fruits of my advice;] She took the fruits of advice when she obeyed advice, the advice was then made fruitful.—Johnson.
+2608 
+2609 II.25 I'll board him presently.] Accost, address him.
+2610 
+2611 II.26 You are a fishmonger.] This was an expression better understood in Shakespeare's time than at present, and no doubt was relished by the audience of the Globe Theatre as applicable to the Papists, who in Queen Elizabeth's time were esteemed enemies to the Government. Hence the proverbial phrase of He's an honest man and eats no fish; to signify he's a friend to the Government and a Protestant.
+2612 
+2613 II.27 For if the sun breed maggots in a dead dog, being a god, kissing carrion,——Have you a daughter?] i.e., Hamlet having just remarked that honesty is very rare in the world, adds, that since there is so little virtue, since corruption abounds everywhere, and maggots are bred by the sun, which is a god, even in a dead dog, Polonius ought to take care to prevent his daughter from walking in the sun, lest she should prove "a breeder of sinners;" for though conception (understanding) in general be a blessing, yet as Ophelia might chance to conceive (to be pregnant), it might be a calamity. Hamlet's abrupt question, "Have you a daughter?" is evidently intended to impress Polonius with the belief of the Prince's madness.—Malone.
+2614 
+2615 II.28 The satirical rogue] Hamlet alludes to Juvenal, who in his 10th Satire, describes the evils of long life.
+2616 
+2617 II.29 How pregnant his replies] Big with meaning.
+2618 
+2619 II.30 Beaten way of friendship,] Plain track, open and unceremonious course.
+2620 
+2621 II.31 Rights of our fellowship and constancy of our youth,] Habits of familiar intercourse and correspondent years.
+2622 
+2623 II.32 A better proposer] An advocate of more address in shaping his aims, who could make a stronger appeal.
+2624 
+2625 II.33 Even] Without inclination any way.
+2626 
+2627 II.34 Nay, then, I have an eye of you.] i.e., I have a glimpse of your meaning. Hamlet's penetration having shown him that his two friends are set over him as spies.
+2628 
+2629 II.35 So shall my anticipation prevent your discovery, and your secrecy to the king and queen moult no feather.] Be beforehand with your discovery, and the plume and gloss of your secret pledge be in no feather shed or tarnished.
+2630 
+2631 II.36 Express] According to pattern, justly and perfectly modelled.
+2632 
+2633 II.37 Paragon] Model of perfection.
+2634 
+2635 II.38 Lenten entertainment] i.e., sparing, like the entertainments given in Lent.
+2636 
+2637 II.39 We coted them on the way;] To cote, is to pass by, to pass the side of another. It appears to be a word of French origin, and was a common sporting term in Shakespeare's time.
+2638 
+2639 II.40 The humorous man shall end his part in peace;] The fretful or capricious man shall vent the whole of his spleen undisturbed.
+2640 
+2641 II.41 The lady shall say her mind freely, or the blank verse shall halt for't.] i.e., the lady shall mar the measure of the verse, rather than not express herself freely and fully.
+2642 
+2643 II.42 Travel?] Become strollers.
+2644 
+2645 II.43 It is not very strange; for my uncle is king of Denmark;] This is a reflection on the mutability of fortune, and the variableness of man's mind.
+2646 
+2647 II.44 Make mouths at him] i.e., deride him by antic gestures and mockery.
+2648 
+2649 II.45 In little.] In miniature.
+2650 
+2651 II.46 I know a hawk from a hern-shaw.] A hernshaw is a heron or hern. To know a hawk from a hernshaw is an ancient proverb, sometimes corrupted into handsaw. Spencer quotes the proverb, as meaning, wise enough to know the hawk from its game.
+2652 
+2653 II.47 Buz, buz!] Sir William Blackstone states that buz used to be an interjection at Oxford when any one began a story that was generally known before.
+2654 
+2655 II.48 Then came each actor on his ass.] This seems to be a line of a ballad.
+2656 
+2657 II.49 Seneca cannot be too heavy, nor Plautus too light.] An English translation of the tragedies of Seneca was published in 1581, and one comedy of Plautus, viz., the Menœchme, in 1595.
+2658 
+2659 II.50 For the law of writ and the liberty, these are the only men.] The probable meaning of this passage is,—For the observance of the rules of the Drama, while they take such liberties, as are allowable, they are the only men—writ is an old word for writing.
+2660 
+2661 II.51 As by lot, God wot,] There was an old ballad entitled the song of Jephthah, from which these lines are probably quotations. The story of Jephthah was also one of the favourite subjects of ancient tapestry.
+2662 
+2663 II.52 The first row of the pious Chanson] This expression does not appear to be very well understood. Steevens tells us that the pious chansons were a kind of Christmas carols, containing some scriptural history thrown into loose rhymes, and sung about the streets. The first row appears to mean the first division of one of these.
+2664 
+2665 II.53 My abridgment comes.] Hamlet alludes to the players, whose approach will shorten his talk.
+2666 
+2667 II.54 Thy face is valanced] i.e., fringed with a beard. The valance is the fringes or drapery hanging round the tester of a bed.
+2668 
+2669 II.55 Com'st thou to beard me] To beard anciently meant to set at defiance. Hamlet having just told the player that his face is valanced, is playing upon the word beard.
+2670 
+2671 II.56 By the altitude of a chopine.] A chioppine is a high shoe, or rather clog, worn by the Italians. Venice was more famous for them than any other place. They are described as having been made of wood covered with coloured leather, and sometimes even half a yard high, their altitude being proportioned to the rank of the lady, so that they could not walk without being supported.
+2672 
+2673 II.57 Like French falconers,] The French seem to have been the first and noblest falconers in the western part of Europe. The French king sent over his falconers to show that sport to King James the First. —See Weldon's Court of King James.
+2674 
+2675 II.58 Quality;] Qualifications, faculty.
+2676 
+2677 II.59 Caviare to the general;] Caviare is the spawn of fish pickled, salted, and dried. It is imported from Russia, and was considered in the time of Shakespeare a new and fashionable luxury, not obtained or relished by the vulgar, and therefore used by him to signify anything above their comprehension—general is here used for the people.
+2678 
+2679 II.60 As much modesty as cunning.] As much propriety and decorum as skill.
+2680 
+2681 II.61 Falls with the whiff and wind of his fell sword] Our author employs the same image in almost the same phrase:
+2682 
+2683 "The Grecians fall
+2684 
+2685 Even in the fan and wind of your fair sword."
+2686 
+2687 Tr. & Cress. V. 3. Tr.
+2688 
+2689 II.62 The rack] The clouds or congregated vapour.
+2690 
+2691 II.63 The mobled queen?] Mobled is veiled, muffled, disguised.
+2692 
+2693 II.64 All his visage wann'd;] i.e., turned pale or wan.
+2694 
+2695 II.65 His whole functions suiting with forms to his conceit?] i.e., his powers and faculties—the whole energies of his soul and body giving material forms to his passion, such as tone of voice, expression of face, requisite action, in accordance with the ideas that floated in his conceit or imagination.
+2696 
+2697 II.66 The cue] The point—the direction.
+2698 
+2699 II.67 Like John a-dreams,] Or dreaming John, a name apparently coined to suit a dreaming, stupid person; he seems to have been a well-known character.
+2700 
+2701 II.68 Unpregnant of my cause,] i.e., not quickened with a new desire of vengeance; not teeming with revenge.
+2702 
+2703 II.69 Defeat was made.] Overthrow.
+2704 
+2705 II.70 Lack gall to make oppression bitter;] i.e., lack gall to make me feel the bitterness of oppression.
+2706 
+2707 II.71 Kindless] Unnatural.
+2708 
+2709 II.72 About, my brains!] Wits to work.
+2710 
+2711 II.73 I'll tent him to the quick:] i.e., probe him—search his wounds.
+2712 
+2713 II.74 Blench,] Shrink, start aside.
+2714 
+2715 II.75 More relative than this:] Directly applicable.
+2716 
+2717 49
+2718 
+2719 ACT III.
+2720 Scene I.—A ROOM IN THE CASTLE.
+2721 Three chairs on L.H., one on R.
+2722 
+2723 Enter King and Queen, preceded by Polonius. Ophelia, Rosencrantz, and Giuldenstern, following (R.H.)
+2724 
+2725 King. (C.) And can you, by no drift of conference,
+2726 
+2727 Get from him why he puts on this confusion?
+2728 
+2729 Ros. (R.) He does confess he feels himself distracted;
+2730 
+2731 But from what cause he will by no means speak.
+2732 
+2733 Guild. (R.) Nor do we find him forward1 to be sounded
+2734 
+2735 But, with a crafty madness, keeps aloof,
+2736 
+2737 When we would bring him on to some confession
+2738 
+2739 Of his true state.
+2740 
+2741 Queen. (R.C.) Did you assay him2
+2742 
+2743 To any pastime?
+2744 
+2745 Ros. Madam, it so fell out, that certain players
+2746 
+2747 We o'er-raught on the way:3 of these we told him;
+2748 
+2749 And there did seem in him a kind of joy
+2750 
+2751 To hear of it: They are about the court;
+2752 
+2753 And, as I think, they have already order
+2754 
+2755 This night to play before him.
+2756 
+2757 Pol.
+2758 'Tis most true:
+2759 
+2760 And he beseech'd me to entreat your majesties
+2761 
+2762 To hear and see the matter.
+2763 
+2764 King. With all my heart; and it doth much content me
+2765 
+2766 To hear him so inclin'd.
+2767 
+2768 Good gentlemen, give him a further edge,
+2769 
+2770 And drive his purpose on to these delights.
+2771 
+2772 Ros. We shall, my lord.
+2773 
+2774 [Exeunt Rosencrantz and Guildenstern, R.H.]
+2775 
+2776 50King.
+2777 Sweet Gertrude, leave us too;
+2778 
+2779 For we have closely sent4 for Hamlet hither,
+2780 
+2781 That he, as 'twere by accident, may here
+2782 
+2783 Affront Ophelia:5
+2784 
+2785 Her father and myself (lawful espials6),
+2786 
+2787 Will so bestow ourselves, that, seeing, unseen,
+2788 
+2789 We may of their encounter frankly judge;
+2790 
+2791 And gather by him, as he is behaved,
+2792 
+2793 If't be the affliction of his love or no
+2794 
+2795 That thus he suffers for.
+2796 
+2797 Queen. (R.)
+2798 I shall obey you:
+2799 
+2800 And for your part, Ophelia,
+2801 
+2802 [Ophelia comes down L.H.]
+2803 
+2804 I do wish
+2805 
+2806 That your good beauties be the happy cause
+2807 
+2808 Of Hamlet's wildness: so shall I hope your virtues
+2809 
+2810 Will bring him to his wonted way again,
+2811 
+2812 To both your honours.
+2813 
+2814 Oph.
+2815 Madam, I wish it may.
+2816 
+2817 [Exit Queen, R.H.]
+2818 
+2819 Pol. Ophelia, walk you here. Gracious, so please you,
+2820 
+2821 We will bestow ourselves. Read on this book;
+2822 
+2823 [To Ophelia.]
+2824 
+2825 That show of such an exercise may colour
+2826 
+2827 Your loneliness. We are oft to blame in this,—
+2828 
+2829 'Tis too much prov'd,7 that, with devotion's visage
+2830 
+2831 And pious action, we do sugar o'er
+2832 
+2833 The devil himself.
+2834 
+2835 King.
+2836 O, 'tis too true! how smart
+2837 
+2838 A lash that speech doth give my conscience! [Aside.]
+2839 
+2840 Pol. I hear him coming: let's withdraw, my lord.
+2841 
+2842 [Exeunt King and Polonius, R.H. 2 E., and Ophelia, R.H.U.E.]
+2843 
+2844 Enter Hamlet (L.H.)
+2845 
+2846 Ham. To be, or not to be, that is the question:8
+2847 
+2848 51
+2849 Whether 'tis nobler in the mind to suffer
+2850 
+2851 The slings and arrows of outrageous fortune,
+2852 
+2853 Or to take arms against a sea of troubles,9
+2854 
+2855 And, by opposing end them?—To die,—to sleep,
+2856 
+2857 No more;—and by a sleep, to say we end
+2858 
+2859 The heart-ache, and the thousand natural shocks
+2860 
+2861 That flesh is heir to: 'tis a consummation
+2862 
+2863 Devoutly to be wished. To die,—to sleep,—
+2864 
+2865 To sleep! perchance to dream: ay, there's the rub;
+2866 
+2867 For in that sleep of death what dreams may come,
+2868 
+2869 When we have shuffled off this mortal coil,10
+2870 
+2871 Must give us pause:11 There's the respect12
+2872 
+2873 That makes calamity of so long life;
+2874 
+2875 For who would bear the whips and scorns of time,13
+2876 
+2877 The oppressor's wrong, the proud man's contumely,14
+2878 
+2879 The pangs of despised love, the law's delay,
+2880 
+2881 The insolence of office, and the spurns
+2882 
+2883 That patient merit of the unworthy takes,
+2884 
+2885 When he himself might his quietus make15
+2886 
+2887 With a bare bodkin?16 Who would fardels bear,17
+2888 
+2889 To groan and sweat under a weary life,
+2890 
+2891 52
+2892 But that the dread of something after death,
+2893 
+2894 The undiscovered country, from whose bourn18
+2895 
+2896 No traveller returns,19 puzzles the will,
+2897 
+2898 And makes us rather bear those ills we have
+2899 
+2900 Than fly to others that we know not of?
+2901 
+2902 Thus, conscience does make cowards of us all;20
+2903 
+2904 And thus the native hue of resolution
+2905 
+2906 Is sicklied o'er with the pale cast of thought;
+2907 
+2908 And enterprises of great pith and moment,21
+2909 
+2910 With this regard, their currents turn away,
+2911 
+2912 And lose the name of action.22 [—Ophelia returns.—] Soft you now!23
+2913 
+2914 The fair Ophelia:—Nymph, in thy orisons24
+2915 
+2916 Be all my sins remember'd.
+2917 
+2918 Oph. (R.C.)
+2919 Good my lord,
+2920 
+2921 How does your honour for this many a day?
+2922 
+2923 Ham. (L.C.) I humbly thank you; well.
+2924 
+2925 Oph. My lord, I have remembrances of yours,
+2926 
+2927 That I have longèd long to re-deliver;
+2928 
+2929 I pray you, now receive them.
+2930 
+2931 Ham.
+2932 No, not I;
+2933 
+2934 I never gave you aught.
+2935 
+2936 Oph. My honour'd lord, you know right well you did;
+2937 
+2938 And, with them, words of so sweet breath compos'd
+2939 
+2940 As made the things more rich: their perfume lost,
+2941 
+2942 Take these again; for to the noble mind
+2943 
+2944 53
+2945 Rich gifts wax poor when givers prove unkind.
+2946 
+2947 There, my lord.
+2948 
+2949 Ham. Ha, ha! are you honest?
+2950 
+2951 Oph. My lord?
+2952 
+2953 Ham. Are you fair?
+2954 
+2955 Oph. What means your lordship?
+2956 
+2957 Ham. That if you be honest and fair, your honesty should admit no discourse to your beauty.25
+2958 
+2959 Oph. Could beauty, my lord, have better commerce than with honesty?
+2960 
+2961 Ham. Ay, truly; for the power of beauty will sooner transform honesty from what it is to a bawd, than the force of honesty can translate beauty into his likeness:26 this was some time a paradox, but now the time gives it proof. I did love you once.
+2962 
+2963 Oph. Indeed, my lord, you made me believe so.
+2964 
+2965 Ham. You should not have believed me; for virtue cannot so inoculate our old stock, but we shall relish of it:27 I loved you not.
+2966 
+2967 Oph. I was the more deceived.
+2968 
+2969 Ham. Get thee to a nunnery: Why wouldst thou be a breeder of sinners? I am myself indifferent honest; but yet I could accuse me of such things, that it were better my mother had not borne me: I am very proud, revengeful, ambitious; with more offences at my beck28 than I have thoughts to put them in,29 imagination to give them shape, or time to act them in. What should such fellows as I do, crawling between earth and heaven? 54We are arrant knaves, all; believe none of us. Go thy ways to a nunnery. Where's your father?
+2970 
+2971 Oph. At home, my lord.
+2972 
+2973 Ham. Let the doors be shut upon him, that he may play the fool nowhere but in's own house. Farewell.
+2974 
+2975 Oph. O, help him, you sweet heavens!
+2976 
+2977 Ham. If thou dost marry, I'll give thee this plague for thy dowry. Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny. Get thee to a nunnery; farewell. Or, if thou wilt needs marry, marry a fool; for wise men know well enough what monsters you make of them. To a nunnery, go; go; go.
+2978 
+2979 Oph. Heavenly powers, restore him!
+2980 
+2981 Ham. I have heard of your paintings30 too, well enough; Heaven hath given you one face, and you make yourselves another:31 you jig, you amble, and you lisp,32 and nickname Heaven's creatures, and make your wantonness your ignorance.33 Go to, I'll no more of't; it hath made me mad. [Hamlet crosses to R.H.] I say, we will have no more marriages: those that are married already, all but one,34 shall live; the rest shall keep as they are. To a nunnery, go.
+2982 
+2983 [Exit Hamlet, R.H.35]
+2984 
+2985 Oph. (L.) O, what a noble mind is here o'erthrown!
+2986 
+2987 The expectancy and rose of the fair state,36
+2988 
+2989 55
+2990 The glass of fashion37 and the mould of form,38
+2991 
+2992 The observ'd of all observers, quite, quite down!
+2993 
+2994 And I, of ladies most deject and wretched,
+2995 
+2996 That suck'd the honey of his musick vows,39
+2997 
+2998 Now see that noble and most sovereign reason,
+2999 
+3000 Like sweet bells jangled, out of tune and harsh:
+3001 
+3002 O, woe is me,
+3003 
+3004 To have seen what I have seen, see what I see!
+3005 
+3006 [Exit Ophelia, L.H.]
+3007 
+3008 Re-enter King and Polonius.
+3009 
+3010 King. Love! his affections do not that way tend;
+3011 
+3012 Nor what he spake, though it lack'd form a little,
+3013 
+3014 Was not like madness. There's something in his soul,
+3015 
+3016 O'er which his melancholy sits on brood;
+3017 
+3018 He shall with speed to England,
+3019 
+3020 For the demand of our neglected tribute:
+3021 
+3022 Haply, the seas, and countries different,
+3023 
+3024 With variable objects, shall expel
+3025 
+3026 This something-settled matter in his heart;
+3027 
+3028 Whereon his brains still beating puts him thus
+3029 
+3030 From fashion of himself. What think you on't?
+3031 
+3032 Pol. It shall do well: But yet I do believe
+3033 
+3034 The origin and commencement of his grief
+3035 
+3036 Sprung from neglected love. My lord, do as you please;
+3037 
+3038 But, if you hold it fit, after the play,
+3039 
+3040 Let his queen mother all alone entreat him
+3041 
+3042 To show his grief: let her be round with him;40
+3043 
+3044 And I'll be placed, so please you, in the ear
+3045 
+3046 Of all their conference. If she find him not,41
+3047 
+3048 To England send him; or confine him where
+3049 
+3050 Your wisdom best shall think.
+3051 
+3052 King.
+3053 It shall be so:
+3054 
+3055 Madness in great ones must not unwatch'd go.
+3056 
+3057 [Exeunt, L.H.]
+3058 
+3059 56Enter Hamlet and a Player (R.H.)
+3060 
+3061 Ham. (C.) Speak the speech, I pray you, as I pronounced it to you, trippingly on the tongue: but if you mouth it, as many of our players do, I had as lief42 the town-crier spoke my lines. Nor do not saw the air too much with your hands thus;43 but use all gently: for in the very torrent, tempest, and (as I may say) whirlwind of your passion, you must acquire and beget a temperance that may give it smoothness. O, it offends me to the soul, to hear a robustious perrywig-pated fellow44 tear a passion to tatters, to very rags, to split the ears of the groundlings,45 who, for the most part, are capable of nothing but inexplicable dumb shows and noise: I would have such a fellow whipped for o'erdoing Termagant;46 it out-herods Herod:47 Pray you, avoid it.
+3062 
+3063 1st Play. (R.) I warrant your honour.
+3064 
+3065 Ham. Be not too tame neither, but let your own discretion be your tutor; suit the action to the word, the word to the action; with this special observance, that you o'erstep not the modesty of nature: for any thing so overdone is from the purpose of playing, whose end, both at the first and now, was and is, to hold, as 'twere, the mirror up to nature; to show virtue her own feature, 57scorn her own image, and the very age and body of the time its form and pressure.48 Now, this overdone, or come tardy off,49 though it make the unskilful laugh, cannot but make the judicious grieve; the censure of which one50 must, in your allowance,51 o'erweigh a whole theatre of others. O, there be players that I have seen play, and heard others praise, and that highly, not to speak it profanely,52 that, neither having the accent of christians, nor the gait of christian, pagan, nor man, have so strutted and bellowed, that I have thought some of nature's journeymen had made men, and not made them well, they imitated humanity so abominably.
+3066 
+3067 [Crosses to R.]
+3068 
+3069 1st Play. (L.) I hope we have reformed that indifferently53 with us.
+3070 
+3071 Ham. O, reform it altogether. And let those that play your clowns speak no more than is set down for them:54 for there be of them that will themselves laugh, to set on some quantity of barren spectators55 to laugh too; though, in the mean time, some necessary question56 of the play be then to be considered: that's villainous, and shows a most pitiful ambition in the fool that uses it. Go, make you ready.
+3072 
+3073 [Exit Player, L.H.]
+3074 
+3075 Ham. What, ho, Horatio!
+3076 
+3077 Enter Horatio (R.H.)
+3078 
+3079 Hor. Here, sweet lord, at your service.
+3080 
+3081 58Ham. Horatio, thou art e'en as just a man
+3082 
+3083 As e'er my conversation cop'd withal.57
+3084 
+3085 Hor. O, my dear lord.
+3086 Ham.
+3087 Nay, do not think I flatter;
+3088 
+3089 For what advancement may I hope from thee,
+3090 
+3091 That no revenue hast, but thy good spirits,
+3092 
+3093 To feed and clothe thee? Why should the poor be flatter'd?
+3094 
+3095 No, let the candied tongue lick absurd pomp;
+3096 
+3097 And crook the pregnant hinges of the knee,58
+3098 
+3099 Where thrift may follow fawning. Dost thou hear?
+3100 
+3101 Since my dear soul59 was mistress of her choice,
+3102 
+3103 And could of men distinguish, her election
+3104 
+3105 Hath seal'd thee for herself: for thou hast been
+3106 
+3107 As one, in suffering all, that suffers nothing;
+3108 
+3109 A man that fortune's buffets and rewards
+3110 
+3111 Has ta'en with equal thanks: and bless'd are those
+3112 
+3113 Whose blood and judgment60 are so well co-mingled,
+3114 
+3115 That they are not a pipe for fortune's finger
+3116 
+3117 To sound what stop she please. Give me that man
+3118 
+3119 That is not passion's slave, and I will wear him
+3120 
+3121 In my heart's core, ay, in my heart of heart,
+3122 
+3123 As I do thee.—Something too much of this.—
+3124 
+3125 There is a play to-night before the king;
+3126 
+3127 One scene of it comes near the circumstance
+3128 
+3129 Which I have told thee of my father's death:
+3130 
+3131 I pr'ythee when thou seest that act a-foot,
+3132 
+3133 Even with the very comment of thy soul61
+3134 
+3135 Observe my uncle: if his occulted guilt62
+3136 
+3137 59
+3138 Do not itself unkennel in one speech,
+3139 
+3140 It is a damned ghost that we have seen;
+3141 
+3142 And my imaginations are as foul
+3143 
+3144 As Vulcan's stithy.63 Give him heedful note:
+3145 
+3146 For I mine eyes will rivet to his face;
+3147 
+3148 And, after, we will both our judgments join
+3149 
+3150 In censure of his seeming.64
+3151 
+3152 [Horatio goes off, U.E.L.H.]
+3153 
+3154 March. Enter King and Queen, preceded by Polonius, Ophelia, Horatio, Rosencrantz, Guildenstern, Lords, Ladies, and Attendants. King and Queen sit (L.H.); Ophelia (R.H.)
+3155 
+3156 King. (L.) How fares our cousin Hamlet?
+3157 
+3158 Ham. (C.) Excellent, i'faith; of the cameleon's dish: I eat the air, promise-crammed: you cannot feed capons so.
+3159 
+3160 King. I have nothing with this answer, Hamlet; these words are not mine.65
+3161 
+3162 Ham. No, nor mine, now.66 My lord,—you played once in the university, you say?67 [To Polonius, L.]
+3163 
+3164 Pol. (L.C.) That did I, my lord; and was accounted a good actor.
+3165 
+3166 Ham. (C.) And what did you enact?
+3167 
+3168 Pol. I did enact Julius Cæsar:68 I was killed i'the Capitol; Brutus killed me.
+3169 
+3170 Ham. It was a brute part of him to kill so capital a calf there.—Be the players ready?
+3171 
+3172 Ros. Ay, my lord; they stay upon your patience.69
+3173 
+3174 Queen. Come hither, my dear Hamlet, sit by me.
+3175 
+3176 [Pointing to a chair by her side.]
+3177 
+3178 60Ham. No, good mother, here's metal more attractive.
+3179 
+3180 Pol. O, ho! do you mark that?
+3181 
+3182 [Aside to the King.]
+3183 
+3184 Ham. Lady, shall I lie in your lap?
+3185 
+3186 [Lying down at Ophelia's feet.]70
+3187 
+3188 Oph. (R.) You are merry, my lord.
+3189 
+3190 Ham. O, your only jig-maker.71 What should a man do but be merry? for, look you, how cheerfully my mother looks, and my father died within these two hours.
+3191 
+3192 Oph. Nay, 'tis twice two months, my lord.
+3193 
+3194 Ham. So long? Nay, then, let the devil wear black, for I'll have a suit of sables.72 O heavens! die two months ago, and not forgotten yet? Then there's hope a great man's memory may outlive his life half a year: But, by'r-lady, he must build churches, then.73
+3195 
+3196 Oph. What means the play, my lord?
+3197 
+3198 Ham. Miching mallecho;74 it means mischief.
+3199 
+3200 Oph. But what is the argument of the play?
+3201 
+3202 Enter a Player as Prologue (L.H.) on a raised stage.
+3203 
+3204 Ham. We shall know by this fellow.
+3205 
+3206 Pro.
+3207 
+3208 For us, and for our tragedy,
+3209 
+3210 Here stooping to your clemency,
+3211 
+3212 We beg your hearing patiently.
+3213 
+3214 [Exit, L.H.]
+3215 
+3216 61Ham. Is this a prologue, or the posy of a ring?75
+3217 
+3218 Oph. 'Tis brief, my lord.
+3219 
+3220 Ham. As woman's love.
+3221 
+3222 Enter a King and a Queen (L.H.) on raised stage.
+3223 
+3224 P. King. (R.) Full thirty times hath Phœbus' cart76 gone round
+3225 
+3226 Neptune's salt wash and Tellus' orbèd ground,77
+3227 
+3228 Since love our hearts, and Hymen did our hands,
+3229 
+3230 Unite commutual in most sacred bands.
+3231 
+3232 P. Queen. (L.) So many journeys may the sun and moon
+3233 
+3234 Make us again count o'er ere love be done!
+3235 
+3236 But, woe is me, you are so sick of late,
+3237 
+3238 So far from cheer and from your former state,
+3239 
+3240 That I distrust you. Yet, though I distrust,
+3241 
+3242 Discomfort you, my lord, it nothing must.
+3243 
+3244 P. King. 'Faith, I must leave thee, love, and shortly too;
+3245 
+3246 My operant powers their functions leave to do:78
+3247 
+3248 And thou shalt live in this fair world behind,
+3249 
+3250 Honour'd, belov'd; and, haply one as kind
+3251 
+3252 For husband shalt thou——
+3253 
+3254 P. Queen.
+3255 O, confound the rest!
+3256 
+3257 Such love must needs be treason in my breast:
+3258 
+3259 In second husband let me be accurst!
+3260 
+3261 None wed the second but who kill'd the first.
+3262 
+3263 Ham. That's wormwood.
+3264 
+3265 [Aside to Horatio, R.]
+3266 
+3267 P. King. I do believe you think what now you speak;
+3268 
+3269 But what we do determine oft we break.79
+3270 
+3271 So think you thou wilt no second husband wed;
+3272 
+3273 But die thy thoughts when thy first lord is dead.
+3274 
+3275 62P. Queen. Nor earth to me give food, nor heaven light!
+3276 
+3277 Sport and repose lock from me day and night!
+3278 
+3279 Both here, and hence, pursue me lasting strife,
+3280 
+3281 If, once a widow, ever I be wife!
+3282 
+3283 P. King. 'Tis deeply sworn.
+3284 
+3285 Ham. If she should break it now!—
+3286 
+3287 [To Ophelia.]
+3288 
+3289 P. King. Sweet, leave me here awhile;
+3290 
+3291 My spirits grow dull, and fain I would beguile
+3292 
+3293 The tedious day with sleep.
+3294 
+3295 [Reposes on a bank, R., and sleeps.]
+3296 
+3297 P. Queen.
+3298 Sleep rock thy brain;
+3299 
+3300 And never come mischance between us twain!
+3301 
+3302 [Exit, L.H.]
+3303 
+3304 Ham. Madam, how like you this play?
+3305 
+3306 Queen. The lady doth protest too much, methinks.
+3307 
+3308 Ham. O, but she'll keep her word.
+3309 
+3310 King. Have you heard the argument?80 Is there no offence in't?
+3311 
+3312 Ham. No, no, they do but jest, poison in jest; no offence i'the world.
+3313 
+3314 King. What do you call the play?
+3315 
+3316 Ham. The mouse-trap.81 Marry, how? Tropically.82 This play is the image of a murder83 done in Vienna: Gonzago is the Duke's name; his wife, Baptista: you shall see anon;—'tis a knavish piece of work: but what of that? your majesty, and we that have free souls, it touches us not: Let the galled jade wince,84 our withers85 are unwrung.
+3317 
+3318 Enter Lucianus (L.H.)
+3319 
+3320 This is one Lucianus, nephew to the king.
+3321 
+3322 63Oph. You are as good as a chorus,86 my lord.
+3323 
+3324 Ham. I could interpret between you and your love, if I could see the puppets dallying.87 Begin, murderer; leave thy damnable faces, and begin. Come:—
+3325 
+3326 —— The croaking raven
+3327 
+3328 Doth bellow for revenge.88
+3329 
+3330 Luc. Thoughts black, hands apt, drugs fit, and time agreeing;
+3331 
+3332 Confederate season, else no creature seeing;
+3333 
+3334 Thou mixture rank, of midnight weeds89 collected,
+3335 
+3336 With Hecat's ban thrice blasted, thrice infected,
+3337 
+3338 Thy natural magick and dire property,
+3339 
+3340 On wholesome life usurp90 immediately.
+3341 
+3342 [Pours the poison into the Sleeper's Ears.]
+3343 
+3344 Ham. He poisons him i' the garden for his estate. His name's Gonzago: the story is extant, and written in very choice Italian: You shall see anon how the murderer gets the love of Gonzago's wife.
+3345 
+3346 King. Give me some light: away!
+3347 
+3348 All. Lights, lights, lights!
+3349 
+3350 [Exeunt all, R. and L., but Hamlet and Horatio.]
+3351 
+3352 Ham.
+3353 
+3354 Why, let the strucken deer go weep,91
+3355 
+3356 64
+3357 The hart ungallèd play;
+3358 
+3359 For some must watch, while some must sleep:
+3360 
+3361 So runs the world away.—
+3362 
+3363 O, good Horatio, I'll take the ghost's word for a thousand pounds. Didst perceive?
+3364 
+3365 Hor. (R.) Very well, my lord.
+3366 
+3367 Ham. (C.) Upon the talk of the poisoning.—
+3368 
+3369 Hor. I did very well note him.
+3370 
+3371 Ham. Ah, ah! come, some musick! come, the recorders!
+3372 
+3373 [Exit Horatio, R.H.]
+3374 
+3375 Enter Rosencrantz and Guildenstern (L.H.) Hamlet seats himself in the chair (R.)
+3376 
+3377 Guil. (L.C.) Good my lord, vouchsafe me a word with you.
+3378 
+3379 Ham. Sir, a whole history.
+3380 
+3381 Guil. The king, sir,——
+3382 
+3383 Ham. Ay, sir, what of him?
+3384 
+3385 Guil. Is, in his retirement, marvellous distempered.92
+3386 
+3387 Ham. With drink, sir?
+3388 
+3389 Guil. No, my lord, with choler.
+3390 
+3391 Ham. Your wisdom should show itself more rich to signify this to the doctor; for, for me to put him to his purgation would perhaps plunge him into more choler.
+3392 
+3393 Guil. Good my lord, put your discourse into some frame, and start not so wildly from my affair.
+3394 
+3395 Ham. I am tame, sir:—pronounce.
+3396 
+3397 Guil. The queen, your mother, in most great affliction of spirit, hath sent me to you.
+3398 
+3399 Ham. You are welcome.
+3400 
+3401 Guil. Nay, good my lord, this courtesy is not of the right breed. If it shall please you to make me a wholesome answer, I will do your mother's commandment: if not, your pardon and my return shall be the end of my business.
+3402 
+3403 Ham. Sir, I cannot.
+3404 
+3405 Guil. What, my lord?
+3406 
+3407 Ham. Make you a wholesome answer; my wit's diseased! But, sir, such answer as I can make, you shall command: or rather as you say, my mother: therefore no more, but to the matter: My mother, you say,—
+3408 
+3409 65Ros. (Crosses to C.) Then thus she says: Your behaviour hath struck her into amazement and admiration.93
+3410 
+3411 Ham. O wonderful son, that can so astonish a mother! But is there no sequel at the heels of this mother's admiration?—impart.
+3412 
+3413 Ros. She desires to speak with you in her closet, ere you go to bed.
+3414 
+3415 Ham. We shall obey, were she ten times our mother. Have you any further trade with us?94
+3416 
+3417 Ros. My lord, you once did love me.
+3418 
+3419 Ham. And do still, by these pickers and stealers.95
+3420 
+3421 [Rises and comes forward, C.]
+3422 
+3423 Ros. (R.) Good my lord, what is your cause of distemper? you do, surely, bar the door of your own liberty, if you deny your griefs to your friend.96
+3424 
+3425 Ham. Sir, I lack advancement.
+3426 
+3427 Ros. How can that be, when you have the voice of the king himself for your succession in Denmark?97
+3428 
+3429 Ham. Ay, sir, but While the grass grows,—the proverb is something musty.98
+3430 
+3431 Enter Horatio and Musicians (R.H.)
+3432 
+3433 O, the recorders:99—let me see one.—So; withdraw with you:—
+3434 
+3435 [Exeunt Horatio and Musicians R.H. Guildenstern, after speaking privately to Rosencrantz, crosses behind Hamlet to R.H.]
+3436 
+3437 66Why do you go about to recover the wind of me,100 as if you would drive me into a toil?101
+3438 
+3439 Guil. (R.) O, my lord, if my duty be too bold, my love is too unmannerly.102
+3440 
+3441 Ham. (C.) I do not well understand that. Will you play upon this pipe?
+3442 
+3443 Guil. My lord, I cannot.
+3444 
+3445 Ham. I pray you.
+3446 
+3447 Guil. Believe me, I cannot.
+3448 
+3449 Ham. I do beseech you.
+3450 
+3451 Ros. (L.) I know no touch of it, my lord.
+3452 
+3453 Ham. 'Tis as easy as lying: govern these ventages with your fingers and thumb, give it breath with your mouth, and it will discourse most eloquent music.103 Look you, these are the stops.
+3454 
+3455 Guil. But these cannot I command to any utterance of harmony; I have not the skill.
+3456 
+3457 Ham. Why, look you now, how unworthy a thing you make of me! You would play upon me; you would seem to know my stops; you would pluck out the heart of my mystery; you would sound me from my lowest note to the top of my compass: and there is much music, excellent voice, in this little organ; yet cannot you make it speak. 'Sdeath, do you think I am easier to be played on than a pipe? Call me what instrument you will, though you can fret me, you cannot play upon me.104
+3458 
+3459 [Crosses to L.H.]
+3460 
+3461 Enter Polonius (R.H.)
+3462 
+3463 Pol. (R.) My lord, the queen would speak with you, and presently.
+3464 
+3465 67Ham. (C.) Do you see yonder cloud that's almost in shape of a camel?
+3466 
+3467 Pol. By the mass, and 'tis like a camel, indeed.
+3468 
+3469 Ham. Methinks it is like a weasel.
+3470 
+3471 Pol. It is backed like a weasel.
+3472 
+3473 Ham. Or like a whale?
+3474 
+3475 Pol. Very like a whale.
+3476 
+3477 Ham. Then will I come to my mother by and by. They fool me to the top of my bent.105 I will come by and by.
+3478 
+3479 Pol. I will say so.
+3480 
+3481 Ham. By and by is easily said.
+3482 
+3483 [Exit Polonius, R.H.
+3484 
+3485 Leave me, friends.
+3486 
+3487 [Exeunt Rosencrantz and Guildenstern, R.H.]
+3488 
+3489 'Tis now the very witching time of night,
+3490 
+3491 When churchyards yawn, and hell itself breathes out
+3492 
+3493 Contagion to this world: Now could I drink hot blood,
+3494 
+3495 And do such bitter business106 as the day
+3496 
+3497 Would quake to look on. Soft! now to my mother.
+3498 
+3499 O, heart, lose not thy nature; let not ever
+3500 
+3501 The soul of Nero enter this firm bosom:
+3502 
+3503 Let me be cruel, not unnatural;
+3504 
+3505 I will speak daggers to her, but use none.
+3506 
+3507 [Exit]
+3508 
+3509 Scene II.—A ROOM IN THE SAME.
+3510 Enter King, Rosencrantz and Guildenstern (R.H.)
+3511 
+3512 King. I like him not; nor stands it safe with us107
+3513 
+3514 To let his madness range. Therefore prepare you;
+3515 
+3516 I your commission will forthwith despatch,
+3517 
+3518 And he to England shall along with you:
+3519 
+3520 Arm you, I pray you, to this speedy voyage;
+3521 
+3522 68
+3523 For we will fetters put upon this fear,108
+3524 
+3525 Which now goes too free-booted.
+3526 
+3527 Ros.
+3528 
+3529 Guil.
+3530 
+3531 We will haste us.
+3532 
+3533 [Cross behind the King, and exeunt Rosencrantz and Guildenstern, L.H.]
+3534 
+3535 Enter Polonius (R.H.)
+3536 
+3537 Pol. My lord, he's going to his mother's closet:
+3538 
+3539 Behind the arras I'll convey myself,109
+3540 
+3541 To hear the process;110 I'll warrant, she'll tax him home:
+3542 
+3543 And, as you said, and wisely was it said,
+3544 
+3545 'Tis meet that some more audience than a mother,
+3546 
+3547 Since nature makes them partial, should o'erhear
+3548 
+3549 The speech of vantage.111 Fare you well, my liege:
+3550 
+3551 [Polonius crosses to L.H.]
+3552 
+3553 I'll call upon you ere you go to bed,
+3554 
+3555 And tell you what I know.
+3556 
+3557 King.
+3558 Thanks, dear my lord.
+3559 
+3560 [Exeunt Polonius, L.H., and King, R.H.]
+3561 
+3562 Scene III.—THE QUEEN'S CHAMBER.
+3563 Enter Queen and Polonius (L.H.)
+3564 
+3565 Pol. He will come straight. Look, you lay home to him:112
+3566 
+3567 Tell him his pranks have been too broad113 to bear with,
+3568 
+3569 And that your grace hath screen'd and stood between
+3570 
+3571 69
+3572 Much heat and him. I'll sconce me even here.114
+3573 
+3574 Pray you, be round with him.
+3575 
+3576 Queen.
+3577 I'll warrant you;
+3578 
+3579 Fear me not:—withdraw, I hear him coming.
+3580 
+3581 [Polonius hides himself, L.H.U.E.]
+3582 
+3583 Enter Hamlet (R.)
+3584 
+3585 Ham. (R.C.) Now, mother, what's the matter?
+3586 
+3587 Queen. (L.C.) Hamlet, thou hast thy father much offended.
+3588 
+3589 Ham. Mother, you have my father much offended.
+3590 
+3591 Queen. Come, come, you answer with an idle tongue.
+3592 
+3593 Ham. Go, go, you question with a wicked tongue.
+3594 
+3595 Queen. Why, how now, Hamlet!
+3596 
+3597 Ham.
+3598 What's the matter now?
+3599 
+3600 Queen. Have you forgot me?
+3601 
+3602 Ham.
+3603 No, by the rood,115 not so:
+3604 
+3605 You are the queen, your husband's brother's wife;
+3606 
+3607 And—would it were not so!—you are my mother.
+3608 
+3609 Queen. Nay, then, I'll set those to you that can speak.
+3610 
+3611 Ham. Come, come, and sit you down; you shall not budge;
+3612 
+3613 You go not till I set you up a glass
+3614 
+3615 Where you may see the inmost part of you.
+3616 
+3617 Queen. What wilt thou do? thou wilt not murder me?
+3618 
+3619 Help, help, ho!
+3620 
+3621 Pol. (Behind.) What, ho! help!
+3622 
+3623 Ham.
+3624 How now! a rat?116
+3625 
+3626 [Draws.]
+3627 
+3628 Dead, for a ducat, dead!
+3629 
+3630 [Hamlet rushes off behind the arras.]
+3631 
+3632 Pol. (Behind.)
+3633 O, I am slain!
+3634 
+3635 [Falls and dies.]
+3636 
+3637 Queen. O me, what hast thou done?
+3638 
+3639 Ham. (Returning.)
+3640 Nay, I know not:
+3641 
+3642 Is it the king?
+3643 
+3644 70Queen. O, what a rash and bloody deed is this!
+3645 
+3646 Ham. A bloody deed!—almost as bad, good mother,
+3647 
+3648 As kill a king, and marry with his brother.
+3649 
+3650 Queen. As kill a king!
+3651 
+3652 Ham.
+3653 Ay, lady, 'twas my word.
+3654 
+3655 [Goes off behind the arras, and returns.]
+3656 
+3657 Thou wretched, rash, intruding fool, farewell!
+3658 
+3659 [To the dead body of Polonius, behind the arras.]
+3660 
+3661 I took thee for thy better.
+3662 
+3663 Leave wringing of your hands: Peace; sit you down,
+3664 
+3665 [To the Queen.]
+3666 
+3667 And let me wring your heart: for so I shall,
+3668 
+3669 If it be made of penetrable stuff;
+3670 
+3671 If damnèd custom have not brazed it so,117
+3672 
+3673 That it be proof and bulwark against sense.118
+3674 
+3675 Queen. (Sits R.C.) What have I done, that thou dar'st wag thy tongue
+3676 
+3677 In noise so rude against me?
+3678 
+3679 Ham. (Seated L.C.)
+3680 Such an act,
+3681 
+3682 That blurs the grace and blush of modesty;
+3683 
+3684 Calls virtue, hypocrite; takes off the rose
+3685 
+3686 From the fair forehead of an innocent love,
+3687 
+3688 And sets a blister there;119 makes marriage vows
+3689 
+3690 As false as dicer's oaths: O, such a deed
+3691 
+3692 As from the body of contraction plucks
+3693 
+3694 The very soul;120 and sweet religion makes
+3695 
+3696 A rhapsody of words.—
+3697 
+3698 Ah, me, that act!
+3699 
+3700 Queen.
+3701 Ah me, what act?
+3702 
+3703 Ham. Look here, upon this picture, and on this,
+3704 
+3705 71
+3706 The counterfeit presentment121 of two brothers.
+3707 
+3708 See, what a grace was seated on this brow;
+3709 
+3710 Hypérion's curls;122 the front of Jove himself;
+3711 
+3712 An eye like Mars, to threaten and command;
+3713 
+3714 A station like the herald Mercury123
+3715 
+3716 New-lighted on a heaven-kissing hill;
+3717 
+3718 A combination, and a form, indeed,
+3719 
+3720 Where every god did seem to set his seal,
+3721 
+3722 To give the world assurance of a man;
+3723 
+3724 This was your husband.—Look you now, what follows:
+3725 
+3726 Here is your husband; like a mildew'd ear,
+3727 
+3728 Blasting his wholesome brother.124 Have you eyes?
+3729 
+3730 Could you on this fair mountain leave to feed,
+3731 
+3732 And batten on this moor?125 Ha! have you eyes?
+3733 
+3734 You cannot call it love; for, at your age
+3735 
+3736 The hey-day in the blood126 is tame, it's humble,
+3737 
+3738 And waits upon the judgment: And what judgment
+3739 
+3740 Would step from this to this?
+3741 
+3742 O shame! where is thy blush? Rebellious hell,
+3743 
+3744 If thou canst mutine,127 in a matron's bones,
+3745 
+3746 To flaming youth let virtue be as wax,
+3747 
+3748 And melt in her own fire.
+3749 
+3750 Queen. O, Hamlet, speak no more:
+3751 
+3752 Thou turn'st mine eyes into my very soul;
+3753 
+3754 And there I see such black and grainèd spots
+3755 
+3756 As will not leave their tinct.128
+3757 
+3758 72Ham.
+3759 Nay, but to live
+3760 
+3761 In the rank sweat of an enseamed bed,——129
+3762 
+3763 Queen. O, speak to me no more;
+3764 
+3765 No more, sweet Hamlet!
+3766 
+3767 Ham.
+3768 A murderer and a villain:
+3769 
+3770 A slave that is not twentieth part the tythe
+3771 
+3772 Of your precedent lord;—a vice of kings;130
+3773 
+3774 A cutpurse of the empire and the rule;
+3775 
+3776 That from a shelf the precious diadem stole,
+3777 
+3778 And put it in his pocket!131
+3779 
+3780 Queen.
+3781 No more!
+3782 
+3783 Ham.
+3784 A king
+3785 
+3786 Of shreds and patches.132
+3787 
+3788 Enter Ghost, R.
+3789 
+3790 Save me [Starts from his chair], and hover o'er me with your wings,
+3791 
+3792 You heavenly guards! What would your gracious figure?
+3793 
+3794 Queen. Alas, he's mad!
+3795 
+3796 [Rising.]
+3797 
+3798 Ham. (L.) Do you not come your tardy son to chide,
+3799 
+3800 That, laps'd in time and passion,133 lets go by
+3801 
+3802 The important acting of your dread command?
+3803 
+3804 O, say!
+3805 
+3806 Ghost. (R.) Do not forget: This visitation
+3807 
+3808 Is but to whet thy almost blunted purpose.
+3809 
+3810 But, look, amazement on thy mother sits:
+3811 
+3812 O, step between her and her fighting soul.
+3813 
+3814 Speak to her Hamlet.
+3815 
+3816 Ham.
+3817 How is it with you, lady?
+3818 
+3819 73Queen. Alas, how is't with you,
+3820 
+3821 That you do bend your eye on vacancy,
+3822 
+3823 And with the incorporal air do hold discourse?
+3824 
+3825 Forth at your eyes your spirits wildly peep.
+3826 
+3827 O gentle son,
+3828 
+3829 [Crosses to Hamlet.]
+3830 
+3831 Upon the heat and flame of thy distemper
+3832 
+3833 Sprinkle cool patience.134 Whereon do you look?
+3834 
+3835 Ham. On him, on him!—Look you, how pale he glares!
+3836 
+3837 His form and cause conjoin'd, preaching to stones,
+3838 
+3839 Would make them capable.135 Do not look upon me;
+3840 
+3841 Lest with this piteous action, you convert
+3842 
+3843 My stern effects:136 then what I have to do
+3844 
+3845 Will want true colour; tears perchance, for blood.
+3846 
+3847 Queen. To whom do you speak this?
+3848 
+3849 Ham.
+3850 Do you see nothing there?
+3851 
+3852 Queen. Nothing at all; yet all that is, I see.137
+3853 
+3854 Ham. Nor did you nothing hear?
+3855 
+3856 Queen.
+3857 No, nothing but ourselves.
+3858 
+3859 Ham. Why, look you there! look, how it steals away!
+3860 
+3861 [Ghost crosses to L.]
+3862 
+3863 My father in his habit as he lived!138
+3864 
+3865 Look, where he goes, even now, out at the portal!
+3866 
+3867 [Exit Ghost, L.H. Hamlet sinks into chair C. The Queen falls on her knees by his side.]
+3868 
+3869 Queen. This is the very coinage of your brain:
+3870 
+3871 This bodiless creation ecstasy
+3872 
+3873 Is very cunning in.139
+3874 
+3875 74Ham. Ecstasy!
+3876 
+3877 My pulse, as yours, doth temperately keep time,
+3878 
+3879 And makes as healthful music: It is not madness
+3880 
+3881 That I have uttered: bring me to the test,
+3882 
+3883 And I the matter will re-word; which madness
+3884 
+3885 Would gambol from.140 Mother, for love of grace,
+3886 
+3887 [Rising.]
+3888 
+3889 Lay not that flattering unction to your soul,
+3890 
+3891 That not your trespass, but my madness speaks:
+3892 
+3893 It will but skin and film141 the ulcerous place,
+3894 
+3895 Whiles rank corruption, mining all within,
+3896 
+3897 Infects unseen. Confess yourself to heaven;
+3898 
+3899 Repent what's past; avoid what is to come.
+3900 
+3901 Queen. O, Hamlet! thou hast cleft my heart in twain.
+3902 
+3903 Ham. O, throw away the worser part of it,
+3904 
+3905 And live the purer with the other half.
+3906 
+3907 Good night: but go not to my uncle's bed;
+3908 
+3909 [Raising the Queen.]
+3910 
+3911 Assume a virtue, if you have it not.
+3912 
+3913 Once more, good night!
+3914 
+3915 And when you are desirous to be bless'd,
+3916 
+3917 I'll blessing beg of you.142 For this same lord,
+3918 
+3919 [Pointing to Polonius.]
+3920 
+3921 I do repent:
+3922 
+3923 I will bestow him, and will answer well
+3924 
+3925 The death I gave him. So, again, good night.
+3926 
+3927 [Exit Queen, R.H.]
+3928 
+3929 I must be cruel, only to be kind:
+3930 
+3931 Thus bad begins, and worse remains behind.
+3932 
+3933 [Exit Hamlet behind the arras, L.H.U.E.]
+3934 
+3935 END OF ACT THIRD.
+3936 Notes
+3937 Act III
+3938 
+3939 III.1 Forward] Disposed, inclinable.
+3940 
+3941 III.2 Assay him to] Try his disposition towards.
+3942 
+3943 III.3 O'er-raught on the way:] Reached or overtook.
+3944 
+3945 III.4 Have closely sent] i.e., privately sent.
+3946 
+3947 III.5 May here affront Ophelia:] To affront is to come face to face—to confront.
+3948 
+3949 III.6 Lawful espials,] Spies justifiably inquisitive. From the French, espier.
+3950 
+3951 III.7 Too much prov'd,] Found by too frequent experience.
+3952 
+3953 III.8 To be, or not to be, that is the question:] Hamlet is deliberating whether he should continue to live, or put an end to his existence.
+3954 
+3955 III.9 Or to take arms against a sea of troubles,] A sea of troubles among the Greeks grew into a proverbial usage; so that the expression figuratively means, the troubles of human life, which flow in upon us, and encompass us round like a sea.
+3956 
+3957 III.10 This mortal coil,] Coil is here used in each of its senses, that of turmoil or bustle, and that which entwines or wraps round.
+3958 
+3959 III.11 Must give us pause:] i.e., occasion for reflection.
+3960 
+3961 III.12
+3962 
+3963 There's the respect
+3964 That makes calamity of so long life;] The consideration that makes the evils of life so long submitted to, lived under.
+3965 
+3966 III.13 The whips and scorns of time,] Those sufferings of body and mind, those stripes and mortifications to which, in its course, the life of man is subjected.
+3967 
+3968 III.14 Contumely,] Contemptuousness, rudeness.
+3969 
+3970 III.15 His quietus make] Quietus means the official discharge of an account: from the Latin. Particularly in the Exchequer accounts, where it is still current. Chiefly used by authors in metaphorical senses.
+3971 
+3972 III.16 A bare bodkin?] Bodkin was an ancient term for a small dagger. In the margin of Stowe's Chronicle it is said that Cæsar was slain with bodkins.
+3973 
+3974 III.17 Who would fardels bear,] Fardel is a burden. Fardellus, low Latin.
+3975 
+3976 III.18 From whose bourn] i.e., boundary.
+3977 
+3978 III.19 No traveller returns,] The traveller whom Hamlet had seen, though he appeared in the same habit which he had worn in his life-time, was nothing but a shadow, "invulnerable as the air," and, consequently, incorporeal. The Ghost has given us no account of the region from whence he came, being, as he himself informed us, "forbid to tell the secrets of his prison-house."—Malone.
+3979 
+3980 III.20 Thus conscience does make cowards of us all;] A state of doubt and uncertainty, a conscious feeling or apprehension, a misgiving "How our audit stands."
+3981 
+3982 III.21 Of great pith and moment,] i.e., of great vigour and importance.
+3983 
+3984 III.22
+3985 
+3986 With this regard, their currents turn away,
+3987 And lose the name of action.]
+3988 
+3989 From this sole consideration have their drifts diverted, and lose the character and name of enterprise.
+3990 
+3991 III.23 Soft you now!] A gentler pace! have done with lofty march!
+3992 
+3993 III.24 Nymph, in thy orisons] i.e., in thy prayers. Orison is from oraison—French.
+3994 
+3995 III.25 If you be honest and fair, your honesty should admit no discourse to your beauty.] i.e., if you really possess these qualities, chastity and beauty, and mean to support the character of both, your honesty should be so chary of your beauty, as not to suffer a thing so fragile to entertain discourse, or to be parleyed with.
+3996 
+3997 The lady interprets the words otherwise, giving them the turn best suited to her purpose.
+3998 
+3999 III.26 His likeness:] Shakespeare and his contemporaries frequently use the personal for the neutral pronoun.
+4000 
+4001 III.27 Inoculate our old stock, but we shall relish of it:] So change the original constitution and properties, as that no smack of them shall remain. "Inoculate our stock" are terms in gardening.
+4002 
+4003 III.28 With more offences at my beck] That is, always ready to come about me—at my beck and call.
+4004 
+4005 III.29 Than I have thoughts to put them in, &c.] "To put a thing into thought," Johnson says, is "to think on it."
+4006 
+4007 III.30 I have heard of your paintings,] These destructive aids of beauty seem, in the time of Shakespeare, to have been general objects of satire.
+4008 
+4009 III.31 Heaven hath given you one face, and you make yourselves another:] i.e., Heaven hath given you one face, and you disfigure his image by making yourself another.
+4010 
+4011 III.32 You jig, you amble, and you lisp,] This is an allusion to the manners of the age, which Shakespeare, in the spirit of his contemporaries, means here to satirise.
+4012 
+4013 III.33 Make your wantonness your ignorance.] You mistake by wanton affectation, and pretend to mistake by ignorance.
+4014 
+4015 III.34 All but one shall live;] One is the king.
+4016 
+4017 III.35 To a nunnery, go. Exit Hamlet.] There is no doubt that Hamlet's attachment to Ophelia is ardent and sincere, but he treats her with apparent severity because he is aware that Ophelia has been purposely thrown in his way; that spies are about them; and that it is necessary for the preservation of his life, to assume a conduct which he thought would be attributed to madness only.
+4018 
+4019 III.36 The expectancy and rose of the fair state,] The first hope and fairest flower. "The gracious mark o' the land."
+4020 
+4021 III.37 Glass of fashion] Speculum consuetudinis.—Cicero.
+4022 
+4023 III.38 The mould of form,] The cast, in which is shaped the only perfect form.
+4024 
+4025 III.39 Musick vows,] Musical, mellifluous.
+4026 
+4027 III.40 Be round with him;] i.e., plain with him—without reserve.
+4028 
+4029 III.41 If she find him not,] Make him not out.
+4030 
+4031 III.42 As lief] As willingly.
+4032 
+4033 III.43 Thus;] i.e., thrown out thus.
+4034 
+4035 III.44 Robustious perrywig-pated fellow] This is a ridicule on the quantity of false hair worn in Shakespeare's time, for wigs were not in common use till the reign of Charles the Second. Robustious means making an extravagant show of passion.
+4036 
+4037 III.45 The ears of the groundlings,] The meaner people appear to have occupied the pit of the theatre (which had neither floor nor benches in Shakespeare's time), as they now sit in the upper gallery.
+4038 
+4039 III.46 O'er-doing Termagant;] The Crusaders, and those who celebrated them, confounded Mahometans with Pagans, and supposed Mahomet, or Mahound, to be one of their deities, and Tervagant or Termagant, another. This imaginary personage was introduced into our old plays and moralities, and represented as of a most violent character, so that a ranting actor might always appear to advantage in it. The word is now used for a scolding woman.
+4040 
+4041 III.47 It out-herods Herod:] In all the old moralities and mysteries this personage was always represented as a tyrant of a very violent temper, using the most exaggerated language. Hence the expression.
+4042 
+4043 III.48 The very age and body of the time its form and pressure.] i.e., to delineate exactly the manners of the age, and the particular humours of the day—pressure signifying resemblance, as in a print.
+4044 
+4045 III.49 Come tardy off,] Without spirit or animation; heavily, sleepily done.
+4046 
+4047 III.50 The censure of which one] i.e., the censure of one of which.
+4048 
+4049 III.51 Your allowance,] In your approbation.
+4050 
+4051 III.52 Not to speak it profanely,] i.e., irreverently, in allusion to Hamlet's supposition that God had not made such men, but that they were only the handy work of God's assistants.
+4052 
+4053 III.53 Indifferently] In a reasonable degree.
+4054 
+4055 III.54 Speak no more them is set down for them:] Shakespeare alludes to a custom of his time, when the clown, or low comedian, as he would now be called, addressing the audience during the play, entered into a contest of raillery and sarcasm with such spectators as chose to engage with him.
+4056 
+4057 III.55 Barren spectators] i.e., dull, unapprehensive spectators.
+4058 
+4059 III.56 Question] Point, topic.
+4060 
+4061 III.57 Cop'd withal.] Encountered with.
+4062 
+4063 III.58 Pregnant hinges of the knee,] i.e., bowed or bent: ready to kneel where thrift, that is, thriving, or emolument may follow sycophancy.
+4064 
+4065 III.59 Since my dear soul] Dear is out of which arises the liveliest interest.
+4066 
+4067 III.60 Whose blood and judgment] Dr. Johnson says that according to the doctrine of the four humours, desire and confidence were seated in the blood, and judgment in the phlegm, and the due mixture of the humours made a perfect character.
+4068 
+4069 III.61 The very comment of thy soul] The most intense direction of every faculty.
+4070 
+4071 III.62 Occulted guilt do not itself unkennel] Stifled, secret guilt, do not develope itself.
+4072 
+4073 III.63 As Vulcan's stithy.] A stithy is the smith's shop, as stith is the anvil.
+4074 
+4075 III.64 In censure of his seeming.] In making our estimate of the appearance he shall put on.
+4076 
+4077 III.65 I have nothing with this answer; these words are not mine.] i.e., they grow not out of mine: have no relation to anything said by me.
+4078 
+4079 III.66 No, nor mine, now.] They are now anybody's. Dr. Johnson observes, "a man's words, says the proverb, are his own no longer than while he keeps them unspoken."
+4080 
+4081 III.67 You played once in the university, you say?] The practice of acting Latin plays in the universities of Oxford and Cambridge is very ancient, and continued to near the middle of the last century.
+4082 
+4083 III.68 I did enact Julius Cæsar:] A Latin play on the subject of Cæsar's death, was performed at Christ-church, Oxford, in 1582.
+4084 
+4085 III.69 They stay upon your patience.] Patience is here used for leisure.
+4086 
+4087 III.70 Lying down at Ophelia's feet.] To lie at the feet of a mistress during any dramatic representation, seems to have been a common act of gallantry.
+4088 
+4089 III.71 Jig-maker,] Writer of ludicrous interludes. A jig was not in Shakespeare's time only a dance, but a ludicrous dialogue in metre; many historical ballads were also called jigs.
+4090 
+4091 III.72 For I'll have a suit of sables.] Wherever his scene might be, the customs of his country were ever in Shakespeare's thoughts. A suit trimmed with sables was in our author's own time the richest dress worn by men in England. By the Statute of Apparel, 24 Henry VIII., c. 13, (article furres), it is ordained, that none under the degree of an Earl may use sables.
+4092 
+4093 III.73 He must build churches, then.] Such benefactors to society were sure to be recorded by means of the feast day on which the patron saints and founders of churches were commemorated in every parish. This custom has long since ceased.
+4094 
+4095 III.74 Miching mallecho;] To mich is a provincial word, signifying to lie hid, or to skulk, or act by stealth. It was probably once generally used. Mallecho is supposed to be corrupted from the Spanish Malechor, which means a poisoner.
+4096 
+4097 III.75 The posy of a ring?] Such poetry as you may find engraven on a ring.
+4098 
+4099 III.76 Phœbus' cart] A chariot was anciently called a cart.
+4100 
+4101 III.77 Tellus' orbèd ground,] i.e., the globe of the earth. Tellus is the personification of the earth, being described as the first being that sprung from Chaos.
+4102 
+4103 III.78 My operant powers their functions leave to do:] i.e., my active energies cease to perform their offices.
+4104 
+4105 III.79 What we do determine, oft we break.] Unsettle our most fixed resolves.
+4106 
+4107 III.80 The argument?] The subject matter.
+4108 
+4109 III.81 The mouse-trap.]
+4110 
+4111 He calls it the mouse-trap, because it is the thing,
+4112 
+4113 In which he'll catch the conscience of the king.
+4114 
+4115 III.82 Tropically.] i.e., figuratively.
+4116 
+4117 III.83 The image of a murder,] i.e., the lively portraiture, the correct and faithful representation of a murder, &c.
+4118 
+4119 III.84 Let the galled jade wince,] A proverbial saying.
+4120 
+4121 III.85 Our withers are unwrung.] Withers is the joining of the shoulder bones at the bottom of the neck and mane of a horse. Unwrung is not pinched.
+4122 
+4123 III.86 You are as good as a chorus,] The persons who are supposed to behold what passes in the acts of a tragedy, and sing their sentiments between the acts.
+4124 
+4125 The use to which Shakespeare converted the chorus, may be seen in King Henry V.
+4126 
+4127 III.87 I could interpret between you and your love, if I could see the puppets dallying.] This refers to the interpreter, who formerly sat on the stage at all puppet shows, and explained to the audience. The puppets dallying are here made to signify to the agitations of Ophelia's bosom.
+4128 
+4129 III.88
+4130 
+4131 The croaking raven
+4132 
+4133 Doth bellow for revenge.]
+4134 
+4135 i.e., begin without more delay; for the raven, foreknowing the deed, is already croaking, and, as it were, calling out for the revenge which will ensue.
+4136 
+4137 III.89 Midnight weeds] The force of the epithet midnight, will be best displayed by a corresponding passage in Macbeth:
+4138 
+4139 "Root of hemlock, digg'd i' the dark."
+4140 
+4141 III.90 Usurp] Encroach upon.
+4142 
+4143 III.91 Let the strucken deer go weep,] Shakespeare, in As you like it, in allusion to the wounded stag, speaks of the big round tears which cours'd one another down his innocent nose in piteous chase. In the 13th song of Drayton's Polyolbion, is a similar passage—"The harte weepeth at his dying; his tears are held to be precious in medicine."
+4144 
+4145 III.92 Marvellous distempered.] i.e., discomposed.
+4146 
+4147 III.93 Admiration.] i.e., wonder.
+4148 
+4149 III.94 Trade with us?] i.e. Occasion of intercourse.
+4150 
+4151 III.95 By these pickers and stealers.] i.e., by these hands. The phrase is taken from the Church catechism, where, in our duty to our neighbour, we are taught to keep our hands from picking and stealing.
+4152 
+4153 III.96 You do freely bar the door of your own liberty, if you deny your griefs to your friend.] By your own act you close the way against your own ease, and the free discharge of your griefs, if you open not the source of them to your friends.
+4154 
+4155 III.97 You have the voice of the king himself for your succession in Denmark?] Though the crown was elective, yet regard was paid to the recommendation of the preceding prince, and preference given to royal blood, which, by degrees, produced hereditary succession.
+4156 
+4157 III.98 "While the grass grows,"—the proverb is something musty.] The proverb is, "While the grass grows, the steed starves." Hamlet alludes to his own position, while waiting for his succession to the throne of Denmark. A similar adage is, "A slip between the cup and the lip."
+4158 
+4159 III.99 Recorder.] i.e. A kind of flute, or pipe.
+4160 
+4161 III.100 Why do you go about to recover the wind of me,] Equivalent to our more modern saying of Get on the blind side.
+4162 
+4163 III.101 Into a toil?] i.e., net or snare.
+4164 
+4165 III.102 If my duty be too bold, my love is too unmannerly.] If my sense of duty have led me too far, it is affection and regard for you that makes the carriage of that duty border on disrespect.
+4166 
+4167 III.103 Govern these ventages—and it will discourse most eloquent music.] Justly order these vents, or air-holes, and it will breathe or utter, &c.
+4168 
+4169 III.104 Though you can fret me, you cannot play upon me.] A fret is a stop or key of a musical instrument. Here is, therefore, a play upon the words. Though you cannot fret, stop, or vex, you cannot play or impose upon me.
+4170 
+4171 III.105 They fool me to the top of my bent.] To the height; as far as they see me incline to go: an allusion to the utmost flexure of a bow.
+4172 
+4173 III.106 Bitter business] i.e., shocking, horrid business.
+4174 
+4175 III.107 Stands it safe with us] Is it consistent with our security.
+4176 
+4177 III.108 This fear,] Bugbear.
+4178 
+4179 III.109 Behind the arras I'll convey myself,] The arras-hangings, in Shakespeare's time, were hung at such a distance from the walls, that a person might easily stand behind them unperceived.
+4180 
+4181 III.110 To hear the process;] The course of the conversation.
+4182 
+4183 III.111 The speech of vantage.] i.e., opportunity or advantage of secret observations.
+4184 
+4185 III.112 Lay home to him:] Pointedly and closely charge him.
+4186 
+4187 III.113 Pranks too broad] Open and bold.
+4188 
+4189 III.114 I'll 'sconce me even here.] 'Sconce and ensconce are constantly used figuratively for hide. In "The Merry Wives of Windsor," Falstaff says, "I will ensconce me behind the arras."
+4190 
+4191 III.115 By the rood,] i.e., the cross or crucifix.
+4192 
+4193 III.116 How now! a rat?] This is an expression borrowed from the History of Hamblet.
+4194 
+4195 III.117 Have not braz'd it so,] i.e., soldered with brass.
+4196 
+4197 III.118 Proof and bulwark against sense.] Against all feeling.
+4198 
+4199 III.119 Takes off the rose From the fair forehead of an innocent love, And sets a blister there;] i.e., takes the clear tint from the brow of unspotted, untainted innocence. "True or honest as the skin between one's brows" was a proverbial expression, and is frequently used by Shakespeare.
+4200 
+4201 III.120 As from the body of contraction plucks The very soul;] Annihilates the very principle of contracts. Contraction for marriage contract.
+4202 
+4203 III.121 The counterfeit presentment] i.e., picture or mimic representation.
+4204 
+4205 III.122 Hypérion's curls;] Hyperion is used by Spenser with the same error in quantity.
+4206 
+4207 III.123 A station like the herald Mercury] Station is attitude—act of standing.
+4208 
+4209 III.124
+4210 
+4211 Like a mildew'd ear,
+4212 
+4213 Blasting his wholesome brother.]
+4214 
+4215 This alludes to Pharaoh's dream, in the 41st chapter of Genesis.
+4216 
+4217 III.125 Batten on this moor?] Batten is to feed rankly.
+4218 
+4219 III.126 Hey-day in the blood] This expression is occasionally used by old authors.
+4220 
+4221 III.127 Thou canst mutine] i.e., rebel.
+4222 
+4223 III.128 As will not leave their tinct.] So dyed in grain, that they will not relinquish or lose their tinct—are not to be discharged. In a sense not very dissimilar he presently says,
+4224 
+4225 "Then what I have to do
+4226 
+4227 Will want true colour."
+4228 
+4229 III.129 An enseamed bed.] i.e., greasy bed of grossly fed indulgence.
+4230 
+4231 III.130 A vice of kings;] i.e., a low mimick of kings. The vice was the fool of the old moralities or dramas, who was generally engaged in contests with the devil, by whom he was finally carried away. Dr. Johnson says the modern Punch is descended from the vice.
+4232 
+4233 III.131
+4234 
+4235 From a shelf the precious diadem stole,
+4236 
+4237 And put it in his pocket!
+4238 
+4239 In allusion to the usurper procuring the crown as a common pilferer or thief, and not by open villainy that carried danger with it.
+4240 
+4241 III.132 A king of shreds and patches.] This is said, pursuing the idea of the vice of kings. The vice being dressed as a fool, in a coat of party-coloured patches.
+4242 
+4243 III.133 Laps'd in time and passion,] That having suffered time to slip, and passion to cool, &c. It was supposed that nothing was more offensive to apparitions than the neglect to attach importance to their appearance, or to be inattentive to their admonitions.
+4244 
+4245 III.134 Cool patience.] i.e., moderation.
+4246 
+4247 III.135 Make them capable.] Make them intelligent—capable of conceiving.
+4248 
+4249 III.136 My stem effects:] i.e., change the nature of my purposes, or what I mean to effect.
+4250 
+4251 III.137 Nothing at all; yet all that is, I see.] It is in perfect consistency with the belief that all spirits were not only naturally invisible, but that they possessed the power of making themselves visible to such persons only as they pleased.
+4252 
+4253 III.138 My father, in his habit as he lived!] In the habit he was accustomed to wear when living.
+4254 
+4255 III.139
+4256 
+4257 This bodiless creation ecstasy
+4258 
+4259 Is very cunning in.]
+4260 
+4261 i.e., "Such shadows are the weak brain's forgeries." Ecstasy in this place, as in many others, means a temporary alienation of mind—a fit.
+4262 
+4263 III.140 Gambol from.] Start away from.
+4264 
+4265 III.141 Skin and film,] Cover with a thin skin.
+4266 
+4267 III.142
+4268 
+4269 And when you are desirous to be bless'd,
+4270 
+4271 I'll blessing beg of you]
+4272 
+4273 When you are desirous to receive a blessing from heaven (which you cannot, seriously, till you reform), I will beg to receive a blessing from you.
+4274 
+4275 75
+4276 
+4277 ACT IV.
+4278 Scene I.—A ROOM IN THE CASTLE.
+4279 Enter King and Queen, from (R.H.) centre.
+4280 
+4281 King. There's matter in these sighs, these profound heaves:
+4282 
+4283 You must translate:1 'tis fit we understand them.
+4284 
+4285 How does Hamlet?
+4286 
+4287 Queen. Mad as the sea and wind, when both contend
+4288 
+4289 Which is the mightier: In his lawless fit,
+4290 
+4291 Behind the arras hearing something stir,
+4292 
+4293 Whips out his rapier, cries A rat, a rat!
+4294 
+4295 And, in this brainish apprehension,2 kills
+4296 
+4297 The unseen good old man.
+4298 
+4299 King.
+4300 O heavy deed!
+4301 
+4302 It had been so with us, had we been there:
+4303 
+4304 Where is he gone?
+4305 
+4306 Queen. To draw apart the body he hath kill'd.
+4307 
+4308 King. The sun no sooner shall the mountains touch,
+4309 
+4310 But we will ship him hence: and this vile deed
+4311 
+4312 We must, with all our majesty and skill,
+4313 
+4314 Both countenance and excuse.—Ho, Guildenstern!
+4315 
+4316 Enter Rosencrantz and Guildenstern (L.H.)
+4317 
+4318 Friends both, go join you with some further aid:
+4319 
+4320 Hamlet in madness hath Polonius slain,
+4321 
+4322 And from his mother's closet hath he dragg'd him:
+4323 
+4324 Go seek him out; speak fair, and bring the body
+4325 
+4326 Into the chapel.
+4327 
+4328 [Rosencrantz and Guildenstern cross to R.]
+4329 
+4330 76
+4331 I pray you, haste in this.
+4332 
+4333 [Exeunt Rosencrantz and Guildenstern, R.H.]
+4334 
+4335 Go, Gertrude, we'll call up our wisest friends;
+4336 
+4337 And let them know, both what we mean to do,
+4338 
+4339 And what's untimely done.
+4340 
+4341 [Exit Queen, R.C.]
+4342 
+4343 How dangerous is it that this man goes loose!
+4344 
+4345 Yet must not we put the strong law on him:
+4346 
+4347 He's lov'd of the distracted multitude,
+4348 
+4349 Who like not in their judgment, but their eyes;
+4350 
+4351 And where 'tis so, the offender's scourge is weigh'd,
+4352 
+4353 But never the offence.3
+4354 
+4355 Enter Rosencrantz (R.)
+4356 
+4357 How now! what hath befallen?
+4358 
+4359 Ros. Where the dead body is bestowed, my lord,
+4360 
+4361 We cannot get from him.
+4362 
+4363 King.
+4364 But where is he?
+4365 
+4366 Ros. Without, my lord; guarded, to know your pleasure.
+4367 
+4368 King. Bring him before us.
+4369 
+4370 Ros. Ho, Guildenstern! bring in my lord.
+4371 
+4372 Enter Hamlet, Guildenstern, and Attendants (R.H.)
+4373 
+4374 King. (C.) Now, Hamlet, where's Polonius?
+4375 
+4376 Ham. (R.) At supper.
+4377 
+4378 King. At supper? Where?
+4379 
+4380 Ham. Not where he eats, but where he is eaten: a certain convocation of politick worms4 are e'en at him.
+4381 
+4382 King. Where's Polonius?
+4383 
+4384 Ham. In Heaven; send thither to see: if your messenger find him not there, seek him i'the other place yourself. But, indeed, if you find him not within this month, you shall nose him as you go up the stairs into the lobby.
+4385 
+4386 King. Go seek him there. [To Guildenstern.]
+4387 
+4388 77Ham. He will stay till you come.
+4389 
+4390 [Exit Guildenstern, R.H.]
+4391 
+4392 King. Hamlet, this deed, for thine especial safety,
+4393 
+4394 Must send thee hence:
+4395 
+4396 Therefore prepare thyself;
+4397 
+4398 The bark is ready, and the wind at help,5
+4399 
+4400 For England.
+4401 
+4402 Ham.
+4403 For England!
+4404 
+4405 King.
+4406 Ay, Hamlet.
+4407 
+4408 Ham.
+4409 Good.
+4410 
+4411 King. So is it, if thou knew'st our purposes.
+4412 
+4413 Ham. I see a cherub that sees them. But, come; for England!—Farewell, dear mother.
+4414 
+4415 King. Thy loving father, Hamlet.
+4416 
+4417 Ham. My mother: Father and mother is man and wife; man and wife is one flesh; and so, my mother. Come, for England.
+4418 
+4419 [Exit, R.H.]
+4420 
+4421 King. Follow him at foot; tempt him with speed aboard;
+4422 
+4423 Away! for everything is seal'd and done.
+4424 
+4425 [Exeunt Rosencrantz and Attendants, R.H.]
+4426 
+4427 And, England, if my love thou hold'st at aught,
+4428 
+4429 Thou may'st not coldly set6
+4430 
+4431 Our sovereign process;7 which imports at full,
+4432 
+4433 By letters conjuring to that effect,8
+4434 
+4435 The present death of Hamlet. Do it, England;
+4436 
+4437 For thou must cure me: 'Till I know 'tis done,
+4438 
+4439 Howe'er my haps,9 my joys will ne'er begin.
+4440 
+4441 [Exit King, L.H.]
+4442 
+4443 Enter Queen and Horatio R. centre.
+4444 
+4445 Queen. —— I will not speak with her.
+4446 
+4447 Hor. She is importunate; indeed, distract:
+4448 
+4449 'Twere good she were spoken with; for she may strew
+4450 
+4451 Dangerous conjectures in ill-breeding minds.
+4452 
+4453 Queen. Let her come in.
+4454 
+4455 [Exit Horatio, R.C.]
+4456 
+4457 78Re-enter Horatio, with Ophelia R. centre.
+4458 
+4459 Oph. Where is the beauteous majesty of Denmark?
+4460 
+4461 Queen. How now, Ophelia!
+4462 
+4463 Oph. (C.)
+4464 [Singing.]
+4465 
+4466 How should I your true love know
+4467 
+4468 From another one?
+4469 
+4470 By his cockle hat and staff,
+4471 
+4472 And his sandal shoon.10
+4473 
+4474 Queen. (L.C.) Alas, sweet lady, what imports this song?
+4475 
+4476 Oph. Say you? nay, pray you, mark.
+4477 
+4478 [Sings.]
+4479 
+4480 He is dead and gone, lady,
+4481 
+4482 He is dead and gone;
+4483 
+4484 At his head a grass-green turf,
+4485 
+4486 At his heels a stone.
+4487 
+4488 Enter the King (L.H.)
+4489 
+4490 Queen. Nay, but, Ophelia,——
+4491 
+4492 Oph.
+4493 Pray you, mark.
+4494 
+4495 [Sings.]
+4496 
+4497 White his shroud as the mountain-snow,
+4498 
+4499 Larded all with sweet flowers;11
+4500 
+4501 Which bewept to the grave did go
+4502 
+4503 With true-love showers.
+4504 
+4505 King. How do you, pretty lady?
+4506 
+4507 Oph. Well, Heaven 'ield you!12 (Crosses to the King.)
+4508 
+4509 They say the owl was a baker's daughter.13 We know what we are, but know not what we may be.
+4510 
+4511 King. Conceit upon her father.14
+4512 
+4513 Oph. Pray, you, let us have no words of this; but when they ask you what it means, say you this:
+4514 
+4515 To-morrow is Saint Valentine's day,
+4516 
+4517 All in the morning betime,
+4518 
+4519 79
+4520 And I, a maid at your window,
+4521 
+4522 To be your Valentine:
+4523 
+4524 King. Pretty Ophelia!
+4525 
+4526 Oph. Indeed, without an oath, I'll make an end on't:
+4527 
+4528 Then up he rose, and don'd his clothes,
+4529 
+4530 And dupp'd15 the chamber door;
+4531 
+4532 Let in the maid, that out a maid
+4533 
+4534 Never departed more.
+4535 
+4536 [Crosses to R.H.]
+4537 
+4538 King. (L.) How long hath she been thus?
+4539 
+4540 Oph. (R.) I hope all will be well. We must be patient: but I cannot choose but weep, to think they should lay him i'the cold ground. My brother shall know of it; and so I thank you for your good counsel. Come, my coach! Good night, ladies; good night, sweet ladies; good night, good night.
+4541 
+4542 [Exit, R.C.]
+4543 
+4544 King. Follow her close; give her good watch, I pray you.
+4545 
+4546 [Exit Horatio, through centre R.]
+4547 
+4548 O! this is the poison of deep grief; it springs
+4549 
+4550 All from her father's death.
+4551 
+4552 O, Gertrude, Gertrude,
+4553 
+4554 When sorrows come, they come not single spies,
+4555 
+4556 But in battalions!
+4557 
+4558 Enter Marcellus R. centre.
+4559 
+4560 King. What is the matter?
+4561 
+4562 Mar.
+4563 Save yourself, my lord:
+4564 
+4565 The young Laertes, in a riotous head,16
+4566 
+4567 O'erbears your officers. The rabble call him lord;
+4568 
+4569 They cry, Choose we: Laertes shall be king!
+4570 
+4571 Caps, hands, and tongues, applaud it to the clouds,
+4572 
+4573 Laertes shall be king, Laertes king!
+4574 
+4575 [Noise within, R.C.]
+4576 
+4577 Enter Laertes, armed; Danes following R. centre.
+4578 
+4579 Laer. Where is this king?—Sirs, stand you all without.
+4580 
+4581 Dan. No, let's come in.
+4582 
+4583 80Laer.
+4584 I pray you, give me leave.
+4585 
+4586 Dan. We will, we will.
+4587 
+4588 [They retire without, R.H.]
+4589 
+4590 Laer. O, thou vile king,
+4591 
+4592 Give me my father.
+4593 
+4594 Queen (Interposing.) Calmly, good Laertes.
+4595 
+4596 Laer. (R.) That drop of blood that's calm proclaims me bastard;
+4597 
+4598 Cries cuckold to my father; brands the harlot
+4599 
+4600 Even here, between the chaste unsmirched brow
+4601 
+4602 Of my true mother.17
+4603 
+4604 King. (L.) What is the cause, Laertes,
+4605 
+4606 That thy rebellion looks so giant-like?
+4607 
+4608 Let him go, Gertrude; do not fear our person:
+4609 
+4610 There's such divinity doth hedge a king,18
+4611 
+4612 That treason can but peep to what it would,
+4613 
+4614 Acts little of his will.
+4615 
+4616 Let him go, Gertrude.
+4617 
+4618 [Queen obeys.]
+4619 
+4620 Laer. Where is my father?
+4621 
+4622 King.
+4623 Dead.
+4624 
+4625 Queen.
+4626 But not by him.
+4627 
+4628 King. Let him demand his fill.
+4629 
+4630 Laer. How came he dead? I'll not be juggled with:
+4631 
+4632 To hell, allegiance! To this point I stand,
+4633 
+4634 That both the worlds I give to negligence,19
+4635 
+4636 Let come what comes; only I'll be reveng'd
+4637 
+4638 Most throughly for my father.
+4639 
+4640 King.
+4641 Who shall stay you!
+4642 
+4643 Laer. My will, not all the world's:20
+4644 
+4645 And, for my means, I'll husband them so well,
+4646 
+4647 They shall go far with little.
+4648 
+4649 King.
+4650 Good Laertes,
+4651 
+4652 That I am guiltless of your father's death,
+4653 
+4654 81
+4655 And am most sensible in grief21 for it,
+4656 
+4657 It shall as level to your judgment 'pear
+4658 
+4659 As day does to your eye.
+4660 
+4661 Hor. (Without.) Oh, poor Ophelia!
+4662 
+4663 King. Let her come in.
+4664 
+4665 Enter Ophelia (R.C.), fantastically dressed with Straws and Flowers.
+4666 
+4667 Laer. (Goes up L.C.) O rose of May!
+4668 
+4669 Dear maid, kind sister, sweet Ophelia!
+4670 
+4671 O heavens! is't possible, a young maid's wits
+4672 
+4673 Should be as mortal as an old man's life?
+4674 
+4675 Oph. (R.C.)
+4676 
+4677 They bore him barefac'd on the bier;
+4678 
+4679 And on his grave rain many a tear,—
+4680 
+4681 Fare you well, my dove!
+4682 
+4683 Laer. (Coming down R) Hadst thou thy wits, and didst persuade revenge,
+4684 
+4685 It could not move thus.
+4686 
+4687 Oph. You must sing, Down-a-down,22 an you call him a-down-a. O, how well the wheel becomes it!23 It is the false steward, that stole his master's daughter.
+4688 
+4689 Laer. This nothing's more than matter.
+4690 
+4691 Oph. There's rosemary, that's for remembrance;24 pray you, love, remember: and there is pansies,25 that's for thoughts.
+4692 
+4693 Laer. A document in madness; thoughts and remembrance fitted.
+4694 
+4695 Oph. There's fennel for you, (crosses to the King on L.H.) and columbines:26 there's rue for you; (turns to the Queen, 82who is R.C.) and here's some for me:—we may call it herb of grace o'Sundays:27—you may wear your rue with a difference.28—There's a daisy:29—I would give you some violets,30 but they withered all when my father died:—They say he made a good end,——
+4696 
+4697 For bonny sweet Robin is all my joy—31
+4698 
+4699 Laer. (R.) Thought and affliction,32 passion, hell itself, She turns to favour and to prettiness.
+4700 
+4701 Oph.
+4702 
+4703 And will he not come again?
+4704 
+4705 And will he not come again?
+4706 
+4707 No, no, he is dead,
+4708 
+4709 Gone to his death-bed,
+4710 
+4711 He never will come again.
+4712 
+4713 His beard was white as snow,
+4714 
+4715 All flaxen was his poll:
+4716 
+4717 He is gone, he is gone,
+4718 
+4719 And we cast away moan:
+4720 
+4721 Heaven 'a mercy on his soul!
+4722 
+4723 And of all christian souls, I pray Heaven. Heaven be wi' you.
+4724 
+4725 [Exit Ophelia, R.C., Queen following.]
+4726 
+4727 Laer. Do you see this, O Heaven?
+4728 
+4729 83King. (L.C.) Laertes, I must commune with your grief,33
+4730 
+4731 Or you deny me right.
+4732 
+4733 Be you content to lend your patience to us,
+4734 
+4735 And we shall jointly labour with your soul
+4736 
+4737 To give it due content.
+4738 
+4739 Laer. (R.C.)
+4740 Let this be so;
+4741 
+4742 His means of death, his obscure funeral,—
+4743 
+4744 No trophy, sword, nor hatchment o'er his bones,34
+4745 
+4746 No noble rite nor formal ostentation,—
+4747 
+4748 Cry to be heard,35 as 'twere from heaven to earth,
+4749 
+4750 That I must call't in question.
+4751 
+4752 King.
+4753 So you shall;
+4754 
+4755 And where the offence is let the great axe fall.36
+4756 
+4757 How now! what news?
+4758 
+4759 Enter Bernardo (R.H.C.)
+4760 
+4761 Ber. (C.)
+4762 Letters, my lord, from Hamlet:
+4763 
+4764 This to your majesty; this to the Queen.
+4765 
+4766 King. From Hamlet! who brought them?
+4767 
+4768 Ber. Sailors, my lord, they say; I saw them not.
+4769 
+4770 King.
+4771 Laertes, you shall hear them.—
+4772 
+4773 Leave us.
+4774 [Exit, L.H.C.]
+4775 
+4776 [Reads.] High and mighty, You shall know I am set naked on your kingdom.37 To morrow shall I beg leave to see your kingly eyes: when I shall, first asking your pardon thereunto, recount the occasion of my sudden and more strange return.
+4777 
+4778 Hamlet.
+4779 
+4780 What should this mean? Are all the rest come back?
+4781 
+4782 Or is it some abuse, and no such thing?
+4783 
+4784 Laer. (R.) Know you the hand?
+4785 
+4786 King. (L.) 'Tis Hamlet's character:38 Naked,—
+4787 
+4788 84
+4789 And in a postscript here, he says, alone.
+4790 
+4791 Can you advise me?
+4792 
+4793 Laer. I am lost in it, my lord. But let him come;
+4794 
+4795 It warms the very sickness in my heart,
+4796 
+4797 That I shall live and tell him to his teeth,
+4798 
+4799 Thus diddest thou.
+4800 
+4801 King.
+4802 If it be so, Laertes,
+4803 
+4804 Will you be rul'd by me?
+4805 
+4806 Laer.
+4807 Ay, my lord;
+4808 
+4809 So you will not o'er-rule me to a peace.
+4810 
+4811 King. To thine own peace.
+4812 
+4813 Some two months since,
+4814 
+4815 Here was a gentleman of Normandy,
+4816 
+4817 He made confession of39 you;
+4818 
+4819 And gave you such a masterly report,
+4820 
+4821 For art and exercise in your defence,40
+4822 
+4823 And for your rapier most especially,
+4824 
+4825 That he cried out, 'twould be a sight indeed,
+4826 
+4827 If one could match you: this report of his
+4828 
+4829 Did Hamlet so envenom with his envy,
+4830 
+4831 That he could nothing do but wish and beg
+4832 
+4833 Your sudden coming o'er, to play with you.
+4834 
+4835 Now, out of this,——
+4836 
+4837 Laer.
+4838 What out of this, my lord?
+4839 
+4840 King. Laertes, was your father dear to you?
+4841 
+4842 Or are you like the painting of a sorrow,
+4843 
+4844 A face without a heart?
+4845 
+4846 Laer.
+4847 Why ask you this?
+4848 
+4849 King. Hamlet return'd shall know you are come home:
+4850 
+4851 We'll put on those shall praise your excellence,
+4852 
+4853 And set a double varnish on the fame
+4854 
+4855 The Frenchman gave you; bring you, in fine, together,
+4856 
+4857 And wager o'er your heads; he, being remiss,41
+4858 
+4859 Most generous, and free from all contriving,
+4860 
+4861 Will not peruse the foils:42 so that, with ease,
+4862 
+4863 Or with a little shuffling, you may choose
+4864 
+4865 85
+4866 A sword unbated,43 and, in a pass of practice,44
+4867 
+4868 Requite him for your father.
+4869 
+4870 Laer.
+4871 I will do't:
+4872 
+4873 And, for the purpose, I'll anoint my sword.
+4874 
+4875 I bought an unction of a mountebank,
+4876 
+4877 So mortal, that but dip a knife in it,
+4878 
+4879 Where it draws blood no cataplasm45 so rare,
+4880 
+4881 Collected from all simples46 that have virtue
+4882 
+4883 Under the moon, can save the thing from death
+4884 
+4885 That is but scratch'd withal: I'll touch my point
+4886 
+4887 With this contagion, that, if I gall him slightly,
+4888 
+4889 It may be death.
+4890 
+4891 King. (L.) Let's further think of this;
+4892 
+4893 We'll make a solemn wager on your cunnings,47
+4894 
+4895 When in your motion48 you are hot and dry,
+4896 
+4897 (As make your bouts more violent to that end,)
+4898 
+4899 And that he calls for drink, I'll have prepared him
+4900 
+4901 A chalice for the nonce;49 whereon but sipping,
+4902 
+4903 If he by chance escape your venom'd stuck,50
+4904 
+4905 Our purpose may hold there. But stay, what noise?
+4906 
+4907 Enter Queen (R.C.)
+4908 
+4909 Queen. (C.) One woe doth tread upon another's heel,
+4910 
+4911 So fast they follow: Your sister's drown'd, Laertes.
+4912 
+4913 Laer. (R.) Drown'd! O, where?
+4914 
+4915 Queen. There is a willow grows aslant a brook,
+4916 
+4917 That shows his hoar leaves in the glassy stream;
+4918 
+4919 Therewith fantastick garlands did she make
+4920 
+4921 Of crow-flowers, nettles, daisies, and long purples;51
+4922 
+4923 86
+4924 There, on the pendent boughs her cornet weeds
+4925 
+4926 Clambering to hang, an envious sliver broke;
+4927 
+4928 When down her weedy trophies, and herself,
+4929 
+4930 Fell in the weeping brook.
+4931 
+4932 Laer. I forbid my tears: But yet
+4933 
+4934 It is our trick:52 nature her custom holds,
+4935 
+4936 Let shame say what it will: when these are gone,
+4937 
+4938 The woman will be out.53
+4939 
+4940 Adieu, my lord:
+4941 
+4942 I have a speech of fire, that fain would blaze,
+4943 
+4944 But that this folly drowns it.54
+4945 
+4946 [Exeunt. C.]
+4947 
+4948 END OF ACT FOURTH.
+4949 Notes
+4950 Act IV
+4951 
+4952 IV.1 Translate:] Interpret.
+4953 
+4954 IV.2 In this brainish apprehension,] Distempered, brainsick mood.
+4955 
+4956 IV.3 Where the offender's scourge is weigh'd, But never the offence.] When an offender is popular, the people never consider what his crime was, but they scrutinise his punishment.
+4957 
+4958 IV.4 Politick worms] i.e., artful, cunning worms.
+4959 
+4960 IV.5 The wind at help,] i.e., ready.
+4961 
+4962 IV.6 May'st not coldly set] Set is to value or estimate. "Thou may'st not set little by it, or estimate it lightly."
+4963 
+4964 IV.7 Our sovereign process:] i.e., our royal design.
+4965 
+4966 IV.8 By letters conjuring to that effect,] The verb to conjure, in the sense of to supplicate, was formerly accented on the first syllable.
+4967 
+4968 IV.9 Howe'er my haps,] Chances of fortune.
+4969 
+4970 IV.10 His sandal shoon.] Shoon is the old plural of shoe. The verse is descriptive of a pilgrim. While this kind of devotion was in favour, love intrigues were carried on under that mask.
+4971 
+4972 IV.11 Larded with sweet flowers;] i.e., Garnished with sweet flowers.
+4973 
+4974 IV.12 Heaven 'ield you.] Requite; yield you recompence.
+4975 
+4976 IV.13 The owl was a baker's daughter.] This is in reference to a story that was once prevalent among the common people of Gloucestershire.
+4977 
+4978 IV.14 Conceit upon her father.] Fancies respecting her father.
+4979 
+4980 IV.15 Don'd and dupp'd] To don, is to do on, or put on, as doff is to do off, or put off. To dupp is to do up, or lift up the latch.
+4981 
+4982 IV.16 In a riotous head,] The tide, strongly flowing, is said to pour in with a great head.
+4983 
+4984 IV.17 The chaste unsmirched brow of my true mother.] Unsmirched is unstained, not defiled.
+4985 
+4986 IV.18 Doth hedge a king,] The word hedge is used by the gravest writers upon the highest subjects.
+4987 
+4988 IV.19 Both the worlds I give to negligence,] I am careless of my present and future prospects, my views in this life, as well as that which is to come.
+4989 
+4990 IV.20 My will, not all the world's:] i.e., by my will as far as my will is concerned, not all the world shall stop me; and, as for my means, I'll husband them so well, they shall go far, though really little.
+4991 
+4992 IV.21 Sensible in grief] Poignantly affected with.
+4993 
+4994 IV.22 You must sing Down-a-down,] This was the burthen of an old song, well known in Shakespeare's time.
+4995 
+4996 IV.23 How well the wheel becomes it!] This probably means that the song or charm is well adapted to those who are occupied at spinning at the wheel.
+4997 
+4998 IV.24 There's rosemary, that's for remembrance;] Rosemary was anciently supposed to strengthen the memory, and was carried at funerals and wore at weddings. It was also considered the emblem of fidelity in lovers; and at weddings it was usual to dip the rosemary in the cup, and drink to the health of the new married couple.
+4999 
+5000 IV.25 There is pansies,] i.e., a little flower called heart's-ease. Pansies in French signifies thoughts.
+5001 
+5002 IV.26 There's fennel for you, and columbines:] Fennel was considered an emblem of flattery, and columbine was anciently supposed to be a thankless flower; signifying probably that the courtiers flattered to get favours, and were thankless after receiving them. Columbine was emblematical of forsaken lovers.
+5003 
+5004 IV.27 There's rue for you; and here's some for me:—we may call it herb of grace o' Sundays:] Probably a quibble is meant here, as rue anciently signified the same as ruth, i.e., sorrow. In the common dictionaries of Shakespeare's time, it was called herb of grace. Ophelia wishes to remind the Queen of the sorrow and contrition she ought to feel for her unlawful marriage; and that she may wear her rue with peculiar propriety on Sundays, when she solicits pardon for the crime which she has so much occasion to rue and repent of.—Malone.
+5005 
+5006 IV.28 You may wear your rue with a difference.] i.e., to distinguish it from that worn by Ophelia, herself: because her tears flowed from the loss of a father—those of the Queen ought to flow for her guilt.
+5007 
+5008 IV.29 There's a daisy:] A daisy signified a warning to young women, not to trust the fair promises of their lovers.
+5009 
+5010 IV.30 I would give you some violets,] Violets signified faithfulness.
+5011 
+5012 IV.31 For bonny sweet Robin is all my joy,—] Part of an old song.
+5013 
+5014 IV.32 Thought and affliction,] Thought here, as in many other places, means melancholy.
+5015 
+5016 IV.33 I must commune with your grief,] i.e., confer, discuss, or argue with.
+5017 
+5018 IV.34 No trophy, sword, nor hatchment o'er his bones,] Not only the sword, but the helmet, gauntlet, spurs, and tabard, (i.e., a coat whereon the armorial ensigns were anciently depicted, from whence the term coat of armour), are hung over the grave of every knight.
+5019 
+5020 IV.35 Cry to be heard,] All these multiplied incitements are things which cry, &c.
+5021 
+5022 IV.36 Let the great axe fall.] i.e., the axe that is to be laid to the root.
+5023 
+5024 IV.37 Naked on your kingdom,] i.e., unprovided and defenceless.
+5025 
+5026 IV.38 'Tis Hamlet's character,] Peculiar mode of shaping his letters.
+5027 
+5028 IV.39 Made confession of] Acknowledged.
+5029 
+5030 IV.40 In your defence,] i.e., "in your art and science of defence."
+5031 
+5032 IV.41 He, being remiss,] i.e., unsuspicious, not cautious.
+5033 
+5034 IV.42 Peruse the foils;] Closely inspect them.
+5035 
+5036 IV.43 A sword unbated,] Not blunted, as foils are by a button fixed to the end.
+5037 
+5038 IV.44 In a pass of practice,] This probably means some favourite pass, some trick of fencing, with which Hamlet was inexperienced, and by which Laertes may be sure of success.
+5039 
+5040 IV.45 No cataplasm,] i.e., poultice—a healing application.
+5041 
+5042 IV.46 Collected from all simples,] i.e., from all ingredients in medicine.
+5043 
+5044 IV.47 On your cunnings,] i.e., on your dexterity.
+5045 
+5046 IV.48 In your motion] Exercise, rapid evolutions.
+5047 
+5048 IV.49 For the nonce;] i.e., present purpose or design.
+5049 
+5050 IV.50 Venom'd stuck,] Thrust. Stuck was a term of the fencing school.
+5051 
+5052 IV.51 Long purples,] One of the names for a species of orchis, a common English flower.
+5053 
+5054 IV.52 Our trick:] Our course, or habit; a property that clings to, or makes a part of, us.
+5055 
+5056 IV.53
+5057 
+5058 When these are gone,
+5059 
+5060 The woman will be out.
+5061 
+5062 When these tears are shed, this womanish passion will be over.
+5063 
+5064 IV.54 But that this folly drowns it.] i.e., my rage had flamed, if this flood of tears had not extinguished it.
+5065 
+5066 87
+5067 
+5068 ACT V.
+5069 Scene I.—A CHURCH YARD.
+5070 Enter two Clowns,1 with spades, &c. (L.H.U.E.)
+5071 
+5072 1st Clo. (R.) Is she to be buried in christian burial that wilfully seeks her own salvation?
+5073 
+5074 2nd Clo. (L.) I tell thee she is; therefore make her grave straight:2 the crowner3 hath set on her, and finds it christian burial.
+5075 
+5076 1st Clo. How can that be, unless she drowned herself in her own defence?
+5077 
+5078 2nd Clo. Why, 'tis found so.
+5079 
+5080 1st Clo. It must be se offendendo;4 it cannot be else. For here lies the point: If I drown myself wittingly, it argues an act: and an act hath three branches; it is, to act, to do, and to perform:5 argal,6 she drowned herself wittingly.
+5081 
+5082 2nd Clo. Nay, but hear you, goodman delver.7
+5083 
+5084 1st Clo. Give me leave. Here lies the water; good: here stands the man; good: If the man go to this water, and drown himself, it is, will he, nill he, he goes,8 mark 88you that; but if the water come to him and drown him, he drowns not himself: argal, he that is not guilty of his own death shortens not his own life.
+5085 
+5086 2nd Clo. But is this law?
+5087 
+5088 1st Clo. Ay, marry is't; crowner's-quest law.9
+5089 
+5090 2nd Clo. Will you ha' the truth on't? If this had not been a gentlewoman, she should have been buried out of christian burial.
+5091 
+5092 1st Clo. Why, there thou say'st:10 And the more pity that great folks should have countenance in this world to drown or hang themselves, more than their even christian.11 Come, my spade. There is no ancient gentlemen but gardeners, ditchers, and grave-makers: they hold up Adam's profession.
+5093 
+5094 2nd Clo. Was he a gentleman?12
+5095 
+5096 1st Clo. He was the first that ever bore arms. I'll put another question to thee: if thou answerest me not to the purpose, confess thyself——13
+5097 
+5098 2nd Clo. Go to.
+5099 
+5100 1st Clo. What is he that builds stronger than either the mason, the shipwright, or the carpenter?
+5101 
+5102 2nd Clo. The gallows-maker; for that frame outlives a thousand tenants.
+5103 
+5104 1st Clo. I like thy wit well, in good faith: the gallows does well; But how does it well? it does well to those that do ill: now, thou dost ill to say the gallows is built stronger than the church: argal, the gallows may do well to thee. To't again, come.
+5105 
+5106 2nd Clo. Who builds stronger than a mason, a shipwright, or a carpenter?
+5107 
+5108 891st Clo. Ay, tell me that, and unyoke.14
+5109 
+5110 2nd Clo. Marry, now I can tell.
+5111 
+5112 1st Clo. To't.
+5113 
+5114 2nd Clo. Mass, I cannot tell.
+5115 
+5116 1st Clo. Cudgel thy brains no more about it,15 for your dull ass will not mend his pace with beating; and, when you are asked this question next, say, a grave-maker, the houses that he makes, last till doomsday. Go, get thee to Yaughan, and fetch me a stoup of liquor.16
+5117 
+5118 [Exit 2nd Clown, L.H.U.E.]
+5119 
+5120 Enter Hamlet and Horatio (L.H.U.E.)
+5121 
+5122 First Clown digs and sings.
+5123 
+5124 In youth, when I did love, did love,17
+5125 
+5126 Methought, it was very sweet,
+5127 
+5128 To contract, O, the time, for, ah, my behove
+5129 
+5130 O, methought, there was nothing meet.
+5131 
+5132 Ham. (Behind the grave.) Has this fellow no feeling of his business, he sings at grave-making?
+5133 
+5134 Hor. (On Hamlet's R.) Custom hath made it in him a property of easiness.
+5135 
+5136 Ham. 'Tis e'en so: the hand of little employment hath the daintier sense.18
+5137 
+5138 1st Clo.
+5139 But age, with his stealing steps,
+5140 
+5141 Hath clawed me in his clutch,
+5142 
+5143 And hath shipped me into the land,
+5144 
+5145 As if I had never been such.
+5146 
+5147 [Throws up a skull.]
+5148 
+5149 Ham. That skull had a tongue in it, and could sing 90once: How the knave jowls it to the ground, as if it were Cain's jaw-bone, that did the first murder! This might be the pate of a politician, which this ass now o'er-reaches; one that would circumvent Heaven, might it not?
+5150 
+5151 Hor. It might, my lord.
+5152 
+5153 [Gravedigger throws up bones.]
+5154 
+5155 Ham. Did these bones cost no more the breeding, but to play at loggats with them?19 mine ache to think on't.
+5156 
+5157 1st Clo.
+5158 [Sings.]
+5159 
+5160 A pick-axe and a spade, a spade,
+5161 
+5162 For and a shrouding sheet:20
+5163 
+5164 O, a pit of clay for to be made
+5165 
+5166 For such a guest is meet.
+5167 
+5168 [Throws up a skull.]
+5169 
+5170 Ham. There's another: Why may not that be the skull of a lawyer? Where be his quiddits now, his quillets,21 his cases, his tenures, and his tricks? Why does he suffer this rude knave now to knock him about the sconce22 with a dirty shovel, and will not tell him of his action of battery? I will speak to this fellow.—Whose grave's this, sirrah?
+5171 
+5172 1st Clo. Mine, sir.—
+5173 
+5174 [Sings.]
+5175 
+5176 O, a pit of clay for to be made
+5177 
+5178 For such a guest is meet.
+5179 
+5180 Ham. (R. of grave.) I think it be thine, indeed; for thou liest in't.
+5181 
+5182 1st Clo. You lie out on't, sir, and therefore it is not yours: for my part, I do not lie in't, yet it is mine.
+5183 
+5184 Ham. Thou dost lie in't, to be in't, and say it is thine: 'tis for the dead, not for the quick; therefore thou liest.
+5185 
+5186 1st. Clo. 'Tis a quick lie, sir; 'twill away again, from me to you.
+5187 
+5188 91Ham. What man dost thou dig it for?
+5189 
+5190 1st Clo. For no man, sir.
+5191 
+5192 Ham. What woman, then?
+5193 
+5194 1st Clo. For none, neither.
+5195 
+5196 Ham. Who is to be buried in't?
+5197 
+5198 1st Clo. One that was a woman, sir; but, rest her soul, she's dead.
+5199 
+5200 Ham. How absolute the knave is!23 we must speak by the card,24 or equivocation will undo us, [To Horatio, R.] How long hast thou been a grave-maker?
+5201 
+5202 1st Clo. Of all the days i'the year, I came to't that day that our last king Hamlet overcame Fortinbras.
+5203 
+5204 Ham. How long's that since?
+5205 
+5206 1st Clo. Cannot you tell that? every fool can tell that: It was the very day that young Hamlet was born,25 he that is mad, and sent into England.
+5207 
+5208 Ham. Ay, marry, why was he sent into England?
+5209 
+5210 1st Clo. Why, because he was mad: he shall recover his wits there; or, if he do not, 'tis no great matter there.
+5211 
+5212 Ham. Why?
+5213 
+5214 1st Clo. 'Twill not be seen in him there; there the men are as mad as he.
+5215 
+5216 Ham. How came he mad?
+5217 
+5218 1st Clo. Very strangely, they say.
+5219 
+5220 Ham. How strangely?
+5221 
+5222 1st Clo. 'Faith, e'en with losing his wits.
+5223 
+5224 Ham. Upon what ground?
+5225 
+5226 1st Clo. Why, here in Denmark: I have been sexton here, man and boy, thirty years.
+5227 
+5228 Ham. How long will a man lie i'the earth ere he rot?
+5229 
+5230 1st Clo. 'Faith, if he be not rotten before he die, he 92will last you some eight year or nine year: a tanner will last you nine year.
+5231 
+5232 Ham. Why he more than another?
+5233 
+5234 1st Clo. Why, sir, his hide is so tanned with his trade, that he will keep out water a great while; and your water is a sore decayer of your ill-begotten dead body. Here's a skull now, hath lain in the earth three-and-twenty years.
+5235 
+5236 Ham. Whose was it?
+5237 
+5238 1st Clo. O, a mad fellow's it was: Whose do you think it was?
+5239 
+5240 Ham. Nay, I know not.
+5241 
+5242 1st Clo. A pestilence on him for a mad rogue! he poured a flagon of Rhenish on my head once. This same skull, sir, was Yorick's skull, the king's jester.
+5243 
+5244 Ham. This?
+5245 [Takes the skull.]
+5246 
+5247 1st Clo. E'en that.
+5248 
+5249 Ham. Alas, poor Yorick! I knew him, Horatio: a fellow of infinite jest, of most excellent fancy: he hath borne me on his back a thousand times. Here hung those lips that I have kissed I know not how oft; and now, how abhorred in my imagination it is! Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar? Not one now, to mock your own grinning? Quite chap-fallen? Now get you to my lady's chamber, and tell her, let her paint an inch thick, to this favour26 she must come; make her laugh at that. Prithee, Horatio, tell me one thing.
+5250 
+5251 Hor. What's that, my lord?
+5252 
+5253 Ham. Dost thou think Alexander look'd o'this fashion i'the earth?
+5254 
+5255 Hor. E'en so.
+5256 
+5257 Ham. And smelt so? pah!
+5258 
+5259 [Gives the skull to Horatio, who returns it to the grave-digger.]
+5260 
+5261 Hor. E'en so, my lord.
+5262 
+5263 Ham. To what base uses may we return, Horatio! Why may not imagination trace the noble dust of Alexander, till it find it stopping a bung-hole?
+5264 
+5265 93Hor. 'Twere to consider too curiously,27 to consider so.
+5266 
+5267 Ham. No, faith, not a jot; but to follow him thither with modesty enough, and likelihood to lead it: As thus; Alexander died, Alexander was buried, Alexander returneth to dust; the dust is earth; of earth we make loam; And why of that loam, whereto he was converted, might they not stop a beer barrel?
+5268 
+5269 Imperial Cæsar,28 dead and turn'd to clay,
+5270 
+5271 Might stop a hole to keep the wind away:
+5272 
+5273 O, that the earth, which kept the world in awe,
+5274 
+5275 Should patch a wall to expel the winter's flaw!29
+5276 
+5277 But soft! but soft! aside: Here comes the king,
+5278 
+5279 The queen, the courtiers: Who is this they follow?
+5280 
+5281 And with such maimèd rites?30 This doth betoken
+5282 
+5283 The corse they follow did with desperate hand
+5284 
+5285 Fordo its own life:31 'Twas of some estate.32
+5286 
+5287 Couch we awhile, and mark.
+5288 
+5289 [Retiring with Horatio, R.H.]
+5290 
+5291 Enter Priests, &c., in procession; the corpse of Ophelia, Laertes and Mourners following; King, Queen, their Trains, &c.
+5292 
+5293 Laer. (L. of the grave.) What ceremony else?
+5294 
+5295 Ham. (R.)
+5296 That is Laertes,
+5297 
+5298 A very noble youth.
+5299 
+5300 1st Priest. (R. of the grave.) Her obsequies have been as far enlarg'd
+5301 
+5302 As we have warranty: Her death was doubtful;
+5303 
+5304 And, but that great command o'ersways the order,33
+5305 
+5306 She should in ground unsanctified have lodged
+5307 
+5308 Till the last trumpet; for charitable prayers,
+5309 
+5310 Shards,34 flints, and pebbles, should be thrown on her:
+5311 
+5312 94
+5313 Yet here she is allowed her virgin crants,35
+5314 
+5315 Her maiden strewments, and the bringing home
+5316 
+5317 Of bell and burial.36
+5318 
+5319 Laer. Must there no more be done?
+5320 
+5321 1st Priest.
+5322 No more be done:
+5323 
+5324 We should profane the service of the dead
+5325 
+5326 To sing a requiem,37 and such rest to her
+5327 
+5328 As to peace-parted souls.
+5329 
+5330 Laer. O, from her fair and unpolluted flesh
+5331 
+5332 May violets spring! I tell thee, churlish priest,38
+5333 
+5334 A ministering angel shall my sister be,
+5335 
+5336 When thou liest howling.
+5337 
+5338 Ham.
+5339 What, the fair Ophelia!
+5340 
+5341 Queen. (Behind the grave, C. with the King.)
+5342 
+5343 Sweets to the sweet: Farewell!
+5344 
+5345 [Scattering flowers.]
+5346 
+5347 I hop'd thou shouldst have been my Hamlet's wife;
+5348 
+5349 I thought thy bride-bed to have deck'd, sweet maid,
+5350 
+5351 And not have strew'd thy grave.
+5352 
+5353 Laer.
+5354 O, treble woe
+5355 
+5356 Fall ten times treble on that cursed head,
+5357 
+5358 Whose wicked deed thy most ingenious sense39
+5359 
+5360 Depriv'd thee of!—Hold off the earth a while,
+5361 
+5362 Till I have caught her once more in mine arms:
+5363 
+5364 [Leaps into the grave.]
+5365 
+5366 Now pile your dust upon the quick and dead,
+5367 
+5368 Till of this flat a mountain you have made,
+5369 
+5370 To o'ertop old Pelion,40 or the skyish head
+5371 
+5372 Of blue Olympus.
+5373 
+5374 Ham. (Advancing.) What is he whose grief
+5375 
+5376 Bears such an emphasis?—whose phrase of sorrow
+5377 
+5378 95
+5379 Conjures the wand'ring stars, and makes them stand
+5380 
+5381 Like wonder-wounded hearers?—this is I,
+5382 
+5383 Hamlet the Dane.
+5384 
+5385 Laer. (L., leaping from the grave.) The devil take thy soul!
+5386 
+5387 [Grappling with him.]
+5388 
+5389 Ham. (R.C.) Thou pray'st not well.
+5390 
+5391 I prithee, take thy fingers from my throat;
+5392 
+5393 For, though I am not splenetive and rash,
+5394 
+5395 Yet have I in me something dangerous,
+5396 
+5397 Which let thy wisdom fear: Hold off thy hand!
+5398 
+5399 King. Pluck them asunder.
+5400 
+5401 Queen. (C.)
+5402 Hamlet, Hamlet!
+5403 
+5404 Ham. (R.C.) Why, I will fight with him upon this theme
+5405 
+5406 Until my eyelids will no longer wag.
+5407 
+5408 Queen. O my son, what theme?
+5409 
+5410 Ham. I lov'd Ophelia: forty thousand brothers
+5411 
+5412 Could not, with all their quantity of love,
+5413 
+5414 Make up my sum.—What wilt thou do for her?
+5415 
+5416 Queen. O, he is mad, Laertes.
+5417 
+5418 Ham. Come, show me what thou'lt do:
+5419 
+5420 Wou'lt weep? wou'lt fight? wou'lt fast? wou'lt tear thyself?
+5421 
+5422 I'll do't.—Dost thou come here to whine?
+5423 
+5424 To outface me41 with leaping in her grave?
+5425 
+5426 Be buried quick with her, and so will I:
+5427 
+5428 And, if thou prate of mountains, let them throw
+5429 
+5430 Millions of acres on us, till our ground,42
+5431 
+5432 Singeing his pate against the burning zone,
+5433 
+5434 Make Ossa43 like a wart! Nay, an thou'lt mouth,
+5435 
+5436 I'll rant as well as thou.
+5437 
+5438 Queen.
+5439 This is mere madness:
+5440 
+5441 And thus a while the fit will work on him;
+5442 
+5443 Anon, as patient as the female dove,
+5444 
+5445 When that her golden couplets are disclos'd,44
+5446 
+5447 His silence will sit drooping.
+5448 
+5449 96Ham.
+5450 Hear you, sir;
+5451 
+5452 What is the reason that you use me thus?
+5453 
+5454 I lov'd you ever: But it is no matter;
+5455 
+5456 Let Hercules himself do what he may,
+5457 
+5458 The cat will mew,45 and dog will have his day.
+5459 
+5460 [Exit, R.H.]
+5461 
+5462 King. (C.) I pray thee, good Horatio, wait upon him.
+5463 
+5464 [Exit Horatio, R.H.]
+5465 
+5466 Good Gertrude, set some watch over your son,
+5467 
+5468 [Exit Queen, attended, R.H.]
+5469 
+5470 Strengthen your patience in our last night's speech;46
+5471 
+5472 [To Laertes.]
+5473 
+5474 We'll put the matter to the present push.—
+5475 
+5476 This grave shall have a living monument:47
+5477 
+5478 An hour of quiet shortly shall we see;
+5479 
+5480 Till then, in patience our proceeding be.
+5481 
+5482 [The characters group round the grave.]
+5483 
+5484 Scene II.—HALL IN THE CASTLE.
+5485 Enter Hamlet and Horatio (R.H.)
+5486 
+5487 Ham. But I am very sorry, good Horatio,
+5488 
+5489 That to Laertes I forgot myself;
+5490 
+5491 For by the image of my cause,48 I see
+5492 
+5493 The portraiture of his.
+5494 
+5495 Hor.
+5496 Peace! who comes here?
+5497 
+5498 Enter Osric (L.H.)
+5499 
+5500 Osr. Your lordship is right welcome back to Denmark.
+5501 
+5502 97Ham. (C.) I humbly thank you, sir.—Dost know this water-fly?49
+5503 
+5504 Hor. (R.) No, my good lord.
+5505 
+5506 Ham. Thy state is the more gracious; for 'tis a vice to know him.
+5507 
+5508 Osr. (L.) Sweet lord, if your lordship were at leisure, I should impart a thing to you from his majesty.
+5509 
+5510 Ham. I will receive it, sir, with all diligence of spirit.50 Your bonnet to his right use; 'tis for the head.
+5511 
+5512 Osr. I thank your lordship, 'tis very hot.
+5513 
+5514 Ham. No, believe me, 'tis very cold; the wind is northerly.
+5515 
+5516 Osr. It is indifferent cold, my lord, indeed.
+5517 
+5518 Ham. But yet, methinks it is very sultry and hot,51 for my complexion,—
+5519 
+5520 Osr. Exceedingly, my lord; it is very sultry, as 'twere,—I cannot tell how.—But, my lord, his majesty bade me signify to you, that he has laid a great wager on your head: Sir, this is the matter,—
+5521 
+5522 Ham. I beseech you, remember——
+5523 
+5524 [Hamlet moves him to put on his hat.]
+5525 
+5526 Osr. Nay, good my lord; for mine ease, in good faith.52 Sir, here is newly come to court Laertes; believe me, an absolute gentleman, full of most excellent differences, of very soft society and great showing:53 Indeed, to speak feelingly of him,54 he is the card or calendar of gentry,55 98for you shall find in him the continent of what part a gentleman would see.56
+5527 
+5528 Ham. What imports the nomination of this gentleman?57
+5529 
+5530 Osr. Of Laertes?
+5531 
+5532 Ham. Of him, sir.
+5533 
+5534 Osr. Sir, you are not ignorant of what excellence Laertes is—
+5535 
+5536 Ham. I dare not confess that, lest I should compare with him in excellence; but, to know a man well, were to know himself.58
+5537 
+5538 Osr. I mean, sir, for his weapon.
+5539 
+5540 Ham. What is his weapon?
+5541 
+5542 Osr. Rapier and dagger.
+5543 
+5544 Ham. That's two of his weapons: but, well.
+5545 
+5546 Osr. The king, sir, hath wagered with him six Barbary horses: against the which he has imponed,59 as I take it, six French rapiers and poignards, with their assigns, as girdle, hangers,60 or so: Three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit.61
+5547 
+5548 Ham. What call you the carriages?
+5549 
+5550 Osr. The carriages, sir, are the hangers.
+5551 
+5552 99Ham. The phrase would be more german62 to the matter, if we could carry cannon by our sides.
+5553 
+5554 Osr. The king, sir, hath laid, that in a dozen passes between yourself and him, he shall not exceed you three hits; and it would come to immediate trial, if your lordship would vouchsafe the answer.63
+5555 
+5556 Ham. How if I answer no?64
+5557 
+5558 Osr. I mean, my lord, the opposition of your person in trial.
+5559 
+5560 Ham. Sir, it is the breathing time of day with me; let the foils be brought, the gentleman willing, and the king hold his purpose, I will win for him if I can; if not, I will gain nothing but my shame and the odd hits.
+5561 
+5562 Osr. Shall I deliver you so?
+5563 
+5564 Ham. To this effect, sir; after what flourish your nature will.
+5565 
+5566 Osr. I commend my duty to your lordship.
+5567 
+5568 [Exit, L.H.]
+5569 
+5570 Hor. (R.) You will lose this wager, my lord.
+5571 
+5572 Ham. (C.) I do not think so; since he went into France, I have been in continual practice; I shall win at the odds.65 But thou wouldst not think how ill all's here about my heart: but it is no matter.
+5573 
+5574 Hor. Nay, good my lord.
+5575 
+5576 Ham. It is but foolery; but it is such a kind of gain-giving,66 as would, perhaps, trouble a woman.
+5577 
+5578 Hor. If your mind dislike any thing, obey it:67 I will forestall their repair hither, and say, you are not fit.
+5579 
+5580 Ham. Not a whit, we defy augury: there is a special providence in the fall of a sparrow.
+5581 
+5582 [Exeunt, L.H.]
+5583 
+5584 100
+5585 
+5586 Scene III.—ROOM IN THE CASTLE.
+5587 King and Queen, on a dais, Laertes (R.), Lords (R.), Ladies (L.), Osric (R.) and Attendants, with Foils, &c., discovered (R.H.); Tables (R. and L.)—Flourish of Trumpets.
+5588 
+5589 Enter Hamlet and Horatio (L.H.)
+5590 
+5591 King. Come, Hamlet, come, and take this hand from me.
+5592 
+5593 Ham. (offering his hand to Laertes)
+5594 
+5595 Give me your pardon, sir: I have done you wrong;
+5596 
+5597 But pardon it, as you are a gentleman.
+5598 
+5599 Let my disclaiming from a purpos'd evil
+5600 
+5601 Free me so far in your most generous thoughts,
+5602 
+5603 That I have shot my arrow o'er the house,
+5604 
+5605 And hurt my brother.
+5606 
+5607 Laer. (R.)
+5608 I am satisfied in nature,
+5609 
+5610 Whose motive, in this case, should stir me most
+5611 
+5612 To my revenge.
+5613 
+5614 I do receive your offer'd love like love,
+5615 
+5616 And will not wrong it.
+5617 
+5618 Ham.
+5619 I embrace it freely:
+5620 
+5621 And will this brother's wager frankly play.
+5622 
+5623 Give us the foils.
+5624 
+5625 Laer.
+5626 Come, one for me.
+5627 
+5628 Ham. I'll be your foil, Laertes: in mine ignorance
+5629 
+5630 Your skill shall, like a star i'the darkest night,
+5631 
+5632 Stick fiery off indeed.68
+5633 
+5634 Laer.
+5635 You mock me, sir.
+5636 
+5637 Ham. No, by this hand.
+5638 
+5639 King. Give them the foils, young Osric. Cousin Hamlet,
+5640 
+5641 You know the wager?
+5642 
+5643 Ham.
+5644 Very well, my lord;
+5645 
+5646 Your grace hath laid the odds o'the weaker side.
+5647 
+5648 King. I do not fear it; I have seen you both:
+5649 
+5650 But since he's better'd,69 we have therefore odds.
+5651 
+5652 101Laer. This is too heavy, let me see another.
+5653 
+5654 Ham. This likes me well. These foils have all a length?
+5655 
+5656 Osr. Ay, my good lord.
+5657 
+5658 King. Set me the stoups of wine70 upon that table.—
+5659 
+5660 [Pages exeunt R. and L.]
+5661 
+5662 If Hamlet give the first or second hit,
+5663 
+5664 Or quit71 in answer to the third exchange,
+5665 
+5666 Let all the battlements their ordnance fire;
+5667 
+5668 The king shall drink to Hamlet's better breath;
+5669 
+5670 And in the cup an union shall he throw,72
+5671 
+5672 Richer than that which four successive kings
+5673 
+5674 In Denmark's crown have worn.
+5675 
+5676 Pages return with wine.
+5677 
+5678 Give me the cup;
+5679 
+5680 And let the kettle73 to the trumpet speak,
+5681 
+5682 The trumpet to the cannoneer without,
+5683 
+5684 The cannons to the heavens, the heaven to earth,
+5685 
+5686 Now the king drinks to Hamlet.—Come, begin;
+5687 
+5688 And you, the judges, bear a wary eye.
+5689 
+5690 Ham. Come on, sir.
+5691 
+5692 Laer.
+5693 Come, my lord.
+5694 
+5695 [They play.]
+5696 
+5697 Ham.
+5698 One.
+5699 
+5700 Laer.
+5701 No.
+5702 
+5703 Ham.
+5704 Judgment.
+5705 
+5706 Osr. A hit, a very palpable hit.
+5707 
+5708 Laer.
+5709 Well:—again.
+5710 
+5711 King. Stay; give me drink. Hamlet, this pearl is thine;
+5712 
+5713 [Drops poison into the goblet.]
+5714 
+5715 Here's to thy health.
+5716 
+5717 [Pretends to drink.]
+5718 
+5719 [Trumpets sound; and cannon shot off within.]
+5720 
+5721 Give him the cup.
+5722 
+5723 102Ham. I'll play this bout first; set it by awhile.
+5724 
+5725 [Page places the goblet on table, L.]
+5726 
+5727 Come.
+5728 
+5729 Another hit; What say you?
+5730 
+5731 [They play.]
+5732 
+5733 Laer. A touch, a touch, I do confess.
+5734 
+5735 King. Our son shall win.
+5736 
+5737 Queen. The Queen carouses to thy fortune, Hamlet.74
+5738 
+5739 Ham. Good madam!——
+5740 
+5741 [Trumpets sound.]
+5742 
+5743 King.
+5744 Gertrude, do not drink.
+5745 
+5746 Queen. I have, my lord; I pray you, pardon me.
+5747 
+5748 King. It is the poison'd cup; it is too late.
+5749 
+5750 [Aside.]
+5751 
+5752 Laer. I'll hit him now
+5753 
+5754 And yet it is almost against my conscience.
+5755 
+5756 [Aside.]
+5757 
+5758 Ham. Come, for the third, Laertes: You do but dally;
+5759 
+5760 I pray you, pass with your best violence;
+5761 
+5762 I am afeard you make a wanton of me.75
+5763 
+5764 Laer. Say you so? come on.
+5765 
+5766 [They play.]
+5767 
+5768 [Laertes wounds Hamlet; then, in scuffling they change Rapiers, and Hamlet wounds Laertes.]
+5769 
+5770 King.
+5771 Part them; they are incensed.
+5772 
+5773 Ham. Nay, come, again.
+5774 
+5775 [The Queen falls back in her chair.]
+5776 
+5777 Osr. (Supporting Laertes, R.) Look to the queen there, ho!
+5778 
+5779 Hor. (Supporting Hamlet, L.) How is it, my lord?
+5780 
+5781 Osr. How is't, Laertes?
+5782 
+5783 Laer. Why, as a woodcock to my own springe,76 Osric;
+5784 
+5785 I am justly killed with mine own treachery.
+5786 
+5787 Ham. How does the queen?
+5788 
+5789 King.
+5790 She swoons to see them bleed.
+5791 
+5792 Queen. No, no, the drink, the drink,—O, my dear Hamlet,—
+5793 
+5794 The drink, the drink! I am poison'd.
+5795 
+5796 [The Queen is conveyed off the stage by her attendant Ladies, in a dying state, L.H.U.E.]
+5797 
+5798 103Ham. O villainy! Ho! let the doors be lock'd:
+5799 
+5800 Treachery! seek it out.
+5801 
+5802 [Laertes falls.]
+5803 
+5804 Laer. (R.) It is here, Hamlet: Hamlet, thou art slain;
+5805 
+5806 No medicine in the world can do thee good,
+5807 
+5808 In thee there is not half an hour's life;
+5809 
+5810 The treacherous instrument is in thy hand,
+5811 
+5812 Unbated and envenom'd:77 the foul practice78
+5813 
+5814 Hath turn'd itself on me; lo, here I lie,
+5815 
+5816 Never to rise again: Thy mother's poison'd:
+5817 
+5818 I can no more: the king, the king's to blame.
+5819 
+5820 Ham. The point
+5821 
+5822 Envenom'd too! Then, venom, to thy work.
+5823 
+5824 Here, thou incestuous, murd'rous, damnèd Dane,
+5825 
+5826 Follow my mother.
+5827 
+5828 [Stabs the King, who is borne away by his attendants, mortally wounded, R.H.U.E.]
+5829 
+5830 Laer.
+5831 He is justly serv'd;
+5832 
+5833 Exchange forgiveness with me, noble Hamlet:
+5834 
+5835 Mine and my father's death come not upon thee,
+5836 
+5837 Nor thine on me!
+5838 
+5839 [Dies.]
+5840 
+5841 Ham. (C.) Heaven make thee free of it! I follow thee.
+5842 
+5843 You that look pale and tremble at this chance,
+5844 
+5845 That are but mutes or audience to this act,
+5846 
+5847 Had I but time (as this fell sergeant, death,79
+5848 
+5849 Is strict in his arrest), O, I could tell you,—
+5850 
+5851 But let it be. Horatio,
+5852 
+5853 Report me and my cause aright
+5854 
+5855 To the unsatisfied.
+5856 
+5857 Hor. (L.)
+5858 Never believe it:
+5859 
+5860 I am more an antique Roman than a Dane:
+5861 
+5862 Here's yet some liquor left.
+5863 
+5864 [Seizing the goblet on table, L.]
+5865 
+5866 Ham.
+5867 As thou'rt a man,—
+5868 
+5869 Give me the cup: let go; by heaven, I'll have it.
+5870 
+5871 [Dashes the goblet away.]
+5872 
+5873 O good Horatio, what a wounded name,
+5874 
+5875 104
+5876 Things standing thus unknown, shall live behind me!80
+5877 
+5878 If thou didst ever hold me in thy heart,
+5879 
+5880 Absènt thee from felicity awhile,
+5881 
+5882 And in this harsh world draw thy breath in pain,
+5883 
+5884 To tell my story.—
+5885 
+5886 O, I die, Horatio;
+5887 
+5888 The potent poison quite o'er-crows my spirit;81
+5889 
+5890 The rest is silence.
+5891 
+5892 [Dies, C., Osric on his R., and Horatio on his L.]
+5893 
+5894 Dead March afar off.
+5895 
+5896 Curtain slowly descends.
+5897 
+5898 THE END.

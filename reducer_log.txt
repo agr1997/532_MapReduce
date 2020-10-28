@@ -1,8 +1,0 @@
-reducer 0 finished, stopping pinger
-reducer 1 finished, stopping pinger
-reducer 2 finished, stopping pinger
-reducer 3 finished, stopping pinger
-Received msg from server
-Received msg from server
-Received msg from server
-Received msg from server
